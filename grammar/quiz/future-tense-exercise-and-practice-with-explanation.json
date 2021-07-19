@@ -1,0 +1,112 @@
+[
+    {
+        "question": "1. I ________ call you back, when I get free.",
+        "options": [
+            "would",
+            "might",
+            "will",
+            "will be"
+        ],
+        "result": "will",
+        "explanation": "Explanation:  The sentence refers to a simple futuristic work."
+    },
+    {
+        "question": "2. I shall ________ the work before I leave my office.",
+        "options": [
+            "finish",
+            "have finished",
+            "finished",
+            "be finishing"
+        ],
+        "result": "have finished",
+        "explanation": "Explanation:  For Universal Truth, nothing but Present Indefinite Tense will be used."
+    },
+    {
+        "question": "3. We shall return before the sun ________.",
+        "options": [
+            "set",
+            "will set",
+            "is set",
+            "sets"
+        ],
+        "result": "sets",
+        "explanation": "Explanation:  "
+    },
+    {
+        "question": "4. By the time the guests arrive, I ________ the room.",
+        "options": [
+            "will cleaning",
+            "will be cleaned",
+            "will have cleaned",
+            "will clean"
+        ],
+        "result": "will have cleaned",
+        "explanation": "Explanation:  Future Indefinite + as soon as + Present Indefinite"
+    },
+    {
+        "question": "5. We are late. The film ________ by the time we get to the cinema.",
+        "options": [
+            "will already start",
+            "will be already started",
+            "will already have started",
+            "will already be starting"
+        ],
+        "result": "will already have started",
+        "explanation": "Explanation:  "
+    },
+    {
+        "question": "6. He\u2019ll give you a call as soon as ________ he.",
+        "options": [
+            "will arrive",
+            "arrives",
+            "is arriving",
+            "is going to arrive."
+        ],
+        "result": "arrives",
+        "explanation": "Explanation:  This sentence follows the structure of Future Perfect Tense."
+    },
+    {
+        "question": "7. ________ we get to the seminar, the presentation will have started.",
+        "options": [
+            "As soon as",
+            "By the time",
+            "Whenever",
+            "As"
+        ],
+        "result": "As soon as",
+        "explanation": "Explanation:  As the first part of the sentence is in past tense, the second part will also be in the past tense (will=would)."
+    },
+    {
+        "question": "8. By 9 O\u2019clock, we __________ our homework.",
+        "options": [
+            "have finished",
+            "are finished",
+            "will have finished",
+            "will have finish"
+        ],
+        "result": "will have finished",
+        "explanation": "Explanation:  Future Perfect Tense (sub + shall have \/will have + p.p. of verb+"
+    },
+    {
+        "question": "9. It seemed that ___________.",
+        "options": [
+            "the day will never end",
+            "the day would never end",
+            "the day never ends",
+            "the day never ended"
+        ],
+        "result": "the day would never end",
+        "explanation": null
+    },
+    {
+        "question": "10. She will have finished the job before ________.",
+        "options": [
+            "he come",
+            "he came",
+            "he has come",
+            "he comes"
+        ],
+        "result": "he comes",
+        "explanation": null
+    }
+]

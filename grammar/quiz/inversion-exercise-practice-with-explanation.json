@@ -1,0 +1,167 @@
+[
+    {
+        "question": "1. Rarely _______ anyone using typewriters now-a-days.",
+        "options": [
+            "you see",
+            "will you see",
+            "you will see",
+            "you have seen"
+        ],
+        "result": "will you see",
+        "explanation": "Explanation:  In English grammar, there are certain ways to repeat the first idea with"
+    },
+    {
+        "question": "2. ________ received law degrees as today.",
+        "options": [
+            "Never so many women have",
+            "Never have so many women",
+            "The women aren\u2019t ever",
+            "Women who have never"
+        ],
+        "result": "Never have so many women",
+        "explanation": null
+    },
+    {
+        "question": "3. _______ but also it filters out harmful rays.",
+        "options": [
+            "The environment gives us air to breathe",
+            "Not only the environment gives us air to breathe",
+            "The environment which gives us air to breathe",
+            "Not only does the environment give us air to breathe"
+        ],
+        "result": "Not only does the environment give us air to breathe",
+        "explanation": null
+    },
+    {
+        "question": "4. _______ have goods returned to us because they are faulty.",
+        "options": [
+            "Seldom we do",
+            "Seldom do we",
+            "Rarely we",
+            "Hardly we"
+        ],
+        "result": "Seldom do we",
+        "explanation": null
+    },
+    {
+        "question": "5. Hardly _______ entered the office when he realized that he had forgotten his wallet.",
+        "options": [
+            "he had ",
+            " he was ",
+            "had he ",
+            "did he"
+        ],
+        "result": "had he ",
+        "explanation": null
+    },
+    {
+        "question": "6. _______ did Jonathan realize that there was a danger.",
+        "options": [
+            "Upon entering the store",
+            "When he entered the store",
+            "After he has entered the store",
+            "Only after entering the store"
+        ],
+        "result": "Only after entering the store",
+        "explanation": null
+    },
+    {
+        "question": "7. Complete the sentence: Only after the food has been dried or canned_______.",
+        "options": [
+            "that it should be stored for later consumption",
+            " should be stored for later consumption",
+            "should it be stored for later consumption",
+            "it should be stored for later consumption"
+        ],
+        "result": "should it be stored for later consumption",
+        "explanation": null
+    },
+    {
+        "question": "8. _______ resigned, we would have been forced to sack him.",
+        "options": [
+            "Had he not",
+            "He had ",
+            " Had he",
+            "If he has not"
+        ],
+        "result": "Had he not",
+        "explanation": null
+    },
+    {
+        "question": "9. Times have changed and so_______.",
+        "options": [
+            "we have ",
+            "we are are",
+            "have we",
+            "are we"
+        ],
+        "result": "have we",
+        "explanation": null
+    },
+    {
+        "question": "10. He didn\u2019t know the answer, and_______.",
+        "options": [
+            "Neither can\u2019t I",
+            "So can\u2019t I",
+            "Neither can I",
+            "So can I"
+        ],
+        "result": "So can\u2019t I",
+        "explanation": null
+    },
+    {
+        "question": "11. Mendes can\u2019t type well, her sister_______.",
+        "options": [
+            "can either",
+            " neither can",
+            "either can\u2019t",
+            "can\u2019t either"
+        ],
+        "result": "can\u2019t either",
+        "explanation": null
+    },
+    {
+        "question": "12. Sweet _______ the uses of adversity.",
+        "options": [
+            "is",
+            "are",
+            "has",
+            "was"
+        ],
+        "result": "are",
+        "explanation": null
+    },
+    {
+        "question": "13. Never _______ such a heinous crime.",
+        "options": [
+            "he has committed",
+            "has he done",
+            " he has done",
+            "has he committed"
+        ],
+        "result": "has he committed",
+        "explanation": null
+    },
+    {
+        "question": "14. My friend doesn\u2019t like fish and _______.",
+        "options": [
+            "neither I do",
+            "neither do I",
+            "I do ",
+            "I do either"
+        ],
+        "result": "neither do I",
+        "explanation": null
+    },
+    {
+        "question": "15. Pioneer men and women endured terrible hardships, and _______.",
+        "options": [
+            " so do their children",
+            "neither did the children",
+            "so did their children",
+            " so the children did"
+        ],
+        "result": "so did their children",
+        "explanation": null
+    }
+]

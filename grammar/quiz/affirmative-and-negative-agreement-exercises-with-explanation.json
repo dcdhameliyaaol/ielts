@@ -1,0 +1,167 @@
+[
+    {
+        "question": "1. \u201cThey should obey their teacher. You should obey your teacher.\u201d What will be the correct affirmative agreement of the sentence?",
+        "options": [
+            "They should obey their teacher, and you should obey too.",
+            "They should obey their teacher, and so should you.",
+            "You should obey your teacher, and they should too.",
+            "They should obey their teacher, and so that should you."
+        ],
+        "result": "They should obey their teacher, and so should you.",
+        "explanation": "Explanation:  Correct formation for this agreement is \u201cnegative agreement + and +"
+    },
+    {
+        "question": "2. \u201cI walk to the theatre, and _____________.\u201d Fill in the blank with the appropriate word.",
+        "options": [
+            "my sisters also do walk",
+            "my sisters too also do walk",
+            "so do my sisters",
+            "my sisters also do too"
+        ],
+        "result": "so do my sisters",
+        "explanation": null
+    },
+    {
+        "question": "3. \u201cI need to go to the dentist, and so does my wife.\u201d \u2013Choose the correct alternative affirmative agreement of the statement.",
+        "options": [
+            "I need to go to the dentist, and my wife does too.",
+            "I need to go to the dentist, and my wife also has to.",
+            " I need to go to the dentist and my wife will need to.",
+            "I need to go to the dentist, and my wife also does too."
+        ],
+        "result": "I need to go to the dentist, and my wife does too.",
+        "explanation": null
+    },
+    {
+        "question": "4. \u201cTaylor has already solved her math problems, and __________________.\u201d \u2013Choose an option to fill the blank correctly.",
+        "options": [
+            " her friends have also",
+            "so have her friends too",
+            "her friends also have",
+            "so have her friends"
+        ],
+        "result": "so have her friends",
+        "explanation": null
+    },
+    {
+        "question": "5. Combine the sentences with the appropriate use of agreement statement: \u201cTheir plane is arriving at eleven o\u2019clock. My plane will also arrive at the same time as theirs.\u201d",
+        "options": [
+            "Their plane is arriving at eleven o\u2019clock and my plane also.",
+            "Their plane is arriving at eleven o\u2019clock and so does my plane.",
+            "Their plane is arriving at eleven o\u2019clock and my plane will also.",
+            "Their plane is arriving at eleven o\u2019clock and so is my plane."
+        ],
+        "result": "Their plane is arriving at eleven o\u2019clock and so is my plane.",
+        "explanation": null
+    },
+    {
+        "question": "6. \u201cHe has taken his dinner late in the midnight and so _______ I.\u201d \u2013Choose the correct auxiliary to fill in the blank.",
+        "options": [
+            "do",
+            "have",
+            "has",
+            "will"
+        ],
+        "result": "has",
+        "explanation": null
+    },
+    {
+        "question": "7. \u201cMy car should have its windshield replaced and your car should have also.\u201d-Rewrite the sentence correctly.",
+        "options": [
+            "My car should have its windshield replaced and your car should have also.",
+            "My car should have its windshield replaced and your car should too.",
+            "My car should have its windshield replaced and so your car has also.",
+            "My car should have its windshield replaced and so your car should."
+        ],
+        "result": "My car should have its windshield replaced and your car should too.",
+        "explanation": null
+    },
+    {
+        "question": "8. Choose the incorrect affirmative agreement.",
+        "options": [
+            "Jacky wrote to the Mayor and Sammy wrote too.",
+            "Jacky wrote to the Mayor and Sammy did write too.",
+            "Jacky wrote to the Mayor and Sammy did too.",
+            "Jacky wrote to the Mayor and Sammy also wrote to the Mayor."
+        ],
+        "result": "Jacky wrote to the Mayor and Sammy did too.",
+        "explanation": null
+    },
+    {
+        "question": "9. Combine the sentences to avoid unnecessary repetition of words: \u201cI didn\u2019t have my breakfast today. Rihanna didn\u2019t have her breakfast today.\u201d",
+        "options": [
+            "I and Rihanna didn\u2019t have our breakfast today.",
+            "Rihanna and I didn\u2019t have our breakfast today.",
+            " I didn\u2019t have my breakfast today, and neither didn\u2019t Rihanna.",
+            "I didn\u2019t have my breakfast today, and Rihanna didn\u2019t either."
+        ],
+        "result": "I didn\u2019t have my breakfast today, and Rihanna didn\u2019t either.",
+        "explanation": null
+    },
+    {
+        "question": "10. Fill in the blank with the appropriate word: \u201cThe children shouldn\u2019t eat that meatball, and _________ should he.\u201d",
+        "options": [
+            "neither",
+            "either",
+            "not",
+            "none of the above"
+        ],
+        "result": "neither",
+        "explanation": null
+    },
+    {
+        "question": "11. \u201cMarie doesn\u2019t speak French, and her family doesn\u2019t either.\u201d \u2013Choose the correct alternative for this statement.",
+        "options": [
+            "Marie doesn\u2019t speak French, and her family doesn\u2019t neither.",
+            "Marie doesn\u2019t speak French, and so doesn\u2019t her family.",
+            "Marie doesn\u2019t speak French, and neither does her family.",
+            "Marie doesn\u2019t speak French, and neither doesn\u2019t her family."
+        ],
+        "result": "Marie doesn\u2019t speak French, and neither does her family.",
+        "explanation": null
+    },
+    {
+        "question": "12. \u201cThe students won\u2019t accept the dean\u2019s decision, and ___________.\u201d \u2013Replace the blank with an appropriate option.",
+        "options": [
+            "neither won\u2019t the faculty",
+            "the faculty won\u2019t either",
+            "none the faculty",
+            "neither the faculty will"
+        ],
+        "result": "the faculty won\u2019t either",
+        "explanation": null
+    },
+    {
+        "question": "13. \u201cSelena couldn\u2019t attend the lecture, and her sister shouldn\u2019t either.\u201d \u2013Rewrite the sentence correctly.",
+        "options": [
+            "Selena couldn\u2019t attend the lecture, and her sister couldn\u2019t either.",
+            "Selena couldn\u2019t attend the lecture, and her sister mightn\u2019t either.",
+            "Selena couldn\u2019t attend the lecture, and her sister hadn\u2019t either.",
+            "Selena couldn\u2019t attend the lecture, and her sister wouldn\u2019t either."
+        ],
+        "result": "Selena couldn\u2019t attend the lecture, and her sister couldn\u2019t either.",
+        "explanation": null
+    },
+    {
+        "question": "14. \u201cWalker won\u2019t be going to the seminar, and _______________.\u201d \u2013Choose an appropriate option to fill in the blank.",
+        "options": [
+            "his colleagues will neither",
+            "neither won\u2019t his colleagues",
+            " his colleagues won\u2019t either",
+            "neither his colleagues will"
+        ],
+        "result": " his colleagues won\u2019t either",
+        "explanation": null
+    },
+    {
+        "question": "15. \u201cYour class hasn\u2019t begun yet, and______________.\u201d \u2013Fill in the blank with an appropriate option of the followings.",
+        "options": [
+            "neither have mine",
+            "neither have I",
+            "I haven\u2019t either",
+            "mine either haven\u2019t"
+        ],
+        "result": "neither have mine",
+        "explanation": null
+    }
+]

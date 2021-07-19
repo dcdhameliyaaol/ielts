@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. We tried to make sandwiches __________, but the sandwiches were dry and the frosting drippy, so we bought a dozen from the bakery instead.",
+        "options": [
+            "ourself",
+            "ourselves",
+            "himself",
+            "yourself"
+        ],
+        "result": "ourselves",
+        "explanation": "Explanation:  The sentences an object to complete and us is an objective pronoun."
+    },
+    {
+        "question": "2. In an angry whisper, Joana asked us to put down our drinks. __________ slurping was drawing angry looks from the test proctor, which made consulting her cheat sheet more dangerous.",
+        "options": [
+            "us",
+            " her ",
+            " our",
+            " his"
+        ],
+        "result": " our",
+        "explanation": "Explanation:  The gerund gossiping requires the possessive pronoun their."
+    },
+    {
+        "question": "3. To complete our Egyptian mummy costumes, Henderson, Johnny and __________ purchased a twenty pack of toilet roll.",
+        "options": [
+            "myself",
+            "him",
+            "I",
+            "me"
+        ],
+        "result": "I",
+        "explanation": "Explanation:  The verb waited needs a subject, and they is a subjective pronoun."
+    },
+    {
+        "question": "4. See that young lady smacking her lips? It might have been __________ who stole your jelly donut.",
+        "options": [
+            "she",
+            "her",
+            "hers",
+            "herself "
+        ],
+        "result": "she",
+        "explanation": "Explanation:  After the preposition \u2018at\u2019 we need to use an objective pronoun. Besides,"
+    },
+    {
+        "question": "5. The bakery manager told __________ shoppers that fresh chocolate-broccohli muffins were ready to purchase.",
+        "options": [
+            "we",
+            "them ",
+            "us",
+            "ours"
+        ],
+        "result": "us",
+        "explanation": null
+    },
+    {
+        "question": "6. Oblivious to the consequences, Erica and Teresa spend all of history class chattering in the back row. __________constant gossiping inspires Mrs. David to look extra hard for points to deduct when s",
+        "options": [
+            "they",
+            "their",
+            "them",
+            "theirs"
+        ],
+        "result": "their",
+        "explanation": null
+    },
+    {
+        "question": "7. Neither __________ nor Tom knew the answer to question no 8 on the sudden test.",
+        "options": [
+            "her",
+            "hers",
+            "herself ",
+            "she"
+        ],
+        "result": "she",
+        "explanation": null
+    },
+    {
+        "question": "8. See those students over there? __________ will join you for a game if you want to share your basketball.",
+        "options": [
+            "They and I",
+            "They and me",
+            " I and they",
+            "I and them"
+        ],
+        "result": "They and I",
+        "explanation": null
+    },
+    {
+        "question": "9. Kelvin has so much hair that he must buy a new bottle of shampoo every week. I wouldn\u2019t want to have as much hair as __________.",
+        "options": [
+            "himself ",
+            "his",
+            "him",
+            "he"
+        ],
+        "result": "he",
+        "explanation": null
+    },
+    {
+        "question": "10. I didn\u2019t spill that coffee on your essay! It was __________, that blonde sipping the cappuccino and flirting with Carlos.",
+        "options": [
+            "hers",
+            "she",
+            "him",
+            "I"
+        ],
+        "result": "she",
+        "explanation": null
+    },
+    {
+        "question": "11. Adolf, who is a brilliant student, photocopied his records for those of us who missed the class; __________ receivers loved the help.",
+        "options": [
+            "she",
+            "we",
+            "us",
+            "our"
+        ],
+        "result": "we",
+        "explanation": null
+    },
+    {
+        "question": "12. That man over there was lurking near the coat rack. It might have been __________ who stole the bag of pretzels from your jacket pocket!",
+        "options": [
+            "he",
+            "himself ",
+            "it",
+            "she"
+        ],
+        "result": "he",
+        "explanation": null
+    },
+    {
+        "question": "13. Sasha shushed the two students sitting behind him. __________knuckle breaking and gum thrashing were making him outrageous as he tried to concentrate on the upcoming project.",
+        "options": [
+            "they",
+            "their",
+            "them",
+            "themselves "
+        ],
+        "result": "their",
+        "explanation": null
+    },
+    {
+        "question": "14. Emeritus Professor Johnson finally conceded and gave __________ students the 20 bonus points if we could silence our mobile phones for five days of class.",
+        "options": [
+            "our",
+            "we",
+            "us",
+            "him"
+        ],
+        "result": "us",
+        "explanation": null
+    },
+    {
+        "question": "15. The stranger wore a heavy fleece hoody. Mendes squeezed in between __________ and Joss because his thin cotton shirt propounded no protection from the fall\u2019s first cold snap.",
+        "options": [
+            "her",
+            "hers",
+            "their",
+            "I"
+        ],
+        "result": "her",
+        "explanation": null
+    },
+    {
+        "question": "16. We can't imagine you ate the surplus Korean food! We are famishing, and it was __________!",
+        "options": [
+            "our",
+            "their",
+            "ours",
+            "ourselves "
+        ],
+        "result": "ours",
+        "explanation": null
+    },
+    {
+        "question": "17. The students milled around the parking lot. __________ waited for the fire marshal to declare the alarm a prank and allow everyone back into the classrooms.",
+        "options": [
+            "their professors and we",
+            "their professors and they",
+            "their professors and them",
+            "them and their professors"
+        ],
+        "result": "their professors and they",
+        "explanation": null
+    },
+    {
+        "question": "18. Ben left the room in a fit of pique because __________ crunching popcorn was meddling with his meditation.",
+        "options": [
+            "our",
+            "we",
+            "mine",
+            "us"
+        ],
+        "result": "our",
+        "explanation": null
+    },
+    {
+        "question": "19. The hungry angel fish pecked at the aquarium glass. Lucia was unaware of __________ and their needs, intent as she was on finishing her writing.",
+        "options": [
+            "they",
+            "their",
+            "that",
+            "them"
+        ],
+        "result": "them",
+        "explanation": null
+    },
+    {
+        "question": "20. The driver in front slammed on his brakes for no reason and sat in the middle of the road. Jasmine waved an angry fist at his passenger and __________ as she drove around.",
+        "options": [
+            "he",
+            "himself ",
+            "him",
+            "itself "
+        ],
+        "result": "him",
+        "explanation": null
+    }
+]

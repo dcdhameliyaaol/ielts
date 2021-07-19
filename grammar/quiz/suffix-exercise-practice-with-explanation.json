@@ -1,0 +1,167 @@
+[
+    {
+        "question": "1. Which of the following cannot use the suffix \u2018\u2013ive\u2019?",
+        "options": [
+            "impress",
+            "commerce",
+            "conclusion",
+            "decision"
+        ],
+        "result": "commerce",
+        "explanation": "Explanation:  Impress-impressive; commerce-commercial; conclusion-conclusive; decision- decisive. So after commerce, the prefix \u2018-ive\u2019 can\u2019t be used"
+    },
+    {
+        "question": "2. The verb \u2018survive\u2019 can be changed into a noun by adding______.",
+        "options": [
+            "a suffix",
+            "a prefix",
+            "a syllable",
+            "an auxiliary"
+        ],
+        "result": "a suffix",
+        "explanation": "Explanation:  By adding the prefix \u2018al\u2019 to the word \u2018survive\u2019, it can be changed into a noun (survival)."
+    },
+    {
+        "question": "3. The suffix \u2018ful\u2019 cannot be used with which noun below to turn it into an adjective?",
+        "options": [
+            "wisdom",
+            "wrath",
+            "beauty",
+            "success"
+        ],
+        "result": "wisdom",
+        "explanation": "Explanation:  The word \u2018wisdom\u2019 is a noun which means \u2018the state of being wise\u2019; the adjective form of the word is \u2018wisdom-less\u2019."
+    },
+    {
+        "question": "4. Which of the following suffix is used to make verb?",
+        "options": [
+            "-ment",
+            "-ical",
+            "-less",
+            "-en"
+        ],
+        "result": "-en",
+        "explanation": "Explanation:  Of the given options, the verb suffix is \u2018-en\u2019. Examples: blacken, brighten, deepen, sharpen, etc."
+    },
+    {
+        "question": "5. The suffix \u2018-dom\u2019 is used after which of the following word?",
+        "options": [
+            "answer",
+            "hope",
+            "beauty",
+            "star"
+        ],
+        "result": "star",
+        "explanation": "Explanation:  \u2018Stardom\u2019 is a noun which means having popularity among fans as a star. "
+    },
+    {
+        "question": "6. Which of the following suffix is used to change a word into an adverb?",
+        "options": [
+            "-ish",
+            "-ity",
+            "-wards",
+            "-ify"
+        ],
+        "result": "-wards",
+        "explanation": "Explanation:  Afterwards, backward, forwards are examples of adverbs that are comprised of the suffix \u2018wards\u2019."
+    },
+    {
+        "question": "7. She is rather _________, which is obsolete for someone in her position where important decisions have to be passed every hour.",
+        "options": [
+            "decisive",
+            "deciding",
+            "indecisive",
+            "defective"
+        ],
+        "result": "indecisive",
+        "explanation": "Explanation:  The sentence implies an adjective with negative meaning and indecisive completes the sentence perfectly."
+    },
+    {
+        "question": "8. Not many people are __________ in well-off nations these days, but in the past only the solvent could write and read.",
+        "options": [
+            "literate",
+            "illiterate",
+            "critical",
+            "brighten"
+        ],
+        "result": "illiterate",
+        "explanation": "Explanation:  Illiterate is a verb which is consisted of the suffix \u2018-ate\u2019. Other words are not applicable as they don\u2019t fit with the meaning of the sentence."
+    },
+    {
+        "question": "9. We pay everyone the same compensation for this job_____ of age, qualifications or background.",
+        "options": [
+            "regarding",
+            "hopeless",
+            "aimless",
+            "regardless"
+        ],
+        "result": "regardless",
+        "explanation": "Explanation:  The prefix \u2018less\u2019 usually refers to a lack of something; regardless means having or showing no regard."
+    },
+    {
+        "question": "10. The research project was never finished due to a ______ of funds.",
+        "options": [
+            "equality",
+            "scarcity",
+            "enormity",
+            "validity"
+        ],
+        "result": "scarcity",
+        "explanation": "Explanation:  Of the options, the word \u2018scarcity\u2019 consists of a noun suffix \u2018ity\u2019 and it refers to the lack or shortage of something (fund here)."
+    },
+    {
+        "question": "11. There is a __________ on the portion of the personnel to welcome the changes.",
+        "options": [
+            "nuisance",
+            "ambience",
+            "reluctance",
+            "tolerance"
+        ],
+        "result": "reluctance",
+        "explanation": "Explanation:  The best fitting option for the blank is \u2018reluctance\u2019. The word is formed of noun suffix \u2018-ance\u2019."
+    },
+    {
+        "question": "12. There is no _________ among the top ten students.",
+        "options": [
+            "similarity",
+            "fitness",
+            "likewise",
+            "collaborate"
+        ],
+        "result": "similarity",
+        "explanation": "Explanation:  The blank here needs a noun and similarity fits best for the sentence. Other options are inappropriate. "
+    },
+    {
+        "question": "13. He had a ________ for ice cream and chocolate.",
+        "options": [
+            "meanness",
+            "weakness",
+            "fearless",
+            "fitness"
+        ],
+        "result": "weakness",
+        "explanation": "Explanation:  The meaning of the sentence demands a noun to fill the blank. Weakness (suffix \u2013ness) suits well than any other options given."
+    },
+    {
+        "question": "14. We've gained no ___________ of this responsibility.",
+        "options": [
+            "acknowledgement ",
+            "inward",
+            "musical",
+            "grotesque"
+        ],
+        "result": "acknowledgement ",
+        "explanation": "Explanation:  We\u2019ll need a noun to complete the sentence. Acknowledgment is the only noun here which consists of the prefix \u2018-ment\u2019."
+    },
+    {
+        "question": "15. In a ______________ from the common ceremony at these events, Her Majesty then detached her crown and posed for camera persons.",
+        "options": [
+            "departure",
+            "departing",
+            "departure",
+            "departed"
+        ],
+        "result": "departure",
+        "explanation": "Explanation:  A noun is generally used after article. \u2018Departure\u2019 is the only noun here. The word \u2018departure\u2019 comprises the suffix \u2018-ture\u2019.  "
+    }
+]

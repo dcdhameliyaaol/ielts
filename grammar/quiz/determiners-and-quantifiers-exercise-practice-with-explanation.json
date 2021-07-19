@@ -1,0 +1,277 @@
+[
+    {
+        "question": "1. Give me ____ money I owe you.",
+        "options": [
+            "which",
+            "the",
+            "a",
+            "an"
+        ],
+        "result": "the",
+        "explanation": "Explanation:  Definite article indicates the exact amount of the money here."
+    },
+    {
+        "question": "2. I want ____ boat which would take me to the island.",
+        "options": [
+            "the",
+            "an",
+            "those ",
+            " a"
+        ],
+        "result": " a",
+        "explanation": "Explanation:  Indefinite article indicates what is needed but doesn\u2019t point out which one."
+    },
+    {
+        "question": "3. ____ pen is not working properly.",
+        "options": [
+            "Mine",
+            "Their",
+            "My",
+            "Our"
+        ],
+        "result": "My",
+        "explanation": "Explanation:  Here the possessive adjective \u2018my\u2019 is modifying the noun \u2018pen\u2019."
+    },
+    {
+        "question": "4. I love ____ book.",
+        "options": [
+            "these",
+            "this",
+            "those",
+            "what"
+        ],
+        "result": "this",
+        "explanation": "Explanation:  Here demonstrative determiner \u2018this\u2019 is modifying the noun \u2018book\u2019."
+    },
+    {
+        "question": "5. ____ qualifications do you have?",
+        "options": [
+            "What",
+            "Which",
+            "Any",
+            "Those"
+        ],
+        "result": "What",
+        "explanation": "Explanation:  Here the interrogative determiner \u2018what\u2019 modifies the noun \u2018qualifications\u2019"
+    },
+    {
+        "question": "6. ____ people do not care about their hygiene.",
+        "options": [
+            "Much",
+            "Little",
+            "Many",
+            "Any"
+        ],
+        "result": "Many",
+        "explanation": "Explanation:  Here \u2018many\u2019 is a quantifier which modifies the countable noun \u2018people\u2019"
+    },
+    {
+        "question": "7. Could you pour me ____ water, please?",
+        "options": [
+            "many",
+            "few",
+            "these",
+            "some"
+        ],
+        "result": "some",
+        "explanation": "Explanation:  Here \u2018some\u2019 is a quantifier which modifies the uncountable noun \u2018water\u2019."
+    },
+    {
+        "question": "8. Only ____ employee knew how important the project was.",
+        "options": [
+            "a few",
+            "a little",
+            "little",
+            "few"
+        ],
+        "result": "a few",
+        "explanation": "Explanation:  Here \u2018a few\u2019 is the quantifier which modifies the countable noun \u2018employee\u2019."
+    },
+    {
+        "question": "9. ____ determination is needed to fulfill the target.",
+        "options": [
+            "Most",
+            "Many",
+            "Much",
+            "Few"
+        ],
+        "result": "Much",
+        "explanation": "Explanation:  Here the quantifier \u2018much\u2019 modifies the uncountable noun \u2018determination\u2019."
+    },
+    {
+        "question": "10. ____ dress did you get for her birthday?",
+        "options": [
+            "What",
+            "This",
+            "Its",
+            "Which"
+        ],
+        "result": "Which",
+        "explanation": "Explanation:  Here the interrogative demonstrative \u2018which\u2019 modifies the noun \u2018dress\u2019."
+    },
+    {
+        "question": "11. Here the interrogative demonstrative \u2018which\u2019 modifies the noun \u2018dress\u2019.",
+        "options": [
+            "whose",
+            "your",
+            "those",
+            "that"
+        ],
+        "result": "your",
+        "explanation": "Explanation:  Here the possessive determiner \u2018your\u2019 modifies the noun \u2018assistance\u2019."
+    },
+    {
+        "question": "12. ____ attitude is not helping with the overall situation.",
+        "options": [
+            "Her",
+            "Its",
+            "Whose",
+            "This"
+        ],
+        "result": "Her",
+        "explanation": "Explanation:  Here the possessive determiner \u2018her\u2019 is modifying the noun \u2018attitude\u2019."
+    },
+    {
+        "question": "13. ____ bikes are not parked properly.",
+        "options": [
+            "That",
+            "This",
+            "Those",
+            "Whose"
+        ],
+        "result": "Those",
+        "explanation": "Explanation:  Here the demonstrative determiner \u2018those\u2019 modifies the noun \u2018bikes\u2019."
+    },
+    {
+        "question": "14. ____ team is well trained to face any opponents.",
+        "options": [
+            "Our",
+            "Its",
+            "Whose",
+            "These"
+        ],
+        "result": "Our",
+        "explanation": "Explanation:  Here the possessive determiner \u2018our\u2019 modifies the noun \u2018team\u2019."
+    },
+    {
+        "question": "15. ____ flowers are not for sale.",
+        "options": [
+            "This",
+            "That",
+            "These",
+            "Which"
+        ],
+        "result": "These",
+        "explanation": "Explanation:  Here the demonstrative determiner \u2018these\u2019 modifies the noun \u2018flowers\u2019."
+    },
+    {
+        "question": "16. ____ story was not finished yet.",
+        "options": [
+            "What",
+            "An",
+            "A",
+            "The"
+        ],
+        "result": "The",
+        "explanation": "Explanation:  Here the definite article \u2018the\u2019 modifies the noun \u2018story\u2019."
+    },
+    {
+        "question": "17. He was looking for ____ umbrella.",
+        "options": [
+            "an",
+            "a",
+            "those",
+            "These"
+        ],
+        "result": "an",
+        "explanation": "Explanation:  Here the indefinite article \u2018an\u2019 modifies the noun \u2018umbrella\u2019."
+    },
+    {
+        "question": "18. ____ book is this?",
+        "options": [
+            "What",
+            "Whose",
+            "Which",
+            "it&#039;s"
+        ],
+        "result": "Whose",
+        "explanation": "Explanation:  Here the possessive determiner \u2018whose\u2019 modifies the noun \u2018book\u2019."
+    },
+    {
+        "question": "19. The bank confiscated ____ properties.",
+        "options": [
+            "whose",
+            "its",
+            "his",
+            "these"
+        ],
+        "result": "his",
+        "explanation": "Explanation:  Here the possessive determiner \u2018his\u2019 modifies the noun \u2018properties\u2019."
+    },
+    {
+        "question": "20. I used to live in ____ house.",
+        "options": [
+            "those",
+            "these",
+            "which",
+            "that"
+        ],
+        "result": "that",
+        "explanation": "Explanation:  Here the demonstrative determiner \u2018that\u2019 modifies the noun \u2018house\u2019."
+    },
+    {
+        "question": "21. ____ goals do you have in your life?",
+        "options": [
+            "Which",
+            "Those",
+            "What",
+            "That"
+        ],
+        "result": "What",
+        "explanation": "Explanation:  Here the interrogative determiner \u2018what\u2019 modifies the noun \u2018goals\u2019."
+    },
+    {
+        "question": "22. ____ of them were able to come up with any solutions.",
+        "options": [
+            "Few",
+            "None",
+            "Much",
+            "Little"
+        ],
+        "result": "None",
+        "explanation": "Explanation:  Here the quantifier \u2018none\u2019 modifies the countable noun \u2018them\u2019."
+    },
+    {
+        "question": "23. ____ people died in the accident.",
+        "options": [
+            "much",
+            "A little",
+            "A large amount of",
+            "Two"
+        ],
+        "result": "Two",
+        "explanation": "Explanation:  Here the cardinal number \u2018two\u2019 modifies the countable noun \u2018people\u2019."
+    },
+    {
+        "question": "24. ____ water was evaporated due to excessive heat.",
+        "options": [
+            "A large number of",
+            "A lot of",
+            "A large amount of",
+            "Many"
+        ],
+        "result": "A large amount of",
+        "explanation": "Explanation:  Here the quantifier \u2018a large amount of\u2019 modifies the uncountable noun water."
+    },
+    {
+        "question": "25. This club needs to win ____ trophies in order to be regarded as one the best club in Europe.",
+        "options": [
+            "some",
+            "much",
+            "a large amount of",
+            "a lot of"
+        ],
+        "result": "a lot of",
+        "explanation": "Explanation:  Here the quantifier \u2018a lot of\u2019 modifies the countable noun \u2018trophies\u2019. "
+    }
+]

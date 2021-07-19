@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. \u2018This is an American boy.\u2019 - Which word is a proper adjective in this sentence?",
+        "options": [
+            "This",
+            "An",
+            "American",
+            "Boy"
+        ],
+        "result": "American",
+        "explanation": "Explanation:  The whole sentence described a feature of the people who are conservative."
+    },
+    {
+        "question": "2. Fill in the blank using an appropriate type of adjective: \u2026\u2026\u2026\u2026.. people do not like the concept of free thinking.",
+        "options": [
+            "Conservative",
+            "Frugal",
+            "Good",
+            "Well"
+        ],
+        "result": "Conservative",
+        "explanation": "Explanation:  Choice (c) modifies the pronoun \u2018she\u2019."
+    },
+    {
+        "question": "3. Fill in the blank using an appropriate type of adjective: Lilly is an exceptionally \u2026\u2026\u2026 girl.",
+        "options": [
+            "Exceptional",
+            "That ",
+            "Every",
+            "Clever"
+        ],
+        "result": "Clever",
+        "explanation": "Explanation:  The word \u2018hot\u2019 modifies the noun \u2018milk\u2019."
+    },
+    {
+        "question": "4. She is very beautiful but lazy. - Which word is an adjective in this sentence?",
+        "options": [
+            "She",
+            "Very",
+            "Beautiful",
+            "But"
+        ],
+        "result": "Beautiful",
+        "explanation": "Explanation:  The word \u2018some\u2019 modifies the noun \u2018rice\u2019 by indicating an indefinite quantity of it."
+    },
+    {
+        "question": "5. Fill in the blank using an appropriate type of adjective: The rich are not always \u2026\u2026\u2026.",
+        "options": [
+            "Rich",
+            "Happiness",
+            "Happy",
+            "Sorrow"
+        ],
+        "result": "Happy",
+        "explanation": "Explanation:  \u2018His\u2019 is a possessive adjective which modifies the noun \u2018wealth\u2019 by indicating its possession."
+    },
+    {
+        "question": "6. Billy drinks hot milk. - Which word is an adjective in this sentence?",
+        "options": [
+            "Billy",
+            "Drinks",
+            "Hot",
+            " Milk"
+        ],
+        "result": "Hot",
+        "explanation": "Explanation:  The blank requires a demonstrative adjective; not a quantitative adjective."
+    },
+    {
+        "question": "7. Fill in the blank using an appropriate type of adjective: The boy wants a \u2026\u2026\u2026. sugar in his tea.",
+        "options": [
+            "Hot",
+            "Cold",
+            "Sweet",
+            "Little"
+        ],
+        "result": "Little",
+        "explanation": "Explanation:  All the articles are adjectives."
+    },
+    {
+        "question": "8. I ate some rice. - Which word is an adjective in this sentence?",
+        "options": [
+            "I",
+            "Ate",
+            "Rich ",
+            "Some"
+        ],
+        "result": "Some",
+        "explanation": "Explanation:  \u2018Some\u2019 modifies the noun \u2018boys\u2019. It\u2019s an indefinite adjective."
+    },
+    {
+        "question": "9. He has lost all his wealth. - Which word is an adjective in this sentence?",
+        "options": [
+            "Lost",
+            " Wealth",
+            "His",
+            " Has"
+        ],
+        "result": "His",
+        "explanation": "Explanation:  Only \u2018lemon\u2019 before the word \u2018trees\u2019 creates a sense in the sentence."
+    },
+    {
+        "question": "10. Four girls are in the common room. - Which word is an adjective in this sentence?",
+        "options": [
+            " Four ",
+            "Girls",
+            "In",
+            " Room"
+        ],
+        "result": " Four ",
+        "explanation": "Explanation:  The word \u2018enough\u2019 modifies the noun \u2018spoons\u2019. \u2018Enough\u2019 is an indefinite adjective."
+    },
+    {
+        "question": "11. Fill in the blank using an appropriate type of adjective: \u2018The first boy has stood third \u2026\u2026\u2026.. time.\u2019",
+        "options": [
+            "First ",
+            " Second ",
+            "Third ",
+            " This"
+        ],
+        "result": " This",
+        "explanation": "Explanation:  \u2018Either\u2019 is an indefinite adjective that modifies the noun \u2018side\u2019 in this sentence."
+    },
+    {
+        "question": "12. Not a single boy is in the classroom. - Which word is an adjective in this sentence?",
+        "options": [
+            "Classroom",
+            "Boy",
+            "Is",
+            "The"
+        ],
+        "result": "The",
+        "explanation": "Explanation:  The blank requires a quantitative adjective before the uncountable noun - \u2018sugar\u2019. "
+    },
+    {
+        "question": "13. Some boys are clever, not all. Which word is an adjective in this sentence?",
+        "options": [
+            "Boys",
+            "Some",
+            "Are",
+            "All"
+        ],
+        "result": "Some",
+        "explanation": null
+    },
+    {
+        "question": "14. Fill in the blank using an appropriate type of adjective: Are there any \u2026\u2026\u2026\u2026 trees in the garden?",
+        "options": [
+            "One ",
+            "Bad",
+            "Mature",
+            " Lemon"
+        ],
+        "result": " Lemon",
+        "explanation": null
+    },
+    {
+        "question": "15. There are enough spoons on the table. - Which word is an adjective in this sentence?",
+        "options": [
+            "There",
+            "Spoons",
+            "Table",
+            "Enough"
+        ],
+        "result": "Enough",
+        "explanation": null
+    },
+    {
+        "question": "16. Fill in the blank using an appropriate type of adjective: This boy is \u2026\u2026\u2026 than that boy.",
+        "options": [
+            "Worst",
+            "Stronger ",
+            "Best ",
+            "Strongest"
+        ],
+        "result": "Stronger ",
+        "explanation": null
+    },
+    {
+        "question": "17. These mangoes are sweet and those mangoes are sour. - Which words are the demonstrative adjectives in this sentence?",
+        "options": [
+            "These, those ",
+            "Mangoes, mangoes",
+            "Sweet, sour",
+            "These, are"
+        ],
+        "result": "These, those ",
+        "explanation": null
+    },
+    {
+        "question": "18. PM expects every parliament member to do his\/her duty. - Which word is a possessive adjective in this sentence?",
+        "options": [
+            "Every",
+            "Parliament",
+            "Duty",
+            "His\/her"
+        ],
+        "result": "His\/her",
+        "explanation": null
+    },
+    {
+        "question": "19. You may take either side. - Which word is an adjective in this sentence?",
+        "options": [
+            "May",
+            "Take",
+            "Either",
+            "Side"
+        ],
+        "result": "Either",
+        "explanation": null
+    },
+    {
+        "question": "20. I have _____ sugar in my coffee.",
+        "options": [
+            "Too",
+            "Enough",
+            "Sweet",
+            "Good"
+        ],
+        "result": "Enough",
+        "explanation": null
+    }
+]

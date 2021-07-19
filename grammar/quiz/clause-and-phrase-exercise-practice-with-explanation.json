@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. If you wish to succeed in life, you have to work very hard.",
+        "options": [
+            "If you wish",
+            "succeed in life",
+            "If you wish to succeed in life",
+            " Wish to succeed in life"
+        ],
+        "result": "If you wish to succeed in life",
+        "explanation": "Explanation:  Here \u2018if\u2019 is the subordinating conjunction introducing the adverbial clause."
+    },
+    {
+        "question": "2. What is there to do when you\u2019re sitting in an exam hall for ____ haven\u2019t studied at all?",
+        "options": [
+            "what",
+            "you",
+            "which",
+            "which you"
+        ],
+        "result": "which you",
+        "explanation": "Explanation:  Here \u2018which\u2019 is the relative pronoun that introduces the adjective clause."
+    },
+    {
+        "question": "3. She always remembered ____ her mother told her to avoid.",
+        "options": [
+            "which",
+            "where ",
+            "when",
+            " what"
+        ],
+        "result": " what",
+        "explanation": "Explanation:  Here \u2018what\u2019 is the relative pronoun that introduces the adjective clause."
+    },
+    {
+        "question": "4. you tell me what I should do ____ dealing with a burglary?",
+        "options": [
+            "while ",
+            " when",
+            "what",
+            "whoever"
+        ],
+        "result": "while b) when c) what d) whoever",
+        "explanation": "Explanation:  Here \u2018when\u2019 is the relative pronoun that introduces the adjective clause."
+    },
+    {
+        "question": "5. Have you finished your project ____ gave you before the vacation?",
+        "options": [
+            "what I",
+            "which I",
+            "while she ",
+            "whomever"
+        ],
+        "result": "which I",
+        "explanation": "Explanation:  Here \u2018which\u2019 is the relative pronoun that introduces the adjective clause."
+    },
+    {
+        "question": "6. Identify the adverb clause: She lied in my face as if I knew nothing.",
+        "options": [
+            "She lied",
+            "I knew nothing",
+            "in my face",
+            "as if I knew nothing"
+        ],
+        "result": "as if I knew nothing",
+        "explanation": "Explanation:  Here \u2018as if\u2019 is the subordinating conjunction introducing the adverbial clause."
+    },
+    {
+        "question": "7. He told me that I was the only person ____ he always felt comfortable.",
+        "options": [
+            "which",
+            "whom",
+            "with whom",
+            "that"
+        ],
+        "result": "with whom",
+        "explanation": "Explanation:  Here \u2018whom\u2019 is the relative pronoun that introduces the adjective clause."
+    },
+    {
+        "question": "8. The man ____ got my phone back was poor and homeless.",
+        "options": [
+            "that I",
+            "whom I",
+            "from whom I",
+            "who I"
+        ],
+        "result": "from whom I",
+        "explanation": "Explanation:  Here \u2018whom\u2019 is the relative pronoun that introduces the adjective clause."
+    },
+    {
+        "question": "9. What type of phrase or clause is it: By doing this regularly.",
+        "options": [
+            "Dependent clause",
+            "Phrase",
+            "Independent clause",
+            "All of the above"
+        ],
+        "result": "Dependent clause",
+        "explanation": "Explanation:  It has subject and predicate but cannot provide a complete meaning independently."
+    },
+    {
+        "question": "10. What type of phrase or clause is it: He went down the road.",
+        "options": [
+            "Independent clause",
+            "Phrase",
+            "Dependent clause",
+            "None"
+        ],
+        "result": "Independent clause",
+        "explanation": "Explanation:  It has subject and predicate and provides complete meaning independently."
+    },
+    {
+        "question": "11. What type of phrase or clause is it: Since the beginning.",
+        "options": [
+            "Dependent clause",
+            "Independent clause",
+            "Phrase",
+            "All the above"
+        ],
+        "result": "Phrase",
+        "explanation": "Explanation:  It doesn\u2019t have a subject or a predicate."
+    },
+    {
+        "question": "12. What type of phrase or clause is it: Getting her back.",
+        "options": [
+            "Independent clause",
+            "Phrase",
+            "Dependent clause",
+            "None"
+        ],
+        "result": "Phrase",
+        "explanation": "Explanation:  It doesn\u2019t have a subject or a predicate."
+    },
+    {
+        "question": "13. What type of phrase or clause is it: I knew it would happen.",
+        "options": [
+            "Phrase",
+            "Independent clause",
+            "Dependent clause",
+            "All of the above"
+        ],
+        "result": "Independent clause",
+        "explanation": "Explanation:  It has subject and predicate and provides complete meaning independently."
+    },
+    {
+        "question": "14. What type of phrase or clause is it: To do this.",
+        "options": [
+            "Dependent clause",
+            "Phrase",
+            "Independent clause",
+            "None"
+        ],
+        "result": "Phrase",
+        "explanation": "Explanation:  It doesn\u2019t have a subject or a predicate."
+    },
+    {
+        "question": "15. What type of phrase or clause is it: Having nothing to do.",
+        "options": [
+            "Phrase",
+            "Dependent clause",
+            "Independent clause",
+            "All of the above"
+        ],
+        "result": "Phrase",
+        "explanation": "Explanation:  It doesn\u2019t have a subject or a predicate."
+    },
+    {
+        "question": "16. What type of phrase or clause is it: To climb a mountain.",
+        "options": [
+            "Dependent clause",
+            "Independent clause",
+            "Dependent and Independent clause",
+            "Phrase "
+        ],
+        "result": "Phrase ",
+        "explanation": "Explanation:  It doesn\u2019t have a subject or a predicate."
+    },
+    {
+        "question": "17. What type of phrase or clause is it: As I was reading.",
+        "options": [
+            "Phrase",
+            "Dependent clause",
+            "Independent clause",
+            "All of the above"
+        ],
+        "result": "Dependent clause",
+        "explanation": "Explanation:  It has subject and predicate but cannot provide a complete meaning independently."
+    },
+    {
+        "question": "18. What type of phrase or clause is it: More than enough.",
+        "options": [
+            "Independent clause",
+            "Dependent clause",
+            "Phrase",
+            "None"
+        ],
+        "result": "Phrase",
+        "explanation": "Explanation:  It doesn\u2019t have a subject or a predicate."
+    },
+    {
+        "question": "19. What type of phrase or clause is it: He ran out of options.",
+        "options": [
+            "Phrase",
+            "Dependent clause",
+            "Independent clause",
+            "All of the above"
+        ],
+        "result": "Independent clause",
+        "explanation": "Explanation:  It has subject and predicate and provides complete meaning independently."
+    },
+    {
+        "question": "20. What type of phrase or clause is it: Out of reach.",
+        "options": [
+            "Dependent clause",
+            "Independent clause",
+            "Phrase",
+            "None"
+        ],
+        "result": "Phrase",
+        "explanation": "Explanation:  It doesn\u2019t have a subject or a predicate. "
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "question": "1. Morgan had Julia ______ the bedroom. ",
+        "options": [
+            "cleaned",
+            "to clean",
+            "cleaning",
+            "clean"
+        ],
+        "result": "clean",
+        "explanation": "Explanation:  Subject + have (in any tense) + object (usually a person) + base form of verb + . . . ."
+    },
+    {
+        "question": "2. He always has me _____ his work.",
+        "options": [
+            "did",
+            "do",
+            "to do",
+            "doing"
+        ],
+        "result": "do",
+        "explanation": "Explanation:  Subject + have (any form of tense) + object (usually a person) + base form of verb + . . . ."
+    },
+    {
+        "question": "3. Mary will have me _______ her homework. ",
+        "options": [
+            "prepared",
+            "to prepare",
+            "prepare",
+            "preparing"
+        ],
+        "result": "prepare",
+        "explanation": "Explanation:  Subject + have (any tense) + object (usually person) + base form of verb + . . . ."
+    },
+    {
+        "question": "4. John had his car ______ with only $3.",
+        "options": [
+            "wash",
+            "washing",
+            "to wash",
+            "washed"
+        ],
+        "result": "washed",
+        "explanation": "Explanation:  Subject + have (any tense) + object (usually thing) + past participle form of verb + . . . ."
+    },
+    {
+        "question": "5. He always has his work ______.",
+        "options": [
+            "did",
+            "done",
+            "does",
+            "to do"
+        ],
+        "result": "done",
+        "explanation": "Explanation:  Subject + have (any tense) + object (usually thing) + past participle form of verb + . . . ."
+    },
+    {
+        "question": "6. She will have her homework _______. ",
+        "options": [
+            "prepared",
+            "preparing",
+            "prepare",
+            "to prepare"
+        ],
+        "result": "prepared",
+        "explanation": "Explanation:  Subject + get (any tense) + object (usually person) + infinitive + . . . ."
+    },
+    {
+        "question": "7. She got Alex _______ the bedroom.",
+        "options": [
+            "cleaning",
+            "cleaned",
+            "have cleaned",
+            "to clean"
+        ],
+        "result": "to clean",
+        "explanation": "Explanation:  Subject + get (any tense) + object (usually person) + infinitive + . . . ."
+    },
+    {
+        "question": "8. You always get me _____ your own work.",
+        "options": [
+            "to do",
+            "do",
+            "done",
+            "doing"
+        ],
+        "result": "to do",
+        "explanation": "Explanation:  Subject + help (any tense) + object (always person) + base form of verb\/infinitive + . . . "
+    },
+    {
+        "question": "9. This machine will help you _____ faster.",
+        "options": [
+            "work",
+            "working",
+            "to be worked",
+            "worked"
+        ],
+        "result": "work",
+        "explanation": "Explanation:  Subject + make (any tense) + object (always person) + base form of verb + . . . "
+    },
+    {
+        "question": "10. I will make you _____ for this insult.",
+        "options": [
+            "paid",
+            "to",
+            "pay",
+            "paying"
+        ],
+        "result": "pay",
+        "explanation": "Explanation:  Subject + let (any tense) + object (always person) + base form of verb +. . ."
+    },
+    {
+        "question": "11. I will let you _____ if you complete the task first.",
+        "options": [
+            "be gone",
+            "go",
+            "going",
+            "to go"
+        ],
+        "result": "go",
+        "explanation": "Explanation:  Subject + made (any form of tense) + object (usually person) + base form of verb +. . ."
+    },
+    {
+        "question": "12. Alex made her _____ whole night.",
+        "options": [
+            "crying",
+            "to cry",
+            "cried",
+            "cry"
+        ],
+        "result": "cry",
+        "explanation": "Explanation:  Subject + help (any tense) + object (usually person) + base form of verb\/Infinitive +. . ."
+    },
+    {
+        "question": "13. Robert helped me _____ the prison.",
+        "options": [
+            "escaped",
+            "escaping",
+            "to be escaped",
+            "escape"
+        ],
+        "result": "escape",
+        "explanation": "Explanation:  Any form of 'make' demands the next verb to be in BASE FORM."
+    },
+    {
+        "question": "14. What have I told you to make you _____?",
+        "options": [
+            "laugh",
+            "laughed",
+            "laughing",
+            "to laugh"
+        ],
+        "result": "laugh",
+        "explanation": "Explanation:  'Impress' is not a causative verb. It follows the 'right form of verbs' rules."
+    },
+    {
+        "question": "15. My behaviors will not impress a lady _____ in love with me.",
+        "options": [
+            "to fall",
+            "falling",
+            "fall",
+            "to be fell"
+        ],
+        "result": "to fall",
+        "explanation": "Explanation:  The selected option is the only viable one out of the given ones as all the words are in"
+    },
+    {
+        "question": "16. Doctor advised him \u2013",
+        "options": [
+            "to stay at home, taking proper medication and avoiding junk food.",
+            "staying at home, to take proper medication and to avoid junk food.",
+            "to stay at home, to take proper medication and avoiding junk food.",
+            "to stay at home, to take proper medication and to avoid junk food."
+        ],
+        "result": "to stay at home, to take proper medication and to avoid junk food.",
+        "explanation": null
+    }
+]

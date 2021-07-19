@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. Choose the option that has no dangling modifier.",
+        "options": [
+            "Salivating in expectation of the treat, Tom waited for Alex to reward him with a dog  cookie.",
+            "Salivating in expectation of the treat, Alex rewarded Tom with a dog cookie.",
+            "Salivating in expectation of the treat, a dog cookie was given to Tom.",
+            "Salivating in expectation of the treat, a reward of dog cookie is given to Tom by Alex."
+        ],
+        "result": "Salivating in expectation of the treat, Tom waited for Alex to reward him with a dog  cookie.",
+        "explanation": "Explanation:  Drinking slowly at the diner counter, a participle phrase, is right next to soup, an illogical target. Henson, not the soup, should be the one making all of that rude noise!"
+    },
+    {
+        "question": "2. Determine which sentence below contains dangling modifiers.",
+        "options": [
+            "Rubbing the tile plaster with bleach, the mold stains began to fade.",
+            "As Jason Rubbed the tile plaster with bleach, it\u2019s begun to fade the mold stains.",
+            "As Jason Rubbed the tile plaster with bleach, it\u2019s begun to fade the mold stains.",
+            "If Jason Rubbed the tile plaster with bleach, the mold stains began to fade."
+        ],
+        "result": "As Jason Rubbed the tile plaster with bleach, it\u2019s begun to fade the mold stains.",
+        "explanation": "Explanation:  \u201cRebuking the noisy teenagers\u201d, a participle phrase, must have some"
+    },
+    {
+        "question": "3. Fill in the blank with the appropriate option: \u2018Tapping the pencil on the brink of the desk, ___________.\u2019",
+        "options": [
+            "Michael remembers the features of the Renaissance.",
+            " the features of the Renaissance would not come to mind.",
+            "Michael could not remember the features of the Renaissance.",
+            "Michael not remembering the features of the Renaissance."
+        ],
+        "result": "Michael could not remember the features of the Renaissance.",
+        "explanation": null
+    },
+    {
+        "question": "4. Choose the option that has no dangling modifier.",
+        "options": [
+            "Drinking slowly at the diner counter, the sweet coconut water was enjoyed by Henson.",
+            "Drinking slowly the diner counter where Henson enjoyed the sweet coconut water.",
+            "Drinking slowly at the counter, Henson enjoyed the sweet coconut water.",
+            " Drinking slowly Henson enjoyed the sweet coconut water at the diner counter."
+        ],
+        "result": " Drinking slowly Henson enjoyed the sweet coconut water at the diner counter.",
+        "explanation": null
+    },
+    {
+        "question": "5. Making the arrangement for dinner ___________________. The sentence is incomplete. Choose one which best completes the sentence.",
+        "options": [
+            "the problem was discussed by the members of the family.",
+            " a discussion of the problem was started by the family members.",
+            "it was discussed by the members of the family.",
+            " the family members discussed the problem."
+        ],
+        "result": " the family members discussed the problem.",
+        "explanation": null
+    },
+    {
+        "question": "6. Choose the correct sentence of the followings.",
+        "options": [
+            "While swimming in the pond, a snake bites him.",
+            " While swimming in the pond, he was bitten by a snake.",
+            "While swimming in the pond, a snake bites him.",
+            " While swimming in the pond, he bites a snake."
+        ],
+        "result": " While swimming in the pond, he was bitten by a snake.",
+        "explanation": null
+    },
+    {
+        "question": "7. Driving on the wrong side of the road, ___________________.",
+        "options": [
+            " a heavy traffic jam was created by him.",
+            "traffic jam which was heavy created by him.",
+            "he created a heavy traffic jam.",
+            " he was created a heavy traffic jam."
+        ],
+        "result": "he created a heavy traffic jam.",
+        "explanation": null
+    },
+    {
+        "question": "8. Choose the sentence with dangling modifiers.",
+        "options": [
+            " Struggling with the tight sweater, the zipper would not move.",
+            "Struggling with the tight sweater, Madonna could not move the zipper.",
+            "Struggling with the tight sweater, the zipper could not move.",
+            "Struggling with the tight sweater, the zipper should not move."
+        ],
+        "result": "Struggling with the tight sweater, Madonna could not move the zipper.",
+        "explanation": null
+    },
+    {
+        "question": "9. Whispering into Rihanna\u2019s ear, __________. Fill the gap with correct option.",
+        "options": [
+            "Timberlake shared the rumors which had shocked and dismayed everyone",
+            "the rumors were shared by Timberlake which had shocked and dismayed",
+            "shocking and dismaying rumors were shared by Timberlake",
+            "it was Timberlake who shared shocking and dismaying rumors"
+        ],
+        "result": "Timberlake shared the rumors which had shocked and dismayed everyone",
+        "explanation": null
+    },
+    {
+        "question": "10. Choose the correct sentence.",
+        "options": [
+            "Dehydrated after the run in the summer sun, a glass of water quenched Joana\u2019s thirst.",
+            " Dehydrated after the run in the summer sun, Joana quenched her thirst with a glass  of water.",
+            "Dehydrated after the run in the summer sun, Joana\u2019s thirst was quenched with a glass of  water.",
+            "Dehydrated after the run in the summer sun, a glass of water quenched Joana\u2019s thirst."
+        ],
+        "result": " Dehydrated after the run in the summer sun, Joana quenched her thirst with a glass  of water.",
+        "explanation": null
+    },
+    {
+        "question": "11. Which of the following sentences is correct?",
+        "options": [
+            " The plumber fixed the kitchen tab, which leaked in a wasteful manner.",
+            " Leaking in a wasteful manner, we called a plumber to fix the kitchen tab.",
+            "Leaking wastefully, the plumber arrived to fix the kitchen tab.",
+            " As the kitchen sink leak wastefully, the plumber arrived to fix the kitchen tab."
+        ],
+        "result": " The plumber fixed the kitchen tab, which leaked in a wasteful manner.",
+        "explanation": null
+    },
+    {
+        "question": "12. Which of the following sentences has the correct order of modifiers?",
+        "options": [
+            " Jackson broke the table lamp while he was jumping on the sofa.",
+            "Jumping on the sofa, the table lamp was broken by Jackson.",
+            "Breaking the table lamp, Jackson\u2019s sofa should not have been jumped on.",
+            "Jackson broke the table lamp while a jumping practice was done by him."
+        ],
+        "result": " Jackson broke the table lamp while he was jumping on the sofa.",
+        "explanation": null
+    },
+    {
+        "question": "13. Identify the sentence with the inappropriate use of a modifier.",
+        "options": [
+            "Opening the packet of baked food, this snack satisfied Munro&#039;s hunger.",
+            " Opening the packet of baked food, Munro&#039;s hunger was satisfied with this snack.",
+            " Opening the packet of baked food, Munro satisfied his hunger with this snack.",
+            "Opening the packet of baked food, the snack is enough to satisfy Munro\u2019s hunger."
+        ],
+        "result": " Opening the packet of baked food, Munro satisfied his hunger with this snack.",
+        "explanation": null
+    },
+    {
+        "question": "14. Fill in the blank with appropriate option: \u201cSweeping with its powerful motor, ____________.\u201d",
+        "options": [
+            "the vacuum cleaned thick sand and dirt off the beautiful carpet",
+            "thick sand and dirt disappeared from the beautiful carpet",
+            "dirt and thick sand disappeared by the vacuum from the beautiful carpet",
+            "from the beautiful carpet thick sand and dirt was cleaned off"
+        ],
+        "result": "the vacuum cleaned thick sand and dirt off the beautiful carpet",
+        "explanation": null
+    },
+    {
+        "question": "15. No confusion of the grammatical subject occurs in which of the following sentence.",
+        "options": [
+            "Going to different places, a little money was collected for the homeless guy.",
+            "Going to different places, we collected a little money for the homeless guy.",
+            " Going to different places, a little money for the homeless guy was collected.",
+            "Going to different places, collected a little money for the homeless guy."
+        ],
+        "result": "Going to different places, we collected a little money for the homeless guy.",
+        "explanation": null
+    },
+    {
+        "question": "16. Choose the correct sentence.",
+        "options": [
+            "Tucked into a hidden purse pocket, Melina used her last ten-dollar note to buy a  fish burger and ic",
+            "Tucked into a hidden purse pocket, it was Melina who used her last ten-dollar note  to buy a fish bu",
+            "To buy a fish burger and iced mango crusher, Melina used her last ten-dollar  note, which was tucked",
+            "To buy a fish burger and iced mango crusher, tucked into a hidden purse pocket,  Melina used her las"
+        ],
+        "result": "To buy a fish burger and iced mango crusher, Melina used her last ten-dollar  note, which was tucked",
+        "explanation": null
+    },
+    {
+        "question": "17. Coughing and sneezing, __________________. Fill in the blank with appropriate an option to complete the sentence.",
+        "options": [
+            "Emilia soon covered the computer keyboard with germs",
+            "the computer keyboard soon covered with germs by Emilia",
+            "Emilia\u2019s germs soon covered the computer keyboard",
+            " the keyboard of computer soon covered with germs from Emilia"
+        ],
+        "result": "Emilia soon covered the computer keyboard with germs",
+        "explanation": null
+    },
+    {
+        "question": "18. Identify the sentence that has inappropriate use of a dangling modifier",
+        "options": [
+            "When Sofia walked into the deep forest, he ripped his old shirt and banged his  forehead.",
+            "When Sofia walked into the deep forest, he ripped his shirt which was old and  banged his forehead.",
+            "Walking in the deep forest, Sofia ripped his shirt and banged his forehead  which was old.",
+            "Walking into the deep forest, Sofia ripped his old shirt and banged his forehead."
+        ],
+        "result": "Walking into the deep forest, Sofia ripped his old shirt and banged his forehead.",
+        "explanation": null
+    },
+    {
+        "question": "19. Which of the following sentences has the right use of modifier?",
+        "options": [
+            " Kirin used her hands to massage Ronaldo\u2019s shoulders, which were tight with stress.",
+            " Kirin used her hands, which were tight with stress, to massage Ronaldo\u2019s shoulders.",
+            "Tight with stress, Kirin used her hands to massage Ronaldo\u2019s shoulders.",
+            "To massage Ronaldo\u2019s shoulders which were tight with stress, Kirin used her hands."
+        ],
+        "result": " Kirin used her hands to massage Ronaldo\u2019s shoulders, which were tight with stress.",
+        "explanation": null
+    },
+    {
+        "question": "20. Pick the sentence that has no dangling modifier.",
+        "options": [
+            "After the librarian rebuked the noisy readers, the library returned to silence.",
+            "Rebuking the noisy readers, the library returned to silence.",
+            "Rebuking the noisy readers, silence returned to the library.",
+            "After the librarian scolded the noisy readers, silence returned to the library."
+        ],
+        "result": "After the librarian scolded the noisy readers, silence returned to the library.",
+        "explanation": null
+    }
+]

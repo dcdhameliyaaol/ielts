@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. \u201cI\u2019ll have a cup of tea,\u201d my father said, \u201cbecause I\u2019m not hungry.\u201d",
+        "options": [
+            "My father said that he will have a cup of tea because he wasn\u2019t hungry.",
+            "My father said that he would have had a cup of tea because he wasn\u2019t hungry.",
+            "My father said that he would have a cup of tea because he wasn\u2019t hungry.",
+            "My father said that he had had a cup of tea because he wasn\u2019t hungry."
+        ],
+        "result": "My father said that he would have a cup of tea because he wasn\u2019t hungry.",
+        "explanation": "Explanation:  Shall\/will is replaced by would and now by then."
+    },
+    {
+        "question": "2. Pamela said, \u201cMan is mortal.\u201d",
+        "options": [
+            "Pamela said that man is mortal.",
+            "Pamela said that man was mortal.",
+            "Pamela said man is mortal.",
+            "None of the above"
+        ],
+        "result": "Pamela said that man is mortal.",
+        "explanation": "Explanation:  "
+    },
+    {
+        "question": "3. He said to me, \u201cHow long will you stay here?\u201d",
+        "options": [
+            "He asked me how long I would stay here.",
+            "He asked me how long I would stay here.",
+            "He asked me how long I would stay here.",
+            "He asked me how long I would stay there."
+        ],
+        "result": "He asked me how long I would stay there.",
+        "explanation": "Explanation:  To emphasize the point, emphatically is used."
+    },
+    {
+        "question": "4. The man said to the officer, \u201cPlease help me.\u201d",
+        "options": [
+            "The man told the officer to help him.",
+            "The man requested the officer to help him.",
+            "The man said to the officer to please help him.",
+            "The man requested to the officer to help."
+        ],
+        "result": "The man requested the officer to help him.",
+        "explanation": "Explanation:  "
+    },
+    {
+        "question": "5. Choose the correct indirect speech: She asked me, \u201cAre you happy in your new job?\u201d",
+        "options": [
+            "She asked me if I was happy in my new job.",
+            "She asked me if I have been happy in my new job.",
+            "She asked me whether I am happy in my new job.",
+            "She asked me if I had been happy in my new job."
+        ],
+        "result": "She asked me if I was happy in my new job.",
+        "explanation": "Explanation:  A soft voice is the speaker here and it addresses him as son."
+    },
+    {
+        "question": "6. He remarked, \u201cTwo and two makes four.\u201d",
+        "options": [
+            "He remarked that two and two would make four.",
+            "He remarked that two and two made four.",
+            "He remarked that two and two makes four.",
+            "He suggested that two and two makes four."
+        ],
+        "result": "He remarked that two and two makes four.",
+        "explanation": "Explanation:  This Direct Speech is an example 2 nd Conditional which implies an"
+    },
+    {
+        "question": "7. \u201cDon\u2019t waste time\u201d, the teacher said to the students. The indirect form of the speech?",
+        "options": [
+            "The teacher forbade the students not to waste time.",
+            "The teacher advised the students not to waste time.",
+            "The teacher forbade the students to not waste time.",
+            "The teacher ordered the students don\u2019t waste time."
+        ],
+        "result": "The teacher advised the students not to waste time.",
+        "explanation": null
+    },
+    {
+        "question": "8. The indirect form of the sentence: John said to his mother, \u201cI shall go to bed now.\u201d",
+        "options": [
+            "John told his mother that he should go to bed now.",
+            "John told his mother that he will go to bed then.",
+            "John told his mother that he would go to bed then.",
+            "John told his mother that he will go to bed now."
+        ],
+        "result": "John told his mother that he would go to bed then.",
+        "explanation": null
+    },
+    {
+        "question": "9. He said to me, \u201cLet\u2019s go home together.",
+        "options": [
+            "He urged me to go home with him.",
+            "He proposed to me that we should go home together.",
+            "He proposed to me to go home together.",
+            "He asked me to go home with him."
+        ],
+        "result": "He proposed to me that we should go home together.",
+        "explanation": null
+    },
+    {
+        "question": "10. Which one the correct narration: He said to me, \u201cMay you be happy.\u201d",
+        "options": [
+            "He told me that I might be happy.",
+            "He reported that I might be happy.",
+            "He said that I might be happy.",
+            "He wished that I might be happy."
+        ],
+        "result": "He wished that I might be happy.",
+        "explanation": null
+    },
+    {
+        "question": "11. Put the following sentence into indirect narration: \u201cYou had better not leave your room unlocked\u201d, said my friends.",
+        "options": [
+            "Put the following sentence into indirect narration: \u201cYou had better not leave your room unlocked\u201d, s",
+            "My friends reminded me to lock my room.",
+            "My friends warned me not to leave my room unlocked.",
+            "My friends advised me lock my room."
+        ],
+        "result": "My friends warned me not to leave my room unlocked.",
+        "explanation": null
+    },
+    {
+        "question": "12. The man said, \u201cNo, I refuse to confer guilt.\u201d",
+        "options": [
+            "The man empathically refused to confer guilt.",
+            "The man was stubborn to refuse to confer guilt.",
+            "The man refused to confer guilt.",
+            "The man told that he would not confer guilt."
+        ],
+        "result": "The man empathically refused to confer guilt.",
+        "explanation": null
+    },
+    {
+        "question": "13. To emphasize the point, emphatically is used.",
+        "options": [
+            "He told that he let have some milk.",
+            "He said that he had some milk.",
+            "He replied that he should have some milk.",
+            "He replied that he should have some milk."
+        ],
+        "result": "He replied that he should have some milk.",
+        "explanation": null
+    },
+    {
+        "question": "14. \u201cIf you don\u2019t keep quiet I shall punish you\u201d, he said to her in a calm voice.",
+        "options": [
+            "He warned her to punish if she didn\u2019t keep quiet calmly.",
+            "He said calmly that I would punish you if you don\u2019t calm",
+            "He warned her calmly that he would punish her if she didn\u2019t keep quiet.",
+            "He said to her whether he would punish her."
+        ],
+        "result": "He warned her calmly that he would punish her if she didn\u2019t keep quiet.",
+        "explanation": null
+    },
+    {
+        "question": "15. \u201cAre you alone, my son?\u201d asked a soft voice close behind me.",
+        "options": [
+            "A soft voice asked me that what I was doing there alone.",
+            "A soft voice said to are you alone son.",
+            "A soft voice from my back asked if I was alone.",
+            "A soft voice behind me asked if I was alone."
+        ],
+        "result": "A soft voice behind me asked if I was alone.",
+        "explanation": null
+    },
+    {
+        "question": "16. Select the appropriate answer choice as directed for the following sentences. He said to her, \u201cWhat a cold day!\u201d \u2013Make it indirect.",
+        "options": [
+            "He exclaimed that it was a very cold day.",
+            "He exclaimed that it was a very cold day.",
+            "He exclaimed sorrowfully that it was a very cold day.",
+            "He exclaimed that it was a cold day."
+        ],
+        "result": "He exclaimed that it was a very cold day.",
+        "explanation": null
+    },
+    {
+        "question": "17. 17. He exclaimed sadly that he was undone. \u2013Convert the sentence to direct speech.",
+        "options": [
+            "He said, \u201cAh! I am undone.\u201d",
+            "He said, \u201cAlas! I am undone.\u201d",
+            "He said, \u201cHow sad! I am yet to do.\u201d",
+            "He said, \u201cWhat a pity I am undone!\u201d"
+        ],
+        "result": "He said, \u201cAlas! I am undone.\u201d",
+        "explanation": null
+    },
+    {
+        "question": "18. The indirect form of: Father said to me, \u201cMay you pass the examination\u201d is_______.",
+        "options": [
+            "Father prayed that I might pass the examination.",
+            "Father said to me that I may pass the examination.",
+            "Father prayed that I may pass the examination.",
+            "Father said to me that I must pass the examination."
+        ],
+        "result": "Father prayed that I might pass the examination.",
+        "explanation": null
+    },
+    {
+        "question": "19. The old man said to his son, \u201cFie! You are such a coward.\u201d",
+        "options": [
+            "The old man cried out in anger that it was shameful that his son was such a coward.",
+            "The old man exclaimed that it was shameful that he was such a coward.",
+            "The old man exclaimed that it was shameful that his son was such a coward.",
+            "The old man surprised that his son was such a coward."
+        ],
+        "result": "The old man cried out in anger that it was shameful that his son was such a coward.",
+        "explanation": null
+    },
+    {
+        "question": "20. I said to him, \u201cIf I were you, I should wait.\u201d What does it mean?",
+        "options": [
+            "I\u2019m advising him to proceed.",
+            "I am recommending him to proceed.",
+            "I advised him to stop the journey.",
+            "I advised him to stop the journey."
+        ],
+        "result": "I advised him to stop the journey.",
+        "explanation": null
+    }
+]

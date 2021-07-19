@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. Hardly had we reached the school _______.",
+        "options": [
+            "when the bell rang",
+            "than the bell rang",
+            "the bell rang",
+            "after the bell rang"
+        ],
+        "result": "when the bell rang",
+        "explanation": "Explanation:  "
+    },
+    {
+        "question": "2. A_______ stone gathers no moss.",
+        "options": [
+            "rolled",
+            "roll",
+            "rolling",
+            "all of the above"
+        ],
+        "result": "rolling",
+        "explanation": "Explanation:  Wish\/fancy + past indefinite (were)"
+    },
+    {
+        "question": "3. I wish I _______a child again.",
+        "options": [
+            "be",
+            "am",
+            "was",
+            "were"
+        ],
+        "result": "were",
+        "explanation": "Explanation:  For singe adverb sentence \u201c H.V + adverb + verb in past participle"
+    },
+    {
+        "question": "4. Lack of exercise and high fat diets have __________ to be factors in heart attack.",
+        "options": [
+            "long known been",
+            "known been long",
+            "been long known",
+            "long been known"
+        ],
+        "result": "long been known",
+        "explanation": "Explanation:  preposition (as) + verb + ing"
+    },
+    {
+        "question": "5. Writing a beautiful sonnet is as much as an achievement as _______ a 400-page novel.",
+        "options": [
+            "it is to finish",
+            "if to finish",
+            "finishing",
+            "to have finished"
+        ],
+        "result": "it is to finish",
+        "explanation": "Explanation:  Here head word is \u2018a basket\u2019 which is in third person singular number."
+    },
+    {
+        "question": "6. A basket of apples _______ been sold.",
+        "options": [
+            "have",
+            "has",
+            "having",
+            "haven\u2019t"
+        ],
+        "result": "has",
+        "explanation": "Explanation:  As there is annually, so the sentence will be in present indefinite tense."
+    },
+    {
+        "question": "7. The doctor suggested that the patient _______ weight.",
+        "options": [
+            "should lose",
+            "lose",
+            "would lose",
+            "loss"
+        ],
+        "result": "lose",
+        "explanation": "Explanation:  The sentence is in passive voice."
+    },
+    {
+        "question": "8. Much as Rome_______ roads through Europe in the years of the Roman Empire, British _______ Railways and strung telegraph wires in India.",
+        "options": [
+            "had built, built",
+            "built, built",
+            "builds, is building",
+            "had built, was building"
+        ],
+        "result": "had built, built",
+        "explanation": "Explanation:  when well fitted is the contracted form of when they are well fitted"
+    },
+    {
+        "question": "9. The skill of safe driving _______ necessary to avoid collision, which _______ many thousands of people annually.",
+        "options": [
+            "is, hurt",
+            "was, will hurt",
+            "will be, were hurt",
+            "had built, was building"
+        ],
+        "result": "is, hurt",
+        "explanation": "Explanation:  would rather + present form of verb"
+    },
+    {
+        "question": "10. Clothing made by Bangladeshi workers are_______ by millions of consumers around the world.",
+        "options": [
+            "clad",
+            "wore",
+            "dressed",
+            "worn"
+        ],
+        "result": "worn",
+        "explanation": "Explanation:  would rather that + present form of verb"
+    },
+    {
+        "question": "11. The rabbit scurried away in fright_______.",
+        "options": [
+            "when he has heard that something moved in the bushes.",
+            "after having been heard the movement among the bushes.",
+            "after it was hearing movement among the bushes.",
+            "when it heard the movement in the bushes."
+        ],
+        "result": "when it heard the movement in the bushes.",
+        "explanation": "Explanation:  Here 'who' refers to the boys, so the verb will be in plural form"
+    },
+    {
+        "question": "12. ___________ glasses can correct most sight defects in healthy eyes.",
+        "options": [
+            "If well fitted when",
+            "Well fitted when",
+            "Well fit",
+            "When well fitted"
+        ],
+        "result": "When well fitted",
+        "explanation": "Explanation:  nor + did + subject"
+    },
+    {
+        "question": "13. If you don\u2019t mind, I would rather not ___________.",
+        "options": [
+            "to go",
+            "going",
+            "gone",
+            "go"
+        ],
+        "result": "go",
+        "explanation": "Explanation:  get accustomed to + verb + ing"
+    },
+    {
+        "question": "14. I would rather that ___________she English fluently and impressively.",
+        "options": [
+            "speaks",
+            "doesn\u2019t speak",
+            "speak",
+            "has spoken"
+        ],
+        "result": "speaks",
+        "explanation": "Explanation:  future continuous tense: shall\/will + be + verb + ing"
+    },
+    {
+        "question": "15. He is one of the boys _____.",
+        "options": [
+            "who has written the letter",
+            "who is being written the letter",
+            "who have written the letter",
+            "who is writing the letter"
+        ],
+        "result": "who have written the letter",
+        "explanation": "Explanation:  past indefinite + as if\/ as though + past perfect"
+    },
+    {
+        "question": "16. The promising boy did not spoil a single moment, ___________develop any bad habit.",
+        "options": [
+            "nor did she",
+            "neither does he",
+            "none but",
+            "never was he"
+        ],
+        "result": "nor did she",
+        "explanation": "Explanation:  Adverbial clause of this sentence will follow the main clause. As the"
+    },
+    {
+        "question": "17. Gradually, all of us ___________the Internet.",
+        "options": [
+            "are getting accustomed to use",
+            "are becoming accustomed to use",
+            "are getting accustomed to using",
+            "are getting used to use"
+        ],
+        "result": "are getting accustomed to using",
+        "explanation": null
+    },
+    {
+        "question": "18. Professor Dan will not be able to attend the meeting tonight because ___________.",
+        "options": [
+            "he will be teaching a class",
+            "he must to teach a class",
+            "of he will teach a class",
+            "he will have teaching a class"
+        ],
+        "result": "he will be teaching a class",
+        "explanation": null
+    },
+    {
+        "question": "19. Which of the following sentences is correct?",
+        "options": [
+            "She proceeded as though I not spoken.",
+            "She proceeded as though I had not spoken.",
+            "She proceeded as though I would not speak.",
+            "She proceeded as though I had been not spoken."
+        ],
+        "result": "She proceeded as though I had not spoken.",
+        "explanation": null
+    },
+    {
+        "question": "20. Roxana was asked to withdraw from graduate school because _________.",
+        "options": [
+            "she was deemed incapable of completing her research",
+            "the authority believed she was not really able to complete research",
+            "it was decided that she was not capable to complete research",
+            "her ability to finish research was not trusted"
+        ],
+        "result": "she was deemed incapable of completing her research",
+        "explanation": null
+    }
+]

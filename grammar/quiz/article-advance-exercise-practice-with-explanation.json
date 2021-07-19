@@ -1,0 +1,167 @@
+[
+    {
+        "question": "1. _______ man is _______best creature.",
+        "options": [
+            "A, an",
+            "A, the",
+            "The, the",
+            "No article, the"
+        ],
+        "result": "No article, the",
+        "explanation": "Explanation:  To mention man as whole humanity, no article is used before man."
+    },
+    {
+        "question": "2. One of Akbar\u2019s most vigorous opponents during his lifetime had been _______ outstanding scholar Sheikh Ahmed and, like Akbar, he was also venerated as _______ Perfect Man by his own disciples.",
+        "options": [
+            "the, the",
+            "an, a",
+            "an, the",
+            "the, a"
+        ],
+        "result": "an, the",
+        "explanation": "Explanation:  "
+    },
+    {
+        "question": "3. He wants to be _______ Shakespeare.",
+        "options": [
+            "the",
+            "a",
+            "an",
+            "no article"
+        ],
+        "result": "a",
+        "explanation": "Explanation:  To remark all within the same class, the is used before adjectives."
+    },
+    {
+        "question": "4. _______ rich should pay more taxes.",
+        "options": [
+            "a",
+            "the",
+            "an",
+            "no article"
+        ],
+        "result": "the",
+        "explanation": "Explanation:  "
+    },
+    {
+        "question": "5. As _______ nation Bangladeshis are _______ religious-minded but not zealots.",
+        "options": [
+            "a, no article",
+            "a, the",
+            "the, a",
+            "the, no article"
+        ],
+        "result": "a, no article",
+        "explanation": "Explanation:  For dead persons, the is used before late."
+    },
+    {
+        "question": "6. \u2018No horizon\u2019 was directed by _______ late Steve Calan, only two years before his death.",
+        "options": [
+            "an",
+            "a",
+            "the",
+            "no article"
+        ],
+        "result": "the",
+        "explanation": "Explanation:  "
+    },
+    {
+        "question": "7. I want to buy _______ piano, but I can\u2019t play _______ piano.",
+        "options": [
+            "the, the",
+            "The, a",
+            "a, the",
+            "a, an"
+        ],
+        "result": "the, the",
+        "explanation": "Explanation:  The + adjectives = plural common noun"
+    },
+    {
+        "question": "8. I can do it in _______ hour and _______ half.",
+        "options": [
+            "a, an",
+            "an, no article",
+            "an, the",
+            "an, a"
+        ],
+        "result": "an, a",
+        "explanation": "Explanation:  When most is used as very, a\/an is used before most instead of the."
+    },
+    {
+        "question": "9. _______ virtuous are always happy.",
+        "options": [
+            "No article",
+            "The",
+            "An",
+            "A"
+        ],
+        "result": "The",
+        "explanation": "Explanation:  "
+    },
+    {
+        "question": "10. What did you eat for _______ breakfast this morning?",
+        "options": [
+            "the",
+            "a",
+            "a or the",
+            "none"
+        ],
+        "result": "none",
+        "explanation": "Explanation:  Before the name of Island\/ Ocean, definite article the is used. "
+    },
+    {
+        "question": "11. Choose the correct sentence:",
+        "options": [
+            "An ant is an industrious beings.",
+            "The ant is an industrious beings.",
+            "The ant is an industrious being.",
+            "An ant is an industrious being."
+        ],
+        "result": "The ant is an industrious being.",
+        "explanation": null
+    },
+    {
+        "question": "12. He saw _______ most wonderful sight.",
+        "options": [
+            "the",
+            "a",
+            "an",
+            "none"
+        ],
+        "result": "a",
+        "explanation": null
+    },
+    {
+        "question": "13. The article \u2018the\u2019 is used _______.",
+        "options": [
+            "to make something specific.",
+            "to make things general.",
+            "has no use or meaning.",
+            "to make a thing real."
+        ],
+        "result": "to make something specific.",
+        "explanation": null
+    },
+    {
+        "question": "14. Which of the following sentence is incorrect?",
+        "options": [
+            "The sky is blue.",
+            "The earth is round.",
+            "The moon shines by night. ",
+            "A sky is blue."
+        ],
+        "result": "A sky is blue.",
+        "explanation": null
+    },
+    {
+        "question": "15. _______ Andamans are in_______ Indian Ocean.",
+        "options": [
+            "the, the",
+            "the, a",
+            "the, an",
+            "a, the"
+        ],
+        "result": "the, the",
+        "explanation": null
+    }
+]

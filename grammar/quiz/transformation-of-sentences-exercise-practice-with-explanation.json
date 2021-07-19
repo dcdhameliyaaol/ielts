@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. Opening the door, he asked for my permission to come in. (Make it complex)",
+        "options": [
+            "He opened the door and asked for my permission to come in.",
+            "After opening the door, he asked for my permission to come in.",
+            "As he opened the door, he asked for my permission to come in.",
+            "He asked for my permission while opening the door."
+        ],
+        "result": "As he opened the door, he asked for my permission to come in.",
+        "explanation": "Explanation:  There is not more than one clause in the selected sentence. So it is a simple sentence."
+    },
+    {
+        "question": "2. He works at night so that he can study at day. (Make it simple)",
+        "options": [
+            "He works at night and studies at day.",
+            "As he studies at day, so he works at night.",
+            "As he studies at day, so he works at night.",
+            "He works at night to study at day."
+        ],
+        "result": "He works at night to study at day.",
+        "explanation": "Explanation:  There\u2019s not more than one clause in the selected sentence. So it is a simple sentence."
+    },
+    {
+        "question": "3. As her father died, she became helpless. (Make it compound)",
+        "options": [
+            "a) Her father died and she became helpless. b) She became helpless when her father died.",
+            "She became helpless when her father died.",
+            "Her fathers\u2019 death made her helpless.",
+            "Her father died, so she became helpless."
+        ],
+        "result": "a) Her father died and she became helpless. b) She became helpless when her father died.",
+        "explanation": "Explanation:  There\u2019s not more than one clause in the selected sentence. So it is a simple sentence."
+    },
+    {
+        "question": "4. They tried hard to win the match. (Make it complex)",
+        "options": [
+            "They tried hard and they won the match.",
+            "They tried hard so that they can win the match.",
+            "They tried so hard to win the match.",
+            "They tried to win the match by trying hard."
+        ],
+        "result": "They tried hard so that they can win the match.",
+        "explanation": "Explanation:  There\u2019s not more than one clause in the selected sentence. So it is a simple sentence."
+    },
+    {
+        "question": "5. He went to the shop but he didn\u2019t buy anything. (Make it complex)",
+        "options": [
+            "Although he went to the shop, he didn\u2019t buy anything.",
+            "He went to the shop only to return empty-handed.",
+            "He bought nothing after going to the shop.",
+            "He went to the shop but bought nothing."
+        ],
+        "result": "Although he went to the shop, he didn\u2019t buy anything.",
+        "explanation": "Explanation:  There\u2019s not more than one clause in the selected sentence. So it is a simple sentence."
+    },
+    {
+        "question": "6. We avoided that restaurant because of its bad reputation. (Make it compound)",
+        "options": [
+            "Since that restaurant had a bad reputation, we avoided it.",
+            "That restaurant had a bad reputation and we avoided it.",
+            "We had to avoid that restaurant as it had a bad reputation.",
+            "That restaurant had a bad reputation for which we had to avoid it."
+        ],
+        "result": "That restaurant had a bad reputation and we avoided it.",
+        "explanation": "Explanation:  There\u2019s not more than one clause in the selected sentence. So it is a simple sentence."
+    },
+    {
+        "question": "7. You have to pay or you cannot leave this place. (Make it simple)",
+        "options": [
+            "You cannot leave this place without paying.",
+            "If you want to leave this place, then you have to pay.",
+            "You can leave this place only if you pay.",
+            "Unless you pay, you cannot leave this place."
+        ],
+        "result": "You cannot leave this place without paying.",
+        "explanation": "Explanation:  There\u2019s an independent clause and a dependent clause in the selected sentence. So it is a"
+    },
+    {
+        "question": "8. Despite trying hard, he failed to fulfill the target. (Make it Compound)",
+        "options": [
+            "Although he tried hard, he failed to fulfill the target.",
+            "He failed to fulfill the target even though he tried hard.",
+            "In spite of trying hard, he failed to fulfill the target.",
+            "He triedhard but he failed to fulfill the target."
+        ],
+        "result": "He triedhard but he failed to fulfill the target.",
+        "explanation": null
+    },
+    {
+        "question": "9. Though she knew what would happen, she did it anyway. (Make it compound)",
+        "options": [
+            "She did it despite knowing what would happen.",
+            "She knew what would happen as she did it.",
+            "She knew what would happen but she did it anyway.",
+            "She did it even though she knew what would happen."
+        ],
+        "result": "She knew what would happen but she did it anyway.",
+        "explanation": null
+    },
+    {
+        "question": "10. He is so sick that he cannot speak. (Make it simple)",
+        "options": [
+            "He is too sick to speak.",
+            "He is sick, so he cannot speak.",
+            "As he is sick, so he cannot speak.",
+            "He is sick and he cannot speak."
+        ],
+        "result": "He is too sick to speak.",
+        "explanation": null
+    },
+    {
+        "question": "11. We lived together but there was no affection between us. (Make it simple)",
+        "options": [
+            "Although we lived together, there was no affection between us.",
+            "Despite living together there was no affection between us.",
+            "There was no affection between us in spite of us living together.",
+            "We lived together even though there was no affection between us."
+        ],
+        "result": "Despite living together there was no affection between us.",
+        "explanation": null
+    },
+    {
+        "question": "12. He worked hard and he provided for his family. (Make it complex)",
+        "options": [
+            "He worked hard so that he could provide for his family.",
+            "He worked hard to provide for his family.",
+            "He provided for his family as he worked hard.",
+            "He had to provide for his family by working hard."
+        ],
+        "result": "He worked hard so that he could provide for his family.",
+        "explanation": null
+    },
+    {
+        "question": "13. I knew about her previous activities. ( Make it complex)",
+        "options": [
+            " I knew about her and her previous activities.",
+            " I knew about the activities that she previously committed.",
+            "I knew what her previous activities were.",
+            "Her previous activities were known to me."
+        ],
+        "result": "I knew what her previous activities were.",
+        "explanation": null
+    },
+    {
+        "question": "14. In spite of being rich, he is humble. (Make it compound)",
+        "options": [
+            "Even though he is rich, he is humble.",
+            "He is rich and humble.",
+            "He is as humble as he rich.",
+            "He is rich but he is humble."
+        ],
+        "result": "He is rich but he is humble.",
+        "explanation": null
+    },
+    {
+        "question": "15. Although she lost her father, she stayed strong for her younger siblings. (Make it compound)",
+        "options": [
+            "She stayed strong for her younger siblings even after losing her father.",
+            "She lost her father only to stay strong for her younger siblings.",
+            "She lost her father but she stayed strong for her younger siblings.",
+            "As her siblings were younger than her, so she stayed strong after losing her father."
+        ],
+        "result": "She lost her father but she stayed strong for her younger siblings.",
+        "explanation": null
+    },
+    {
+        "question": "16. He ate a curry which was delicious. (Make it simple)",
+        "options": [
+            "He ate a curry and it was delicious.",
+            " It was a delicious curry which he ate.",
+            "The curry was delicious, so he ate it.",
+            "He ate a delicious curry."
+        ],
+        "result": "He ate a delicious curry.",
+        "explanation": null
+    },
+    {
+        "question": "17. I watched a football match today and it was exciting. (Make it simple)",
+        "options": [
+            "The football match was exciting, so I watched it.",
+            " As the football match was exciting, so I watch it.",
+            "Since it was an exciting football match, I had to watch it.",
+            " I watched an exciting football match today."
+        ],
+        "result": " I watched an exciting football match today.",
+        "explanation": null
+    },
+    {
+        "question": "18. He knew a girl and she was beautiful. (Make it complex)",
+        "options": [
+            "He knew a beautiful girl.",
+            "He knew a girl who was beautiful.",
+            "A beautiful girl was known to him.",
+            "He knew a girl for her beauty."
+        ],
+        "result": "He knew a girl who was beautiful.",
+        "explanation": null
+    },
+    {
+        "question": "19. I bought a red dress for her. (Make it compound)",
+        "options": [
+            "I bought a dress for her and it was red.",
+            "As the dress was red, I bought it for her.",
+            "I bought a dress for her though it was red.",
+            "Despite it being red, I bought the dress for her."
+        ],
+        "result": "I bought a dress for her and it was red.",
+        "explanation": null
+    },
+    {
+        "question": "20. She returned home at midnight. (Make it complex)",
+        "options": [
+            "As it was midnight, she returned home.",
+            "She returned home and it was midnight.",
+            " She returned home when it was midnight.",
+            "Despite it being midnight, she returned home."
+        ],
+        "result": " She returned home when it was midnight.",
+        "explanation": null
+    }
+]

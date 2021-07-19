@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. Water boils ______ you heat it to 100 degree Centigrade.",
+        "options": [
+            "unless",
+            "until",
+            "if",
+            "although"
+        ],
+        "result": "if",
+        "explanation": "Explanation:  This is an example of 1 st Conditional ( If + Present + Future)."
+    },
+    {
+        "question": "2. If he wants to play the violin, I _______ the piano for him.",
+        "options": [
+            "play",
+            "shall play",
+            "am playing",
+            "have played"
+        ],
+        "result": "shall play",
+        "explanation": "Explanation:  1 st Conditional: If + Present tense + Future Indefinite Tense"
+    },
+    {
+        "question": "3. If I had much money, I ______.",
+        "options": [
+            "will help the distressed people",
+            "would have helped the distressed people",
+            "would help the distressed people",
+            "would have been helped the distressed people"
+        ],
+        "result": "would help the distressed people",
+        "explanation": "Explanation:  If I had a camera, I would take some photographs."
+    },
+    {
+        "question": "4. \u201cIf the driver had been more careful, the accident _________ occurred.",
+        "options": [
+            "might not have",
+            "would not be",
+            "might not have been",
+            "might not"
+        ],
+        "result": "might not have",
+        "explanation": "Explanation:  According to the meaning of the sentence, 3rd Conditional rules will not be applied. Rather simple future tense will be used for the future possibility of the sentence."
+    },
+    {
+        "question": "5. Had I known in advance, I ______ enough money.",
+        "options": [
+            "would take",
+            "took",
+            "will take",
+            "would have taken"
+        ],
+        "result": "would have taken",
+        "explanation": "Explanation:  For very minimal amount of possibility, Should I need = If I should"
+    },
+    {
+        "question": "6. If I had known you were coming, ________.",
+        "options": [
+            "I would go to the station",
+            "I had gone to the station",
+            "I would have gone to the station",
+            "I would be going to the station"
+        ],
+        "result": "I would have gone to the station",
+        "explanation": null
+    },
+    {
+        "question": "7. He ______ to see us if he had been able to.",
+        "options": [
+            "would come",
+            "would have come",
+            "may come",
+            "may have come"
+        ],
+        "result": "would have come",
+        "explanation": null
+    },
+    {
+        "question": "8. Had I been a king, I _________.",
+        "options": [
+            "had helped the poor",
+            "would have helped the poor",
+            "have helped the poor",
+            "helped the poor"
+        ],
+        "result": "would have helped the poor",
+        "explanation": null
+    },
+    {
+        "question": "9. Choose the correct sentence:",
+        "options": [
+            "If he works hard, he will succeed.",
+            "If he works hard, he succeeds.",
+            "If he works hard, he succeeds.",
+            "If he works hard, he succeeds."
+        ],
+        "result": "If he works hard, he will succeed.",
+        "explanation": null
+    },
+    {
+        "question": "10. If I had a typewriter, ______.",
+        "options": [
+            "I will type myself",
+            "I would have typed myself",
+            "I would type myself",
+            "I will be typing myself"
+        ],
+        "result": "I would type myself",
+        "explanation": null
+    },
+    {
+        "question": "11. Had I the wings of a bird, _________",
+        "options": [
+            "I flew in the sky.",
+            "I could fly in the sky.",
+            "I fly in the sky.",
+            "I would have flown in the sky."
+        ],
+        "result": "I could fly in the sky.",
+        "explanation": null
+    },
+    {
+        "question": "12. I we had a boat, we ________ the river.",
+        "options": [
+            "will cross",
+            "would be crossing",
+            "would have crossed",
+            "would cross"
+        ],
+        "result": "would cross",
+        "explanation": null
+    },
+    {
+        "question": "13. If she ______ her identity card, she ______ in trouble.",
+        "options": [
+            "loses, would be",
+            "loses, will be",
+            "will lose, would be",
+            "lose, would be"
+        ],
+        "result": "loses, will be",
+        "explanation": null
+    },
+    {
+        "question": "14. Choose the correct sentence:",
+        "options": [
+            "If I find a bag in the street, I take it to the police.",
+            "If I find a bag in the street, I took it to the police.",
+            "If I find a bag in the street, I took it to the police.",
+            "If I find a bag in the street, I had to take it to the police."
+        ],
+        "result": "If I find a bag in the street, I take it to the police.",
+        "explanation": null
+    },
+    {
+        "question": "15. What would have happened if _____?",
+        "options": [
+            "the bridge is broken",
+            "the bridge had broken",
+            "the bridge would have been broken",
+            "the bridge had been broken"
+        ],
+        "result": "the bridge had been broken",
+        "explanation": null
+    },
+    {
+        "question": "16. Choose the correct sentence:",
+        "options": [
+            "If I had a camera, I would have taken some photographs.",
+            "If I had a camera, I had taken some photographs.",
+            "If I had a camera, I would take some photographs.",
+            "If I had a camera, I would take some photographs."
+        ],
+        "result": "If I had a camera, I would take some photographs.",
+        "explanation": null
+    },
+    {
+        "question": "17. You might have had a windfall _____________.",
+        "options": [
+            "if you had had an opportunity",
+            "if you had an opportunity",
+            "if you have had an opportunity",
+            "if you hadn\u2019t have an opportunity"
+        ],
+        "result": "if you had had an opportunity",
+        "explanation": null
+    },
+    {
+        "question": "18. If you had seen the accident, you _________ so fast now.",
+        "options": [
+            "shan\u2019t be driving",
+            "shouldn\u2019t drive",
+            "hadn\u2019t driven",
+            "won\u2019t be driving"
+        ],
+        "result": "won\u2019t be driving",
+        "explanation": null
+    },
+    {
+        "question": "19. If you don\u2019t want to miss the train, you ________ finish your tea soon.",
+        "options": [
+            "would rather",
+            "had better",
+            "will",
+            "would"
+        ],
+        "result": "had better",
+        "explanation": null
+    },
+    {
+        "question": "20. __________ more help, I could call my neighbor.",
+        "options": [
+            "Needed",
+            "I should need",
+            "Should I need",
+            "I have needed"
+        ],
+        "result": "Should I need",
+        "explanation": null
+    }
+]

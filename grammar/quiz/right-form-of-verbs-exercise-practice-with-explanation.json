@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. I couldn\u2019t mend the computer myself, so I _______ at a shop.",
+        "options": [
+            "had it mended",
+            "had it mend",
+            "did it mend",
+            "had mended"
+        ],
+        "result": "had it mended",
+        "explanation": "Explanation:  Preposition (to) + verb+ ing"
+    },
+    {
+        "question": "2. We look forward _______ a response from you.",
+        "options": [
+            "for receiving",
+            "to receiving",
+            "in receiving",
+            "to receive"
+        ],
+        "result": "to receiving",
+        "explanation": "Explanation:  Appropriate Preposition \u2018fail in\u2019 + verb+ ing"
+    },
+    {
+        "question": "3. In many ways, riding a bicycle is similar to_______.",
+        "options": [
+            "the driving of a car",
+            "driving a car",
+            "when one drives a car",
+            "when we drive a car"
+        ],
+        "result": "driving a car",
+        "explanation": "Explanation:  After make, infinitive to will be silent."
+    },
+    {
+        "question": "4. He watched the boat_______ down the river.",
+        "options": [
+            "to float",
+            "was floating",
+            "had floated",
+            "floating"
+        ],
+        "result": "floating",
+        "explanation": "Explanation:  have + past participle form of verb (lay- laid- laid)"
+    },
+    {
+        "question": "5. I opened the door as soon as I _______ the bell.",
+        "options": [
+            "have heard",
+            "was hearing",
+            "heard",
+            "am heard"
+        ],
+        "result": "heard",
+        "explanation": "Explanation:  It is time + subject + past participle form of the main verb."
+    },
+    {
+        "question": "6. The Parthenon is said_______ erected in the age of Pericles.",
+        "options": [
+            "to have become",
+            "to have begun",
+            "to have been",
+            "to have had begun"
+        ],
+        "result": "to have been",
+        "explanation": "Explanation:  advise (verb) + object + infinitive"
+    },
+    {
+        "question": "7. Almost everyone fails _______ on the first try.",
+        "options": [
+            "to his driver\u2019s test",
+            "in passing his driver\u2019s test",
+            "to have passed his driver\u2019s test",
+            "passing his driver\u2019s test"
+        ],
+        "result": "in passing his driver\u2019s test",
+        "explanation": "Explanation:  can\/couldn\u2019t but + verb + ing"
+    },
+    {
+        "question": "8. The speaker fails to make the audience_______ to him patiently.",
+        "options": [
+            "to listen",
+            "listening",
+            "listened",
+            "listen"
+        ],
+        "result": "listen",
+        "explanation": "Explanation:  Make somebody to do something + base form of verb"
+    },
+    {
+        "question": "9. How many eggs have your hens_______ this month?",
+        "options": [
+            "lain",
+            "laid",
+            "lay",
+            "lied"
+        ],
+        "result": "laid",
+        "explanation": "Explanation:  Adverb of time (past) = principal verb in past indefinite tense."
+    },
+    {
+        "question": "10. It\u2019s time_______ your mistakes.",
+        "options": [
+            "you realized",
+            "that you realize",
+            "you would realize",
+            "you have realized"
+        ],
+        "result": "you realized",
+        "explanation": "Explanation:  present indefinite tense + as if\/ as though + past indefinite tense (were)"
+    },
+    {
+        "question": "11. He advised me _______ smoking.",
+        "options": [
+            "giving up",
+            "to give up",
+            "in giving up",
+            "from giving up"
+        ],
+        "result": "to give up",
+        "explanation": "Explanation:  have been to refers \u2018going to\u2019 and \u2018returning from\u2019 a particular place"
+    },
+    {
+        "question": "12. I don\u2019t mind _______ with the cooking but I am not going to was the dishes.",
+        "options": [
+            "to help",
+            "helping",
+            "help",
+            "for helping"
+        ],
+        "result": "helping",
+        "explanation": "Explanation:  Subject + have been\/ has been + principal verb + ing + for\/since +"
+    },
+    {
+        "question": "13. As they waited Neo argued against war_______.",
+        "options": [
+            "while his brother discusses the effects of pollution.",
+            "while his brother discussed the effects of pollution.",
+            "while his brother was discussing the effects of pollution.",
+            "while his brother had discussed the effects of pollution."
+        ],
+        "result": "while his brother was discussing the effects of pollution.",
+        "explanation": null
+    },
+    {
+        "question": "14. The father could not help but_______ his condition.",
+        "options": [
+            "cry on ",
+            "cry for ",
+            "crying ",
+            "cry at"
+        ],
+        "result": "crying ",
+        "explanation": null
+    },
+    {
+        "question": "15. The Examiners made us _______ our identification in order to admit to the exam center.",
+        "options": [
+            "showing",
+            "show",
+            "showed",
+            "to show"
+        ],
+        "result": "show",
+        "explanation": null
+    },
+    {
+        "question": "16. Which one is correct?",
+        "options": [
+            "Here come he",
+            "Here comes he",
+            "Here he comes",
+            "Here come Gomez"
+        ],
+        "result": "Here comes he",
+        "explanation": null
+    },
+    {
+        "question": "17. Which one of the following sentences is correct?",
+        "options": [
+            "He came home yesterday.",
+            "He came home yesterday.",
+            "He was come home yesterday.",
+            "He was coming home yesterday."
+        ],
+        "result": "He came home yesterday.",
+        "explanation": null
+    },
+    {
+        "question": "18. He talks as though _______.",
+        "options": [
+            "he was a child",
+            "he is a child",
+            "he has been a child",
+            "he were a child"
+        ],
+        "result": "he were a child",
+        "explanation": null
+    },
+    {
+        "question": "19. Have you ever_______ England?",
+        "options": [
+            "been to",
+            "been on",
+            "went to",
+            "went on"
+        ],
+        "result": "been to",
+        "explanation": null
+    },
+    {
+        "question": "20. He _______ for five hours and is still sleeping.",
+        "options": [
+            "slept",
+            "were sleeping",
+            "has been sleeping",
+            "had slept"
+        ],
+        "result": "has been sleeping",
+        "explanation": null
+    }
+]

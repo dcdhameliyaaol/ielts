@@ -1,0 +1,167 @@
+[
+    {
+        "question": "1. Which of the following is a correct sentence?",
+        "options": [
+            "I not need money.",
+            "I don\u2019t need money.",
+            "Money I not need",
+            "Not I need money?"
+        ],
+        "result": "I don\u2019t need money.",
+        "explanation": "Explanation:  Like other main verbs, \u2018do\u2019 cannot be directly negated with \u2018not\u2019 and"
+    },
+    {
+        "question": "2. Which is the correct interrogative form of \u201cHe came home.\u201d?",
+        "options": [
+            "Was he come home?",
+            "Came he home?",
+            "Did he come home?",
+            "If he come home?"
+        ],
+        "result": "Did he come home?",
+        "explanation": null
+    },
+    {
+        "question": "3. Choose the correct sentence.",
+        "options": [
+            "Who helped you to come to the USA?",
+            "Who you helped to come to the USA?",
+            "Who had you help to come to the USA?",
+            "Who did help you to come to the USA?"
+        ],
+        "result": "Who did help you to come to the USA?",
+        "explanation": null
+    },
+    {
+        "question": "4. Which of the following is a correct sentence?",
+        "options": [
+            "Where you get a ten-meter blade sharpened, anyway?",
+            "Where do you get a ten-meter blade sharpened, anyway?",
+            " Where you do get a ten-meter blade sharpened, anyway?",
+            "Where you had got a ten-meter blade sharpened, anyway?"
+        ],
+        "result": "Where do you get a ten-meter blade sharpened, anyway?",
+        "explanation": null
+    },
+    {
+        "question": "5. The correct question form of the sentence \u2018They like pizza?\u2019 is:",
+        "options": [
+            "They like what?",
+            "They do like what?",
+            "What they like?",
+            "What do they like?"
+        ],
+        "result": "What do they like?",
+        "explanation": null
+    },
+    {
+        "question": "6. Which of the following is an incorrect sentence?",
+        "options": [
+            "Do you not want to play?",
+            "Don\u2019t you want to play?",
+            "Don\u2019t you not want to play?",
+            "Why are you not playing?"
+        ],
+        "result": "Don\u2019t you not want to play?",
+        "explanation": null
+    },
+    {
+        "question": "7. Choose the incorrect sentence.",
+        "options": [
+            "Do you have any idea what is going on there?",
+            "Have you any idea what is going on there?",
+            "Have you got any idea what is going on there?",
+            "Have you do any idea what is going on there?"
+        ],
+        "result": "Have you do any idea what is going on there?",
+        "explanation": null
+    },
+    {
+        "question": "8. Which of the following is correct?",
+        "options": [
+            "Who do they like?",
+            "Do they like what?",
+            "Who they like?",
+            "They do like what?"
+        ],
+        "result": "Who do they like?",
+        "explanation": null
+    },
+    {
+        "question": "9. Which of the following does need a \u2018do-support\u2019?",
+        "options": [
+            "It would be a crime not to help them.",
+            "She laughs not when they say something funny.",
+            "She laughs not when they say something funny.",
+            "Not taking protein can harm your health."
+        ],
+        "result": "She laughs not when they say something funny.",
+        "explanation": null
+    },
+    {
+        "question": "10. Identity the incorrect sentence of the following.",
+        "options": [
+            "I did not try to laugh.",
+            "I did try not to laugh.",
+            "I tried not to laugh.",
+            "They do not want to go."
+        ],
+        "result": "I did try not to laugh.",
+        "explanation": null
+    },
+    {
+        "question": "11. Choose the correctly written sentence.",
+        "options": [
+            " Did Jason eat his breakfast? Yes, he did ate his breakfast.",
+            "Jason doesn\u2019t play, then. No, he does play.",
+            "Jason isn\u2019t singing, then. No he does singing.",
+            "Does Jason like golfing? No, he not."
+        ],
+        "result": "Jason doesn\u2019t play, then. No, he does play.",
+        "explanation": null
+    },
+    {
+        "question": "12. Which of the following does need a \u2018do-support\u2019?",
+        "options": [
+            "I suggest that he not receive any more funding.",
+            "It is important that he not be there.",
+            " I wish that he not know it.",
+            " I wish that he were not here."
+        ],
+        "result": " I wish that he not know it.",
+        "explanation": null
+    },
+    {
+        "question": "13. Which of the following doesn\u2019t need a \u2018do-support\u2019?",
+        "options": [
+            "I can cook pasta.",
+            "I went to the party.",
+            "I like pasta.",
+            " He looks smart."
+        ],
+        "result": "I can cook pasta.",
+        "explanation": null
+    },
+    {
+        "question": "14. In which sentence \u2018do\u2019 is used as the main verb?",
+        "options": [
+            "What does he love?",
+            "They don\u2019t have any money.",
+            "You don\u2019t mess with Abraham.",
+            "What are you doing?"
+        ],
+        "result": "What are you doing?",
+        "explanation": null
+    },
+    {
+        "question": "15. Choose the correct sentence.",
+        "options": [
+            "They didn\u2019t do the laundry on Friday.",
+            "Why you do karate?",
+            "How you do?",
+            "What do you doing?"
+        ],
+        "result": "They didn\u2019t do the laundry on Friday.",
+        "explanation": null
+    }
+]

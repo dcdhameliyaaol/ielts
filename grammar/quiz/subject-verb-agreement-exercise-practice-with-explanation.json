@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. Choose the correct form of the verb that agrees with the subject: His pants ____ torn during the match.",
+        "options": [
+            "was",
+            "is",
+            "were",
+            "are"
+        ],
+        "result": "were",
+        "explanation": "Explanation:  Some nouns are always considered as a plural noun like \u2018tweezers\u2019 in this sentence."
+    },
+    {
+        "question": "2. Aron, together with his wife ____ the guests of the party.",
+        "options": [
+            "greets",
+            "greet",
+            "greeting",
+            "are greeting"
+        ],
+        "result": "greets",
+        "explanation": "Explanation:  \u2018jury\u2019 is a collective noun which is always considered as a singular subject."
+    },
+    {
+        "question": "3. Tweezers ____ always useful to handle small objects.",
+        "options": [
+            "may",
+            "is",
+            "will",
+            "are"
+        ],
+        "result": "are",
+        "explanation": "Explanation:  An infinitive is used as the subject so the verb should be singular here"
+    },
+    {
+        "question": "4. The jury ____ not convinced.",
+        "options": [
+            "might ",
+            " was",
+            "were ",
+            "would"
+        ],
+        "result": " was",
+        "explanation": "Explanation:  The subject \u2018soldier\u2019 is accompanied by \u2018A number of\u2019 which makes it plural."
+    },
+    {
+        "question": "5. The truthful ____ always trustworthy.",
+        "options": [
+            "is",
+            "was",
+            "are",
+            "may"
+        ],
+        "result": "are",
+        "explanation": "Explanation:  The subject \u2018deceased soldiers\u2019 is accompanied by \u2018The number of\u2019 which makes it singula"
+    },
+    {
+        "question": "6. To cry ____ never the solution to any problems.",
+        "options": [
+            "are",
+            "were",
+            "should",
+            "is"
+        ],
+        "result": "is",
+        "explanation": "Explanation:  The subject of the sentence is a \u2018gerund\u2019 so the verb should be in singular form."
+    },
+    {
+        "question": "7. A number of soldiers ____ injured during the war.",
+        "options": [
+            "is",
+            "were",
+            "was",
+            "might"
+        ],
+        "result": "were",
+        "explanation": "Explanation:  The subject is a collective noun so the verb should be singular."
+    },
+    {
+        "question": "8. The number of deceased soldiers ____ not stored in the record book.",
+        "options": [
+            "were",
+            "is",
+            "are",
+            "may"
+        ],
+        "result": "is",
+        "explanation": "Explanation:  Here the subject \u2018everything\u2019 is singular so the verb is modified accordingly."
+    },
+    {
+        "question": "9. A pack of lions ____ approaching the camp.",
+        "options": [
+            "will",
+            "were",
+            "are",
+            "was"
+        ],
+        "result": "was",
+        "explanation": "Explanation:  Both nouns are connected by \u2018and\u2019 so the verb should be plural in this sentence. "
+    },
+    {
+        "question": "10. Killing ____ not always considered a bad thing.",
+        "options": [
+            "were",
+            "are",
+            "was",
+            "would"
+        ],
+        "result": "was",
+        "explanation": null
+    },
+    {
+        "question": "11. There ____ many difficulties regarding the situation.",
+        "options": [
+            "should ",
+            "was",
+            "were ",
+            "is"
+        ],
+        "result": "were ",
+        "explanation": null
+    },
+    {
+        "question": "12. Here ____ the tomb of Albert Einstein.",
+        "options": [
+            "lies",
+            " lie",
+            "lying ",
+            "lied"
+        ],
+        "result": "lies",
+        "explanation": null
+    },
+    {
+        "question": "13. Either she or her friends ____ responsible for this accident.",
+        "options": [
+            "is",
+            "are",
+            "was",
+            "might"
+        ],
+        "result": "are",
+        "explanation": null
+    },
+    {
+        "question": "14. Neither me nor my parents ____ aware of the incident.",
+        "options": [
+            "would be",
+            "is",
+            "was",
+            "were"
+        ],
+        "result": "were",
+        "explanation": null
+    },
+    {
+        "question": "15. None ____ none under the sun.",
+        "options": [
+            "are",
+            "were",
+            "is",
+            "will be"
+        ],
+        "result": "is",
+        "explanation": null
+    },
+    {
+        "question": "16. None of them ____ able to solve this question.",
+        "options": [
+            "is",
+            "were",
+            "was",
+            "would be"
+        ],
+        "result": "were",
+        "explanation": null
+    },
+    {
+        "question": "17. Eight fifty dollars ____ what it would cost to buy the new pixel phone.",
+        "options": [
+            "are",
+            "is",
+            "were ",
+            "shall"
+        ],
+        "result": "is",
+        "explanation": null
+    },
+    {
+        "question": "18. A pair of trousers ____ all that I brought along",
+        "options": [
+            "were",
+            "are",
+            "would be",
+            "is"
+        ],
+        "result": "is",
+        "explanation": null
+    },
+    {
+        "question": "19. Everything ____ fine when it\u2019s done correctly.",
+        "options": [
+            "work ",
+            " worked",
+            "will work ",
+            " works"
+        ],
+        "result": " works",
+        "explanation": null
+    },
+    {
+        "question": "20. Ronaldo and Messi ____ the greatest football players of the 21st century.",
+        "options": [
+            "were",
+            "are",
+            "was",
+            "is"
+        ],
+        "result": "are",
+        "explanation": null
+    }
+]

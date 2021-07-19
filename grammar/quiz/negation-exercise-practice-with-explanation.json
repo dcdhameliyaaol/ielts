@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. I like her a lot.",
+        "options": [
+            "I am not liking her a lot.",
+            "I don\u2019t like her a lot.",
+            "I didn\u2019t like her a lot.",
+            "I haven\u2019t liked her a lot."
+        ],
+        "result": "I don\u2019t like her a lot.",
+        "explanation": "Explanation:  You will not be my best friend since we know each other."
+    },
+    {
+        "question": "2. He is working on it.",
+        "options": [
+            "He was not working on it.",
+            "He hasn\u2019t worked on it.",
+            "He isn\u2019t working on it.",
+            "He won\u2019t be working on it."
+        ],
+        "result": "He isn\u2019t working on it.",
+        "explanation": "Explanation:  The word \u201canyone\u201d can be replaced by \u201cno one\u201d while making the sentence negative."
+    },
+    {
+        "question": "3. We have decided to go there.",
+        "options": [
+            "We didn\u2019t decide to go there.",
+            "We will not decide to go there.",
+            "We are not deciding to go there.",
+            "We haven\u2019t decided to go there."
+        ],
+        "result": "We haven\u2019t decided to go there.",
+        "explanation": "Explanation:  The word \u201canything\u201d can be replaced by \u201cnothing\u201d while making the sentence negative."
+    },
+    {
+        "question": "4. You have been my best friend since we know each other.",
+        "options": [
+            "You haven\u2019t been my best friend since we know each other.",
+            "You are not my best friend since we know each other.",
+            "You were not my best friend since we know each other.",
+            "You will not be my best friend since we know each other."
+        ],
+        "result": "You haven\u2019t been my best friend since we know each other.",
+        "explanation": "Explanation:  \u201cWould\u201d has been used as a modal auxiliary verb in the given sentence. So it can be made"
+    },
+    {
+        "question": "5. She lied to me last night.",
+        "options": [
+            "She wasn\u2019t lying to me last night.",
+            "She hadn\u2019t lied to me last night.",
+            "She didn\u2019t lie to me last night.",
+            "She hasn\u2019t lied to me last night."
+        ],
+        "result": "She didn\u2019t lie to me last night.",
+        "explanation": null
+    },
+    {
+        "question": "6. They were playing soccer in the rain.",
+        "options": [
+            "They aren\u2019t playing soccer in the rain.",
+            "They hadn\u2019t played soccer in the rain.",
+            "They will not be playing soccer in the rain.",
+            "They weren\u2019t playing soccer in the rain."
+        ],
+        "result": "They weren\u2019t playing soccer in the rain.",
+        "explanation": null
+    },
+    {
+        "question": "7. He had done everything that was asked of him.",
+        "options": [
+            "He hadn\u2019t been doing everything that was asked of him.",
+            "He hadn\u2019t done everything that was asked of him.",
+            "He wasn\u2019t doing everything that was asked of him.",
+            "He isn\u2019t doing everything that was asked of him."
+        ],
+        "result": "He hadn\u2019t done everything that was asked of him.",
+        "explanation": null
+    },
+    {
+        "question": "8. I had been working there for 3 years.",
+        "options": [
+            "I hadn\u2019t worked there for 3 years.",
+            "I didn\u2019t work there for 3 years.",
+            "I hadn\u2019t been working there for 3 years.",
+            "I haven\u2019t been working there for 3 years."
+        ],
+        "result": "I hadn\u2019t been working there for 3 years.",
+        "explanation": null
+    },
+    {
+        "question": "9. They will come to visit you whenever possible.",
+        "options": [
+            "They will come to visit you whenever possible.",
+            "They won\u2019t be coming to visit you whenever possible.",
+            "They weren\u2019t coming to visit you whenever possible.",
+            "They weren\u2019t coming to visit you whenever possible."
+        ],
+        "result": "They will come to visit you whenever possible.",
+        "explanation": null
+    },
+    {
+        "question": "10. She will be back home soon.",
+        "options": [
+            "She won\u2019t be baking home soon.",
+            "She won\u2019t be back home soon.",
+            "She won\u2019t have been back home soon.",
+            "She wasn\u2019t back home soon."
+        ],
+        "result": "She won\u2019t be back home soon.",
+        "explanation": null
+    },
+    {
+        "question": "11. He will be running late for the meeting.",
+        "options": [
+            "He won\u2019t run late for the meeting.",
+            "He won\u2019t have been run late for the meeting.",
+            "He wasn\u2019t running late for the meeting.",
+            "He won\u2019t be running late for the meeting."
+        ],
+        "result": "He won\u2019t be running late for the meeting.",
+        "explanation": null
+    },
+    {
+        "question": "12. You will have finished it without any difficulties.",
+        "options": [
+            "You won\u2019t have finished it without any difficulties.",
+            "You won\u2019t be finishing it without any difficulties.",
+            "You won\u2019t finish it without any difficulties.",
+            "You weren\u2019t finishing it without any difficulties."
+        ],
+        "result": "You won\u2019t have finished it without any difficulties.",
+        "explanation": null
+    },
+    {
+        "question": "13. They will have been trying for years.",
+        "options": [
+            "They won\u2019t have tried for years.",
+            "They won\u2019t be trying for years.",
+            "They won\u2019t be trying for years.",
+            "They haven\u2019t been trying for years."
+        ],
+        "result": "They won\u2019t be trying for years.",
+        "explanation": null
+    },
+    {
+        "question": "14. I can do this.",
+        "options": [
+            "I couldn\u2019t do this.",
+            "I can\u2019t do this.",
+            "I won\u2019t do this.",
+            "I wouldn\u2019t do this."
+        ],
+        "result": "I can\u2019t do this.",
+        "explanation": null
+    },
+    {
+        "question": "15. We must read for the exam.",
+        "options": [
+            "We didn\u2019t read for the exam.",
+            "We haven\u2019t read for the exam.",
+            "We mustn\u2019t read for the exam.",
+            "We shouldn\u2019t read for the exam."
+        ],
+        "result": "We mustn\u2019t read for the exam.",
+        "explanation": null
+    },
+    {
+        "question": "16. Anyone can do this.",
+        "options": [
+            "Anyone can\u2019t do this.",
+            "Everyone can\u2019t do this.",
+            "Anyone wouldn\u2019t do this.",
+            "No one can do this."
+        ],
+        "result": "No one can do this.",
+        "explanation": null
+    },
+    {
+        "question": "17. Anything can go wrong today.",
+        "options": [
+            "Nothing can go wrong today.",
+            "Anything wouldn\u2019t go wrong today.",
+            "Anything shouldn\u2019t go wrong today.",
+            "Anything doesn\u2019t go wrong today."
+        ],
+        "result": "Nothing can go wrong today.",
+        "explanation": null
+    },
+    {
+        "question": "18. I should forgive her.",
+        "options": [
+            "I don\u2019t forgive her.",
+            "I shouldn\u2019t forgive her.",
+            "I shouldn\u2019t have forgiven her.",
+            "I couldn\u2019t forgive her."
+        ],
+        "result": "I shouldn\u2019t forgive her.",
+        "explanation": null
+    },
+    {
+        "question": "19. She might come back to me.",
+        "options": [
+            "She shouldn\u2019t come back to me.",
+            "She won\u2019t come back to me.",
+            "She mightn\u2019t come back to me.",
+            "She hasn\u2019t come back to me."
+        ],
+        "result": "She mightn\u2019t come back to me.",
+        "explanation": null
+    },
+    {
+        "question": "20. I would accept her for what she is.",
+        "options": [
+            "I shouldn\u2019t accept her for what she is.",
+            "I couldn\u2019t accept her for what she is.",
+            "I haven\u2019t accepted her for what she is.",
+            "I wouldn\u2019t accept her for what she is."
+        ],
+        "result": "I wouldn\u2019t accept her for what she is.",
+        "explanation": null
+    }
+]

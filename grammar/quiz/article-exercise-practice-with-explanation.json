@@ -1,0 +1,167 @@
+[
+    {
+        "question": "1. \u2018The French\u2019 refers to_______.",
+        "options": [
+            "The French language",
+            "The French people",
+            "the French manner",
+            "the French society"
+        ],
+        "result": "The French people",
+        "explanation": "Explanation:  Book and Table of the sentence is definite."
+    },
+    {
+        "question": "2. I saw _______ one-eyed man when I was walking on the road.",
+        "options": [
+            "a",
+            "an",
+            "the",
+            "no article is needed"
+        ],
+        "result": "a",
+        "explanation": "Explanation:  It is an example of proper noun\u2019s common noun. In such kind of sentence, article a\/an is used before the proper noun."
+    },
+    {
+        "question": "3. Which one is correct?",
+        "options": [
+            "Omar Khayyam is rarely born.",
+            "A Omar Khayyam is rarely born.",
+            "A Omar Khayyam is rarely born.",
+            "The Omar Khayyam is rarely born"
+        ],
+        "result": "The Omar Khayyam is rarely born",
+        "explanation": "Explanation:  Before the name of Ship, article the is used."
+    },
+    {
+        "question": "4. _______ big book on _______ table is for my history class.",
+        "options": [
+            "A, a",
+            "The, a",
+            "The, the",
+            "A, the"
+        ],
+        "result": "The, the",
+        "explanation": "Explanation:  Here beast in him refers to the attribute of the beast namely bestiality."
+    },
+    {
+        "question": "5. I see you are _______ Wordsworth.",
+        "options": [
+            "a",
+            "an",
+            "the",
+            "none"
+        ],
+        "result": "a",
+        "explanation": "Explanation:  Before singular designation, article the is used."
+    },
+    {
+        "question": "6. _______ Nelson is a British warship.",
+        "options": [
+            "A",
+            "The",
+            "no article",
+            "An"
+        ],
+        "result": "The",
+        "explanation": "Explanation:  \u2026.mastering the art of\u2026."
+    },
+    {
+        "question": "7. At last _______ beast in him got _______ upper hand.",
+        "options": [
+            "a, an",
+            "the, an",
+            "a, the",
+            "the, the"
+        ],
+        "result": "the, the",
+        "explanation": "Explanation:  To mean to play a musical instrument, the is used before play. "
+    },
+    {
+        "question": "8. _______ mother rose in her.",
+        "options": [
+            "The",
+            "A",
+            "No article",
+            "An"
+        ],
+        "result": "The",
+        "explanation": null
+    },
+    {
+        "question": "9. Article is used based on_______.",
+        "options": [
+            "spelling",
+            "pronunciation",
+            "stress",
+            "sound"
+        ],
+        "result": "pronunciation",
+        "explanation": null
+    },
+    {
+        "question": "10. Fitzgerald went _______hospital as patient.",
+        "options": [
+            "the",
+            "a",
+            "no article",
+            "an"
+        ],
+        "result": "no article",
+        "explanation": null
+    },
+    {
+        "question": "11. _______physicist, Gabriel Fahrenheit, invented the mercury thermometer in 1714.",
+        "options": [
+            "A",
+            "It is the",
+            "The ",
+            "There is"
+        ],
+        "result": "The ",
+        "explanation": null
+    },
+    {
+        "question": "12. China\u2019s continued economic progress depends on mastering art of mound breaking innovation.",
+        "options": [
+            "a",
+            "the",
+            "for",
+            "no word is missing"
+        ],
+        "result": "the",
+        "explanation": null
+    },
+    {
+        "question": "13. Over last fifty years, there has been a growing interest in trade in my country.",
+        "options": [
+            "towards",
+            "a",
+            "the",
+            "an"
+        ],
+        "result": "the",
+        "explanation": null
+    },
+    {
+        "question": "14. I like _______blue T-shirt over there better than the red one.",
+        "options": [
+            "a, the",
+            "the, the",
+            "the, a",
+            "the, no article"
+        ],
+        "result": "the, the",
+        "explanation": null
+    },
+    {
+        "question": "15. David is learning to play_______ piano.",
+        "options": [
+            "a",
+            "the",
+            "an",
+            "none"
+        ],
+        "result": "the",
+        "explanation": null
+    }
+]

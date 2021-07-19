@@ -1,0 +1,343 @@
+[
+    {
+        "question": "1. He took the decision ____ thoughtfully.",
+        "options": [
+            "casually",
+            "hardly",
+            "very",
+            "naturally"
+        ],
+        "result": "very",
+        "explanation": "Explanation:  Here the word \u2018very\u2019 is an adverb of degree which modifies another adverb \u2018thoughtfully\u2019."
+    },
+    {
+        "question": "2. She feels ____ scared.",
+        "options": [
+            "extreme",
+            "so",
+            "extremely",
+            "b &amp;amp; c"
+        ],
+        "result": "b &amp;amp; c",
+        "explanation": "Explanation:  Here \u2018hopefully\u2019 works as an adverb of frequency which modifies the whole sentence."
+    },
+    {
+        "question": "3. ____, I will visit that place someday.",
+        "options": [
+            "When",
+            "So",
+            "If",
+            "Hopefully"
+        ],
+        "result": "Hopefully",
+        "explanation": "Explanation:  The word \u2018regularly\u2019 is an adverb of frequency and it modifies the verb \u2018studied\u2019."
+    },
+    {
+        "question": "4. You handled the situation ____.",
+        "options": [
+            "woeful",
+            "wonderful",
+            "natural",
+            "barely"
+        ],
+        "result": "barely",
+        "explanation": "Explanation:  The word \u2018sincerely\u2019 is an adverb of manner and it modifies the verb \u2018did\u2019."
+    },
+    {
+        "question": "5. Which one will be incorrect?",
+        "options": [
+            "quiet",
+            "quite",
+            "very",
+            "pretty"
+        ],
+        "result": "quiet",
+        "explanation": "Explanation:  The word \u2018lately\u2019 is used as an adverb of time here and it modifies the verb \u2018seen\u2019."
+    },
+    {
+        "question": "6. He studied ____ to score a good result in the exams.",
+        "options": [
+            "regular",
+            "casual",
+            "extreme",
+            "regularly"
+        ],
+        "result": "regularly",
+        "explanation": "Explanation:  The word \u2018everywhere\u2019 is an adverb of place which is modifying the verb \u2018looked\u2019."
+    },
+    {
+        "question": "7. He did the job ____.",
+        "options": [
+            "sincerely",
+            "honest",
+            "punctual",
+            "complete"
+        ],
+        "result": "sincerely",
+        "explanation": "Explanation:  The word \u2018recently\u2019 is an adverb of time and it modifies the verb \u2018bought\u2019."
+    },
+    {
+        "question": "8. ____, I don\u2019t remember her address.",
+        "options": [
+            "Alas!",
+            "Naturally",
+            "Woefully",
+            "Unfortunately"
+        ],
+        "result": "Unfortunately",
+        "explanation": "Explanation:  Here the word \u2018nowhere\u2019 is an adverb of place which modifies the verb \u2018was\u2019."
+    },
+    {
+        "question": "9. The decision was taken ____ which is not good.",
+        "options": [
+            "rush",
+            "wisely",
+            "rashly",
+            "wise"
+        ],
+        "result": "rashly",
+        "explanation": "Explanation:  The word \u2018rarely\u2019 is an adverb of frequency and it modifies the verb \u2018misses\u2019."
+    },
+    {
+        "question": "10. ____, we know what it is like to lose a winning match.",
+        "options": [
+            "Gladly",
+            "Sadly",
+            "Hardly",
+            "Sad"
+        ],
+        "result": "Sadly",
+        "explanation": "Explanation:  The word \u2018everywhere\u2019 is an adverb of place which indicates the place of the action."
+    },
+    {
+        "question": "11. I have not seen you ____.",
+        "options": [
+            "long time",
+            "many days",
+            "late",
+            "lately"
+        ],
+        "result": "lately",
+        "explanation": "Explanation:  The word \u2018enough\u2019 is an adverb of degree which clarifies the level of the action."
+    },
+    {
+        "question": "12. He looked for you ____.",
+        "options": [
+            "near",
+            "afar",
+            "everywhere",
+            "somewhere"
+        ],
+        "result": "everywhere",
+        "explanation": "Explanation:  The word \u2018always\u2019 is an adverb of frequency which indicates the frequency of action."
+    },
+    {
+        "question": "13. She ____ bought a gorgeous dress.",
+        "options": [
+            "recent",
+            "recently",
+            "likely",
+            "hardly"
+        ],
+        "result": "recently",
+        "explanation": "Explanation:  The word \u2018clearly\u2019 is an adverb of degree which indicates the level of the action."
+    },
+    {
+        "question": "14. She was ____ to be found.",
+        "options": [
+            "nowhere",
+            "where",
+            "like",
+            "unlike"
+        ],
+        "result": "nowhere",
+        "explanation": "Explanation:  The word \u2018above\u2019 is an adverb of place which indicates the place of the action."
+    },
+    {
+        "question": "15. He ____ misses a chance like this.",
+        "options": [
+            "naturally",
+            "likely",
+            "rarely",
+            "simply"
+        ],
+        "result": "rarely",
+        "explanation": "Explanation:  The word \u2018just\u2019 is an adverb of time which refers to the occurring time of the action."
+    },
+    {
+        "question": "16. His brother died suddenly while they were on a trip. - Which word is an adverb in the sentence?",
+        "options": [
+            "His",
+            "trip",
+            "suddenly",
+            "while"
+        ],
+        "result": "suddenly",
+        "explanation": "Explanation:  The word \u2018during\u2019 is an adverb of time which indicates when the action took place."
+    },
+    {
+        "question": "17. The police are looking for him everywhere. - Which word is an adverb in the sentence?",
+        "options": [
+            "The",
+            "for",
+            "him",
+            "everywhere"
+        ],
+        "result": "everywhere",
+        "explanation": "Explanation:  The word \u2018out\u2019 is an adverb of place which indicates the location of the action."
+    },
+    {
+        "question": "18. She was barely talking when they found her. - Which word is an adverb in the sentence?",
+        "options": [
+            "barely",
+            "talking",
+            "her",
+            "found"
+        ],
+        "result": "barely",
+        "explanation": "Explanation:  The word \u2018too\u2019 is an adverb of degree which indicates the level of the action."
+    },
+    {
+        "question": "19. I never faced something like this in my life. - Which word is an adverb in the sentence?",
+        "options": [
+            "faced",
+            "life",
+            "something",
+            "never"
+        ],
+        "result": "never",
+        "explanation": "Explanation:  The word \u2018always\u2019 is an adverb of frequency which indicates the frequency of the action."
+    },
+    {
+        "question": "20. I think you have done enough. - Which word is an adverb in the sentence?",
+        "options": [
+            "done",
+            "enough",
+            "have",
+            "you"
+        ],
+        "result": "enough",
+        "explanation": "Explanation:  Generally no article is used before the name of language; to mean"
+    },
+    {
+        "question": "21. I will always love you. - Which word is an adverb in the sentence?",
+        "options": [
+            "I",
+            "love",
+            "will",
+            "always"
+        ],
+        "result": "always",
+        "explanation": null
+    },
+    {
+        "question": "22. Clearly, you have made a mistake. - Which word is an adverb in the sentence?",
+        "options": [
+            "have",
+            "Clearly",
+            "mistake",
+            "made"
+        ],
+        "result": "Clearly",
+        "explanation": null
+    },
+    {
+        "question": "23. He had an accident as he was driving carelessly. - Which word is an adverb in the sentence?",
+        "options": [
+            "accident",
+            "driving",
+            "was",
+            "carelessly"
+        ],
+        "result": "carelessly",
+        "explanation": null
+    },
+    {
+        "question": "24. She looked above to check if it would rain. - Which word is an adverb in the sentence?",
+        "options": [
+            "see",
+            "if",
+            "would",
+            "above"
+        ],
+        "result": "above",
+        "explanation": null
+    },
+    {
+        "question": "25. The package has just arrived. - Which word is an adverb in the sentence?",
+        "options": [
+            "package",
+            "arrived",
+            "just",
+            "has"
+        ],
+        "result": "just",
+        "explanation": null
+    },
+    {
+        "question": "26. We were together during the summer. - Which word is an adverb in the sentence?",
+        "options": [
+            "during",
+            "summer",
+            "together",
+            "were"
+        ],
+        "result": "during",
+        "explanation": null
+    },
+    {
+        "question": "27. Are you coming out or not? - Which word is an adverb in the sentence?",
+        "options": [
+            "or",
+            "not",
+            "out",
+            "are"
+        ],
+        "result": "out",
+        "explanation": null
+    },
+    {
+        "question": "28. To become an expert hunter, you have to learn to move slowly. - Which word is an adverb in the sentence?",
+        "options": [
+            "become",
+            "expert",
+            "move",
+            "slowly"
+        ],
+        "result": "slowly",
+        "explanation": null
+    },
+    {
+        "question": "29. Is she coming with us too? Which one is adverb?",
+        "options": [
+            "coming",
+            "too",
+            "with",
+            "she"
+        ],
+        "result": "too",
+        "explanation": null
+    },
+    {
+        "question": "30. You cannot always get what you want in life. - Which word is an adverb in the sentence?",
+        "options": [
+            "always",
+            "want",
+            "get",
+            "in"
+        ],
+        "result": "always",
+        "explanation": null
+    },
+    {
+        "question": "31. \u2018The French\u2019 refers to_______.",
+        "options": [
+            "The French language",
+            "The French people",
+            "the French manner",
+            "the French society"
+        ],
+        "result": "The French people",
+        "explanation": null
+    }
+]

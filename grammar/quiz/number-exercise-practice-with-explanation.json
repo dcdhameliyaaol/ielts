@@ -1,0 +1,332 @@
+[
+    {
+        "question": "1. Which of the following words is in singular form?",
+        "options": [
+            "formulae",
+            "agenda",
+            "oases",
+            "radius"
+        ],
+        "result": "radius",
+        "explanation": "Explanation:  The plural form of spectrum is spectra which means \u2018a band of colors\u2019."
+    },
+    {
+        "question": "2. Which of the following words is not plural?",
+        "options": [
+            "feet",
+            "lice",
+            "news",
+            "men"
+        ],
+        "result": "news",
+        "explanation": "Explanation:  Words that end with \u2018um\u2019 are generally in singular form."
+    },
+    {
+        "question": "3. The plural form of \u2018Apex\u2019 is_________.",
+        "options": [
+            "apexes",
+            "apices",
+            "apexos",
+            "apexeon"
+        ],
+        "result": "apexes",
+        "explanation": "Explanation:  The correct plural form of mouse is mice."
+    },
+    {
+        "question": "4. What is the plural form of \u2018Magus\u2019?",
+        "options": [
+            "Magu",
+            "Maguses",
+            "Magi",
+            "Magis"
+        ],
+        "result": "Magi",
+        "explanation": "Explanation:  Oxen is plural form of ox."
+    },
+    {
+        "question": "5. What is the plural number of \u2018spectrum\u2019?",
+        "options": [
+            "Spectrums",
+            "Spectra",
+            "Species",
+            "Specta"
+        ],
+        "result": "Spectra",
+        "explanation": "Explanation:  Both plural and singular form of the word \u2018Deer\u2019 is deer."
+    },
+    {
+        "question": "6. Which one is in singular number?",
+        "options": [
+            "Criteria",
+            "Data",
+            "Agenda",
+            "Index"
+        ],
+        "result": "Index",
+        "explanation": "Explanation:  Crises is the plural form of the word \u2018Crisis\u2019."
+    },
+    {
+        "question": "7. Which of the following is a singular noun?",
+        "options": [
+            "Syllabi",
+            "Phenomena",
+            "Premium",
+            "Media"
+        ],
+        "result": "Premium",
+        "explanation": "Explanation:  "
+    },
+    {
+        "question": "8. What is the plural form of \u2018Furniture\u2019?",
+        "options": [
+            "Furnitures",
+            "Many furnitures",
+            "Much Furnitures",
+            "Furniture"
+        ],
+        "result": "Furniture",
+        "explanation": "Explanation:  Innings is the only singular form here."
+    },
+    {
+        "question": "9. The _________ of the office will be sold.",
+        "options": [
+            "equipment",
+            "furnitures",
+            "baggages",
+            "Machineries"
+        ],
+        "result": "equipment",
+        "explanation": "Explanation:  "
+    },
+    {
+        "question": "10. Which one is plural number?",
+        "options": [
+            "fiveses",
+            "fivess",
+            "five\u2019s",
+            "five"
+        ],
+        "result": "five\u2019s",
+        "explanation": "Explanation:  Banditti is the plural form of the singular word Bandit."
+    },
+    {
+        "question": "11. Which one of the nouns has no singular form?",
+        "options": [
+            "measles",
+            "horses",
+            "men",
+            "brethren"
+        ],
+        "result": "measles",
+        "explanation": "Explanation:  Politics is a singular number."
+    },
+    {
+        "question": "12. The plural form of \u2018alphabet\u2019 is_________.",
+        "options": [
+            "alphabest",
+            "alphabets",
+            "alphabeties",
+            "none"
+        ],
+        "result": "none",
+        "explanation": "Explanation:  If there is \u2018of\u2019 after hundred, dozen, score, thousand, then \u2018s\u2019 is added"
+    },
+    {
+        "question": "13. The plural form of \u2018Bureau\u2019________.",
+        "options": [
+            "Bureax",
+            "Bureaux",
+            "Buraes",
+            "Bureas"
+        ],
+        "result": "Bureaux",
+        "explanation": null
+    },
+    {
+        "question": "14. Which of the following words is in singular form?",
+        "options": [
+            "Bacteria",
+            "Dicta",
+            "Hypogastria",
+            "Medium"
+        ],
+        "result": "Medium",
+        "explanation": null
+    },
+    {
+        "question": "15. Which one is plural form of the word \u2018mouse\u2019?",
+        "options": [
+            "Mouses",
+            "Mouseses",
+            "Mice",
+            "Mices"
+        ],
+        "result": "Mice",
+        "explanation": null
+    },
+    {
+        "question": "16. The plural form of \u2018dwarf\u2019 is ______?",
+        "options": [
+            "Dwarves",
+            "Dwarfes",
+            "Dwarfs",
+            "Dwarx "
+        ],
+        "result": "Dwarfs",
+        "explanation": null
+    },
+    {
+        "question": "17. If there is if, ief, eef, oof or rf at the end of noun, there will only be added \u2018s\u2019 with the word to make it plural.",
+        "options": [
+            "Politics",
+            "Oases",
+            "Shingles",
+            "Measles"
+        ],
+        "result": "Politics",
+        "explanation": null
+    },
+    {
+        "question": "18. All of the people at the AAME conference are__________.",
+        "options": [
+            "Mathematic teachers",
+            "Mathematics teachers",
+            "Mathematic teachers",
+            "Mathematic\u2019s teachers"
+        ],
+        "result": "Mathematics teachers",
+        "explanation": null
+    },
+    {
+        "question": "19. Which one is the plural number?",
+        "options": [
+            "School",
+            "Oxen",
+            "Leaf",
+            "Mathematics"
+        ],
+        "result": "Oxen",
+        "explanation": null
+    },
+    {
+        "question": "20. The plural form of the word \u2018Deer\u2019 is_________.",
+        "options": [
+            "Deer",
+            "Deeres",
+            "Deers",
+            "None"
+        ],
+        "result": "Deer",
+        "explanation": null
+    },
+    {
+        "question": "21. Which one of the following is a plural?",
+        "options": [
+            "news",
+            "crises",
+            "ethics",
+            "economics"
+        ],
+        "result": "crises",
+        "explanation": null
+    },
+    {
+        "question": "22. Identify the word that can be used as both singular and plural:",
+        "options": [
+            "wood",
+            "fish",
+            "issue",
+            "light"
+        ],
+        "result": "fish",
+        "explanation": null
+    },
+    {
+        "question": "23. Which of the following words is in singular form?",
+        "options": [
+            "basis",
+            "syllabi",
+            "formula",
+            "media"
+        ],
+        "result": "basis",
+        "explanation": null
+    },
+    {
+        "question": "24. Which one is singular?",
+        "options": [
+            "public",
+            "cattle",
+            "innings",
+            "vitals"
+        ],
+        "result": "innings",
+        "explanation": null
+    },
+    {
+        "question": "25. What is the plural form of the word \u201cSeraph\u201d?",
+        "options": [
+            "Seraphs",
+            "Serapic",
+            "Seraphes",
+            "Seraphim"
+        ],
+        "result": "Seraphim",
+        "explanation": null
+    },
+    {
+        "question": "26. Which of the following is in plural form?",
+        "options": [
+            "Cherub",
+            "Gallows",
+            "Banditti",
+            "Vertebra"
+        ],
+        "result": "Banditti",
+        "explanation": null
+    },
+    {
+        "question": "27. In order to improve farming methods, we need________.",
+        "options": [
+            "machine",
+            "machinery",
+            "a machinery",
+            "machineries"
+        ],
+        "result": "machinery",
+        "explanation": null
+    },
+    {
+        "question": "28. Choose the correct sentence:",
+        "options": [
+            "We take decisions based on some informations.",
+            "We take decision based on some information.",
+            "We take decisions based on some information.",
+            "We take decision based on some informations."
+        ],
+        "result": "We take decisions based on some information.",
+        "explanation": null
+    },
+    {
+        "question": "29. What is the singular form of \u2018Politics\u2019?",
+        "options": [
+            "Politicess",
+            "Politices",
+            "Polities",
+            "None"
+        ],
+        "result": "None",
+        "explanation": null
+    },
+    {
+        "question": "30. I\u2019ve done it __________ of times.",
+        "options": [
+            "hundreds",
+            "hundred",
+            "a hundred",
+            "hundredth"
+        ],
+        "result": "hundreds",
+        "explanation": null
+    }
+]

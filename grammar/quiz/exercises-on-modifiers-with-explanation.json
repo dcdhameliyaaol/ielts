@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. Which of the following sentence is correct?",
+        "options": [
+            "Hearing the good news, I was happy.",
+            "Hearing the good news, happiness was mine.",
+            "Hearing the good news, happy I was.",
+            "Hearing the good news, mine was happy."
+        ],
+        "result": "Hearing the good news, I was happy.",
+        "explanation": "Explanation:  All except \u2018b\u2019 has the wrong placement of modifier. Only is the"
+    },
+    {
+        "question": "2. Choose the correct sentence:",
+        "options": [
+            "Entering the room, the light was off.",
+            "Entering the room, I found the light off.",
+            "Entering the room, the light was found off by me.",
+            "Entering the room, the room was found dark."
+        ],
+        "result": "Entering the room, I found the light off.",
+        "explanation": null
+    },
+    {
+        "question": "3. Having been served lunch__________. The sentence is incomplete. Choose one which best completes the sentence.",
+        "options": [
+            "the problem was discussed by the members of the committee.",
+            "it was discussed by the members of the committee the problem.",
+            "the members of the committee discussed the problem.",
+            "a discussion of the problem was made by the members of the committee."
+        ],
+        "result": "the members of the committee discussed the problem.",
+        "explanation": null
+    },
+    {
+        "question": "4. Worn out by a long walk, she fainted. Here \u2018worn out\u2019 is a ______.",
+        "options": [
+            "Present participle",
+            "dangling participle",
+            "adjective complement",
+            "adverb"
+        ],
+        "result": "dangling participle",
+        "explanation": null
+    },
+    {
+        "question": "5. No confusion of the grammatical subject occurs in.",
+        "options": [
+            "Young and inexperienced, the task seemed easy to me.",
+            "Young and inexperienced, it seemed to be an easy task for me.",
+            "Young and inexperienced, I thought the task easy.",
+            "Young and inexperienced, it was an easy task for me."
+        ],
+        "result": "Young and inexperienced, I thought the task easy.",
+        "explanation": null
+    },
+    {
+        "question": "6. Choose the correct sentence.",
+        "options": [
+            "While running in the park, his hand was dislocated.",
+            "While running in the park, it was his hand that dislocated.",
+            "While running in the park, his hand which was dislocated.",
+            "While running in the park, he dislocated his hand."
+        ],
+        "result": "While running in the park, he dislocated his hand.",
+        "explanation": null
+    },
+    {
+        "question": "7. After jumping off the Yacht, _______.",
+        "options": [
+            "a snake bit the man.",
+            "the man was bitten by a snake.",
+            "the man bite the snake.",
+            "the snake bite the man."
+        ],
+        "result": "the man was bitten by a snake.",
+        "explanation": null
+    },
+    {
+        "question": "8. Which of the following sentence is correct?",
+        "options": [
+            "The man was short who stole my purse.",
+            "The man was short which stole my purse.",
+            "The man who stole my purse was short.",
+            "The man stole my purse was short."
+        ],
+        "result": "The man who stole my purse was short.",
+        "explanation": null
+    },
+    {
+        "question": "9. Unlike most birds______________.",
+        "options": [
+            "there is lack of feather on vultures\u2019 heads and necks.",
+            "feathers are not found on the heads and necks of vultures.",
+            "there are no feathers on vultures\u2019 heads and necks.",
+            "vultures do not have feathers on their heads and necks."
+        ],
+        "result": "vultures do not have feathers on their heads and necks.",
+        "explanation": null
+    },
+    {
+        "question": "10. While going to the office, ___",
+        "options": [
+            "a fox chased me.",
+            "I was chased by a fox.",
+            "the fox chased me.",
+            "me chased the fox."
+        ],
+        "result": "I was chased by a fox.",
+        "explanation": null
+    },
+    {
+        "question": "11. Find out the correct sentence.",
+        "options": [
+            "I earned nearly fifty Taka today.",
+            "I nearly earned fifty Taka today.",
+            "I earned fifty Taka today.",
+            "Nearly I earned fifty Taka today."
+        ],
+        "result": "I earned nearly fifty Taka today.",
+        "explanation": null
+    },
+    {
+        "question": "12. Choose the sentence with misplaced modifiers.",
+        "options": [
+            "The salesperson sold the shirt with the blue print to the man.",
+            "On his way to school, Abraham found a woman\u2019s yellow bag.",
+            "On his way to school, Abraham found a yellow woman\u2019s bag.",
+            "John ate a cup of cold coffee for breakfast."
+        ],
+        "result": "On his way to school, Abraham found a yellow woman\u2019s bag.",
+        "explanation": null
+    },
+    {
+        "question": "13. _____________, the traveler took a nap.",
+        "options": [
+            "Be tired and exhausted",
+            "Having tired and exhausted",
+            "After having tired and exhausted",
+            "Tired and exhausted"
+        ],
+        "result": "Tired and exhausted",
+        "explanation": null
+    },
+    {
+        "question": "14. Which sentence is correct?",
+        "options": [
+            "Not looking where he was going, a bike hit him.",
+            "Not looking where he was going, he was hit by a bike.",
+            "Not looking where he was going, he was hitted by a bike.",
+            "Not looking where he was going, him was hit by a bike."
+        ],
+        "result": "Not looking where he was going, he was hit by a bike.",
+        "explanation": null
+    },
+    {
+        "question": "15. Choose the correct sentence.",
+        "options": [
+            "The tailor\u2019s broken umbrella was in the storeroom.",
+            "The broken tailor\u2019s umbrella was in the storeroom.",
+            "The tailor\u2019s umbrella was in the storeroom.",
+            "The tailor\u2019s broken umbrella was broken in the storeroom."
+        ],
+        "result": "The tailor\u2019s broken umbrella was in the storeroom.",
+        "explanation": null
+    },
+    {
+        "question": "16. Choose the sentence with correct modifiers.",
+        "options": [
+            "Just Lincoln was selected for the team.",
+            "Lincoln was just selected for the team.",
+            "Lincoln was selected for just the team.",
+            "Lincoln just was selected for the team."
+        ],
+        "result": "Lincoln was just selected for the team.",
+        "explanation": null
+    },
+    {
+        "question": "17. Complete the sentence with an appropriate choice:Walking through forest,______________.",
+        "options": [
+            "the path of the traveler was moonlit",
+            "the moon lit up the leaves of the trees",
+            "the traveler saw the moon above the trees",
+            "the moon was seen above the trees by the traveler"
+        ],
+        "result": "the traveler saw the moon above the trees",
+        "explanation": null
+    },
+    {
+        "question": "18. Choose the correct sentence.",
+        "options": [
+            "Hearing the good news, I was glad.",
+            "Hearing the good news, glad I was.",
+            "Hearing the good news, I glad was.",
+            "Hearing the good news, glad I was."
+        ],
+        "result": "Hearing the good news, I was glad.",
+        "explanation": null
+    },
+    {
+        "question": "19. Similar to the hard disk_________.",
+        "options": [
+            "stores data in the floppy disk sectors",
+            "the floppy disk stores data in disk sectors",
+            "data is stored in the floppy disk sectors",
+            "stores data in sectors of the floppy disk"
+        ],
+        "result": "the floppy disk stores data in disk sectors",
+        "explanation": null
+    },
+    {
+        "question": "20. Which sentence uses the modifier correctly?",
+        "options": [
+            "The kids quickly ate all that food.",
+            "I only have one day to get this report finished.",
+            "The movie\u2019s exciting plot didn\u2019t improve it.",
+            "Plunging into the water, he rescued the child drowning."
+        ],
+        "result": "I only have one day to get this report finished.",
+        "explanation": null
+    }
+]

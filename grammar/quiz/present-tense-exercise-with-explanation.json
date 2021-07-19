@@ -1,0 +1,123 @@
+[
+    {
+        "question": "1. Choose the correct sentence. ",
+        "options": [
+            "The doctor suggested that the patient that he not work too hard for three months.",
+            "The doctor suggested that the patient take things easy for at least three months.",
+            "The doctor suggested that the patient taking it easy inside of three months.",
+            "The doctor suggested that the patient to take some vacations for three months."
+        ],
+        "result": "The doctor suggested that the patient take things easy for at least three months.",
+        "explanation": "Explanation:  This sentence employs the subjunctive mood. \u201cSuggested that\u201d demands a simple form of the verb in the next clause. Only (B) has a simple verb in the second clause. "
+    },
+    {
+        "question": "2. Francis Bacon\u2019s stories often ________ pragmatic endings.",
+        "options": [
+            "had",
+            "have",
+            "has",
+            "have had"
+        ],
+        "result": "have",
+        "explanation": "Explanation:  The sentence is in. So, the principle verb will be in past participle form."
+    },
+    {
+        "question": "3. Just now he ________ his dinner but he says he\u2019ll see you when he\u2019s finished.",
+        "options": [
+            "is having",
+            "was having",
+            "has had",
+            "had"
+        ],
+        "result": "has had",
+        "explanation": "Explanation:  To describe a natural process, Present Indefinite Tense is used."
+    },
+    {
+        "question": "4. Choose the correct sentence:",
+        "options": [
+            "I have been here since Monday.",
+            "I am here since Monday.",
+            "I am here from Monday.",
+            "I was here since Monday."
+        ],
+        "result": "I have been here since Monday.",
+        "explanation": "Explanation:  Present Indefinite Tense is used to describe any scientific truth. "
+    },
+    {
+        "question": "5. John looks sick.",
+        "options": [
+            "He has suffered for fever for the last three days.",
+            "He has been suffering from fever for the last three days.",
+            "He has suffered with fever for the last three days.",
+            "He has suffered from fever for the last three days."
+        ],
+        "result": "He has been suffering from fever for the last three days.",
+        "explanation": null
+    },
+    {
+        "question": "6. Have you ________ the letter?",
+        "options": [
+            "write",
+            "wrote",
+            "written",
+            "writting"
+        ],
+        "result": "written",
+        "explanation": null
+    },
+    {
+        "question": "7. The river has ________ its banks.",
+        "options": [
+            "overflown",
+            "overflowed",
+            "overflew",
+            "overloaded"
+        ],
+        "result": "overflowed",
+        "explanation": null
+    },
+    {
+        "question": "8. Choose the correct sentence:",
+        "options": [
+            "Why you have done this?",
+            "Why did you have done this?",
+            "Why have you done this?",
+            "Why have you had done this?"
+        ],
+        "result": "Why have you done this?",
+        "explanation": null
+    },
+    {
+        "question": "9. It ________ all week. I hope it stops by Saturday because I want to go to the beach.",
+        "options": [
+            "did rain",
+            "rained",
+            "was raining",
+            "has been raining"
+        ],
+        "result": "was raining",
+        "explanation": null
+    },
+    {
+        "question": "10. A solar cell is a device that________.",
+        "options": [
+            "converts light and produces electricity.",
+            "converting light and produces electricity.",
+            "converts light and produced electricity.",
+            "converted light and produced electricity."
+        ],
+        "result": "converts light and produces electricity.",
+        "explanation": null
+    },
+    {
+        "question": "11. Two atoms of hydrogen ________ with one atom of oxygen to form a molecule of water.",
+        "options": [
+            "combing",
+            "combined",
+            "combines",
+            "combine"
+        ],
+        "result": "combine",
+        "explanation": null
+    }
+]

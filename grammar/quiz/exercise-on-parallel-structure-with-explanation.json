@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. I want this to be done ___",
+        "options": [
+            "precisely, carefully and as soon as possible.",
+            "with accurate measure, carefully, immediately",
+            "precisely, carefully and immediately",
+            "precisely, with proper precaution and immediately."
+        ],
+        "result": "precisely, carefully and immediately",
+        "explanation": "Explanation:  The selected option is the only viable one out of the given ones as all the words are in adverb form."
+    },
+    {
+        "question": "2. His actions were \u2013",
+        "options": [
+            "bold, with lots of courage and laudable.",
+            "bold, courageous and laudable.",
+            "bold, with lots of courage and can be praised.",
+            "bold, courageous and can be praised."
+        ],
+        "result": "bold, courageous and laudable.",
+        "explanation": "Explanation:  The selected option is the only viable one out of the given ones as all the words are in noun form."
+    },
+    {
+        "question": "3. She was \u2013",
+        "options": [
+            " weak, vulnerable and stupid.",
+            "not so strong, without any defense and stupid.",
+            "weak, without any defense and stupid.",
+            " weak, vulnerable and lacked intelligence."
+        ],
+        "result": " weak, vulnerable and stupid.",
+        "explanation": "Explanation:  Option 3 is the only viable one out of the given ones as all the words are in noun form here. "
+    },
+    {
+        "question": "4. Doctor advised him \u2013",
+        "options": [
+            "to stay at home, taking proper medication and avoiding junk food.",
+            "staying at home, to take proper medication and to avoid junk food.",
+            "to stay at home, to take proper medication and avoiding junk food.",
+            "to stay at home, to take proper medication and to avoid junk food."
+        ],
+        "result": "to stay at home, to take proper medication and to avoid junk food.",
+        "explanation": null
+    },
+    {
+        "question": "5. My wife is ___",
+        "options": [
+            "an artist, sings and dances.",
+            "an artist, a singer and dances.",
+            "an artist, a singer and a dancer.",
+            "an artist. Sings and a dancer."
+        ],
+        "result": "an artist, a singer and a dancer.",
+        "explanation": null
+    },
+    {
+        "question": "6. I asked him to finish reading the book ___",
+        "options": [
+            "as soon as possible and thoroughly.",
+            "quickly and thoroughly.",
+            "quickly and in a detailed manner.",
+            "soon as possible and to be as precise at it can be."
+        ],
+        "result": "quickly and thoroughly.",
+        "explanation": null
+    },
+    {
+        "question": "7. The protest was \u2013",
+        "options": [
+            "peaceful, organized and goal oriented.",
+            "not violent, without any chaos and goal oriented.",
+            "peaceful, without any chaos and goal oriented.",
+            "not violent, organized and not scattered."
+        ],
+        "result": "peaceful, organized and goal oriented.",
+        "explanation": null
+    },
+    {
+        "question": "8. I know you can complete the task \u2013",
+        "options": [
+            "not requiring any help, within time and avoiding errors.",
+            "not requiring any help, timely and accurately.",
+            "alone, within time and avoiding errors.",
+            "alone, timely and accurately."
+        ],
+        "result": "alone, timely and accurately.",
+        "explanation": null
+    },
+    {
+        "question": "9. Don\u2019t leave me here \u2013",
+        "options": [
+            "alone, helpless and blindfolded.",
+            "alone, without any assistance and eyes tied up.",
+            "alone, helpless and eyes tied up.",
+            "alone, without any assistance and blindfolded."
+        ],
+        "result": "alone, helpless and blindfolded.",
+        "explanation": null
+    },
+    {
+        "question": "10. While visiting New York we \u2013",
+        "options": [
+            "roamed around, eating at restaurants and enjoyed our stay there.",
+            "roaming around, ate at restaurants and enjoyed our stay there.",
+            "roamed around, ate at restaurants and enjoying our stay there.",
+            "roamed around, ate at restaurants and enjoyed our stay there."
+        ],
+        "result": "roamed around, ate at restaurants and enjoyed our stay there.",
+        "explanation": null
+    },
+    {
+        "question": "11. She likes \u2013",
+        "options": [
+            "reading, writing and to recite.",
+            "to read, to write and reciting.",
+            "to read, to write and to recite.",
+            "to read, writing and reciting."
+        ],
+        "result": "to read, to write and to recite.",
+        "explanation": null
+    },
+    {
+        "question": "12. After finishing my dinner I usually like to ____",
+        "options": [
+            "watching movies, playing video games and drink coffee.",
+            "watch movies, play video games and drink coffee.",
+            "watch movies, playing video games and drink coffee.",
+            "watching movies, play video games and drinking coffee."
+        ],
+        "result": "watch movies, play video games and drink coffee.",
+        "explanation": null
+    },
+    {
+        "question": "13. The story is \u2013",
+        "options": [
+            "thrilling, romantic and factious.",
+            "a thriller, romantic and factious.",
+            "thriller, romantic and a fiction.",
+            "thriller, romantic and a fiction."
+        ],
+        "result": "thrilling, romantic and factious.",
+        "explanation": null
+    },
+    {
+        "question": "14. This girl is \u2013",
+        "options": [
+            "beautiful, have lots of talent and will definitely grow into an adorable woman.",
+            "a thing of beauty, intelligent and is going to be grown into an adorable woman.",
+            "beautiful, intelligent and will definitely grow into an adorable woman.",
+            "a thing of beauty, have lots of talent and is going to be grown into an adorable  woman."
+        ],
+        "result": "beautiful, intelligent and will definitely grow into an adorable woman.",
+        "explanation": null
+    },
+    {
+        "question": "15. What he submitted was \u2013",
+        "options": [
+            "nonsense, without any proper meaning and didn\u2019t have any organization.",
+            "nonsense, meaningless and unorganized.",
+            "had no sense, meaningless and wasn\u2019t properly organized.",
+            "nonsense, had no meaning and unorganized."
+        ],
+        "result": "nonsense, meaningless and unorganized.",
+        "explanation": null
+    },
+    {
+        "question": "16. While writing for an exam you should be more \u2013",
+        "options": [
+            "precise, carefully and punctually.",
+            "precise, careful and punctually.",
+            "precisely, carefully, and punctual.",
+            "precise, careful and punctual."
+        ],
+        "result": "precise, careful and punctual.",
+        "explanation": null
+    },
+    {
+        "question": "17. During winter it feels \u2013",
+        "options": [
+            "cold, with a chill and not so comfortable.",
+            "cold, chilly and uncomfortable.",
+            " not so warm, chilly and uncomfortable.",
+            "not so warm, chilly and not so comfortable."
+        ],
+        "result": "cold, chilly and uncomfortable.",
+        "explanation": null
+    },
+    {
+        "question": "18. After losing the game the manager blamed players\u2019 lack of \u2013",
+        "options": [
+            "concentration, proper attitude and motivation.",
+            "concentrating, proper attitude and motivation.",
+            "concentration, proper attitude and not being motivated.",
+            "concentrating, proper attitude and not being motivated."
+        ],
+        "result": "concentration, proper attitude and motivation.",
+        "explanation": null
+    },
+    {
+        "question": "19. She told me \u2013",
+        "options": [
+            "to be more responsible, spending more times with her and being more affectionate.",
+            "being responsible, to spend more times with her and to be more affectionate.",
+            " to be responsible, to spend more times with her and being more affectionate.",
+            "to be responsible, to spend more times with her and to be more affectionate."
+        ],
+        "result": "to be responsible, to spend more times with her and to be more affectionate.",
+        "explanation": null
+    },
+    {
+        "question": "20. Money can\u2019t help you to buy \u2013",
+        "options": [
+            "happiness, being peaceful and a perfect family.",
+            "being happy, peace and a perfect family.",
+            "happiness, peace and a perfect family.",
+            "being happy, being peaceful and a perfect family."
+        ],
+        "result": "happiness, peace and a perfect family.",
+        "explanation": null
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. He ____ never do such things against his will.",
+        "options": [
+            "can",
+            "would",
+            "may",
+            "might"
+        ],
+        "result": "would",
+        "explanation": "Explanation:  Here \u2018would\u2019 indicates repeated willingness in the past and preference in the present."
+    },
+    {
+        "question": "2. I ____ thought about this before I came here.",
+        "options": [
+            "would",
+            "shall",
+            "should have",
+            "could"
+        ],
+        "result": "should have",
+        "explanation": "Explanation:  Here \u2018should have\u2019 indicates obligation in the past."
+    },
+    {
+        "question": "3. I know you ____ done better than this.",
+        "options": [
+            "can",
+            "might",
+            "would",
+            "could have"
+        ],
+        "result": "could have",
+        "explanation": "Explanation:  Here \u2018could have\u2019 indicates ability with an option."
+    },
+    {
+        "question": "4. He ____ gone further away this time.",
+        "options": [
+            "may",
+            "could",
+            "might have",
+            "would"
+        ],
+        "result": "might have",
+        "explanation": "Explanation:  Here \u2018might have\u2019 indicates possibility."
+    },
+    {
+        "question": "5. It ____ serve us well in the near future.",
+        "options": [
+            "would have",
+            "could have",
+            "might have",
+            "might"
+        ],
+        "result": "might",
+        "explanation": "Explanation:  Here \u2018might\u2019 suggests possibility."
+    },
+    {
+        "question": "6. The transaction ____ done before it\u2019s too late.",
+        "options": [
+            " must be",
+            "must",
+            "would be",
+            "should"
+        ],
+        "result": " must be",
+        "explanation": "Explanation:  Here \u2018must be\u2019 indicates necessity or obligation."
+    },
+    {
+        "question": "7. You ____ smoke in a public place.",
+        "options": [
+            "can not",
+            "should",
+            "would not",
+            "should not"
+        ],
+        "result": "should not",
+        "explanation": "Explanation:  Here \u2018should not\u2019 indicates probability."
+    },
+    {
+        "question": "8. They ____ worked as a team to avoid failure.",
+        "options": [
+            "would have",
+            "can",
+            "should have",
+            "should"
+        ],
+        "result": "should have",
+        "explanation": "Explanation:  Here \u2018should have\u2019 indicates probability."
+    },
+    {
+        "question": "9. She ____ sing for him at night.",
+        "options": [
+            "could",
+            "used to",
+            "might",
+            "should"
+        ],
+        "result": "used to",
+        "explanation": "Explanation:  Here \u2018used to\u2019 indicates repeated willingness in the past."
+    },
+    {
+        "question": "10. I ____ do things differently from now on.",
+        "options": [
+            "must",
+            "should have",
+            "would have",
+            "could"
+        ],
+        "result": "must",
+        "explanation": "Explanation:  Here \u2018must\u2019 indicates obligation or necessity."
+    },
+    {
+        "question": "11. They ____ change their plans due to bad weather.",
+        "options": [
+            "might have",
+            "could have",
+            "may",
+            "should have"
+        ],
+        "result": "may",
+        "explanation": "Explanation:  Here \u2018may\u2019 suggests probability."
+    },
+    {
+        "question": "12. The teacher ____ take any exam today.",
+        "options": [
+            "would not ",
+            "will not ",
+            " should not ",
+            " could not"
+        ],
+        "result": "will not ",
+        "explanation": "Explanation:  Here \u2018will not\u2019 indicates the willingness to avoid something."
+    },
+    {
+        "question": "13. ____ you pass me the pen please?",
+        "options": [
+            "Should",
+            "May",
+            "Could",
+            "Might"
+        ],
+        "result": "Could",
+        "explanation": "Explanation:  Here \u2018could\u2019 indicates ability with an option."
+    },
+    {
+        "question": "14. Whenever we met, we ____ talk for hours.",
+        "options": [
+            "could",
+            "should",
+            "would",
+            "may"
+        ],
+        "result": "would",
+        "explanation": "Explanation:  Here \u2019would\u2019 indicates repeated willingness in the past."
+    },
+    {
+        "question": "15. Things ____ become sour anytime between them.",
+        "options": [
+            "would",
+            "can",
+            "should",
+            "would havehave"
+        ],
+        "result": "can",
+        "explanation": "Explanation:  Here \u2018can\u2019 indicates ability."
+    },
+    {
+        "question": "16. I ____ left when I had the chance.",
+        "options": [
+            "shall have",
+            "should have",
+            "may have ",
+            "might have"
+        ],
+        "result": "should have",
+        "explanation": "Explanation:  Here \u2018should have\u2019 indicates probability."
+    },
+    {
+        "question": "17. She ____ avoid the heated arguments to make it work between them.",
+        "options": [
+            "must",
+            "shall",
+            "might",
+            "would"
+        ],
+        "result": "must",
+        "explanation": "Explanation:  Here \u2018must\u2019 indicates obligation or necessity."
+    },
+    {
+        "question": "18. Her sister ____ often complain about her unusual behaviors.",
+        "options": [
+            "will",
+            "would",
+            "could",
+            "might"
+        ],
+        "result": "would",
+        "explanation": "Explanation:  Here \u2019would\u2019 indicates repeated willingness in the past."
+    },
+    {
+        "question": "19. I ____ loved her with all my heart while I had the chance to do so.",
+        "options": [
+            "would have",
+            "could",
+            "should have",
+            "might have"
+        ],
+        "result": "should have",
+        "explanation": "Explanation:  Here \u2018should have\u2019 indicates probability."
+    },
+    {
+        "question": "20. She ____ woke me up in the morning with her calls.",
+        "options": [
+            "might ",
+            "could",
+            "should",
+            "used to"
+        ],
+        "result": "used to",
+        "explanation": "Explanation:  Here \u2018used to\u2019 indicates repeated willingness in the past. "
+    }
+]

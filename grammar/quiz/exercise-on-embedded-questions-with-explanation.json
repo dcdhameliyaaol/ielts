@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. ____ what you know about me.",
+        "options": [
+            "I wonder what you know about me.",
+            "I\u2019m not sure what you know about me?",
+            "Let\u2019s ask what you know about me.",
+            "Would you mind what you know about me?"
+        ],
+        "result": "I wonder what you know about me.",
+        "explanation": "Explanation:  The selected sentence is the only sentence which is punctually accurate out of the four options that are given."
+    },
+    {
+        "question": "2. ____ why he was running late.",
+        "options": [
+            "Let\u2019s ask why he was running late.",
+            "I\u2019m not sure why he was running late?",
+            "I\u2019d like to know why he was running late.",
+            "Do you know why he was running late."
+        ],
+        "result": "I\u2019d like to know why he was running late.",
+        "explanation": "Explanation:  The selected sentence is the only sentence which is punctually accurate out of the four"
+    },
+    {
+        "question": "3. ____ if it can be done within tomorrow?",
+        "options": [
+            "I don\u2019t know if it can be done within tomorrow?",
+            "I wonder if it can be done by tomorrow?",
+            "I\u2019m not sure if it can be done by tomorrow.",
+            "Could you please tell me if it can be done by tomorrow?"
+        ],
+        "result": "Could you please tell me if it can be done by tomorrow?",
+        "explanation": null
+    },
+    {
+        "question": "4. ____ how irresponsible he is?",
+        "options": [
+            " I wonder how irresponsible he is?",
+            " I wonder how irresponsible he is?",
+            "Would you mind telling me how irresponsible he is.",
+            "The selected sentence is the only sentence which is punctually accurate out of the four  options tha"
+        ],
+        "result": " I wonder how irresponsible he is?",
+        "explanation": null
+    },
+    {
+        "question": "5. ____ how conservative they are?",
+        "options": [
+            "I\u2019m not sure how conservative they are?",
+            "Would you mind telling me how conservative they are?",
+            "Could you please tell me how conservative they\u2019re?",
+            "I\u2019d like to know how conservative they are?"
+        ],
+        "result": "Would you mind telling me how conservative they are?",
+        "explanation": null
+    },
+    {
+        "question": "6. ____ you are bored.",
+        "options": [
+            "I wonder whether or not you are bored.",
+            "Could you please tell me if or not you are bored.",
+            "Would you mind telling me if or not you are bored.",
+            "Do you know if or not you are bored."
+        ],
+        "result": "I wonder whether or not you are bored.",
+        "explanation": null
+    },
+    {
+        "question": "7. ____ if he was being honest or not?",
+        "options": [
+            "I\u2019d like to know if he was being honest or not.",
+            "I\u2019m not sure if he was being honest or not?",
+            "Could you please tell me if he was being honest or not.",
+            "Would you mind telling me if he was being honest or not?"
+        ],
+        "result": "Would you mind telling me if he was being honest or not?",
+        "explanation": null
+    },
+    {
+        "question": "8. ____ what I should do now.",
+        "options": [
+            "Could you please tell me what I should do now.",
+            "I\u2019m not sure what I should do now",
+            "Do you know what I should do now.",
+            " I wonder what I should do now?"
+        ],
+        "result": "I\u2019m not sure what I should do now",
+        "explanation": null
+    },
+    {
+        "question": "9. ____ how I can prepare tea?",
+        "options": [
+            "Could you please tell me how I can prepare tea.",
+            "I wonder how I can prepare tea?",
+            "I\u2019m not sure how I can prepare tea?",
+            "Would you mind telling me how I can prepare tea?"
+        ],
+        "result": "Would you mind telling me how I can prepare tea?",
+        "explanation": null
+    },
+    {
+        "question": "10. ____ if I can do this or not.",
+        "options": [
+            "I\u2019m not sure if I can do this or not?",
+            " I don\u2019t know if I can do this or not.",
+            "I wonder if I can do this or not?",
+            "Let\u2019s ask if I can do this or not?"
+        ],
+        "result": " I don\u2019t know if I can do this or not.",
+        "explanation": null
+    },
+    {
+        "question": "11. ____ when the meeting will be held?",
+        "options": [
+            "Could you please tell me when the meeting will be held?",
+            " I\u2019m not sure when the meeting will be held?",
+            "I don\u2019t know when the meeting will be held?",
+            "Let\u2019s ask when the meeting will be held?"
+        ],
+        "result": "Could you please tell me when the meeting will be held?",
+        "explanation": null
+    },
+    {
+        "question": "12. ____ when the bus leaves for New York?",
+        "options": [
+            " I wonder when the bus leaves for New York?",
+            " I don\u2019t know when the bus leaves for New York?",
+            "Do you know when the bus leaves for New York?",
+            "Let\u2019s ask when the bus leaves for New York?"
+        ],
+        "result": "Do you know when the bus leaves for New York?",
+        "explanation": null
+    },
+    {
+        "question": "13. ____ if you accept this or not.",
+        "options": [
+            "I\u2019m not sure if you accept this or not?",
+            "I\u2019d like to know if you accept this or not.",
+            "Could you please tell me if you accept this or not.",
+            "Would you mind telling me if you accept this or not."
+        ],
+        "result": "I\u2019d like to know if you accept this or not.",
+        "explanation": null
+    },
+    {
+        "question": "14. ____ giving me the direction towards the hospital?",
+        "options": [
+            "Could you please give me the direction towards the hospital.",
+            " I wonder if you\u2019d mind giving me the direction towards the hospital?",
+            "Would you mind giving me the direction towards the hospital?",
+            "Let\u2019s ask if you\u2019d mind giving me the direction towards the hospital?"
+        ],
+        "result": "Would you mind giving me the direction towards the hospital?",
+        "explanation": null
+    },
+    {
+        "question": "15. ____ if it\u2019s available or not.",
+        "options": [
+            " Let\u2019s ask if it\u2019s available or not.",
+            "Could you please tell me if it\u2019s available or not.",
+            " I wonder if it\u2019s available or not?",
+            "Do you know if it\u2019s available or not."
+        ],
+        "result": " Let\u2019s ask if it\u2019s available or not.",
+        "explanation": null
+    },
+    {
+        "question": "16. ____ what\u2019s wrong with him.",
+        "options": [
+            "I\u2019m not sure what\u2019s wrong with him?",
+            "Could you please tell me what\u2019s wrong with him.",
+            "I\u2019d like to know what\u2019s wrong with him?",
+            "I wonder what\u2019s wrong with him."
+        ],
+        "result": "I wonder what\u2019s wrong with him.",
+        "explanation": null
+    },
+    {
+        "question": "17. ____ whether or not I\u2019ll be able to play today.",
+        "options": [
+            "Do you know whether or not I\u2019ll be able to play today.",
+            "Let\u2019s ask whether or not I\u2019ll be able to play today?",
+            "I\u2019m not sure whether or not I\u2019ll be able to play today.",
+            "Could you please tell me whether or not I\u2019ll be able to play today."
+        ],
+        "result": "I\u2019m not sure whether or not I\u2019ll be able to play today.",
+        "explanation": null
+    },
+    {
+        "question": "18. ____ if they\u2019ll join us or not.",
+        "options": [
+            " Do you know if they\u2019ll join us or not.",
+            "Let\u2019s ask if they\u2019ll join us or not.",
+            "Would you mind telling me if they\u2019ll join us or not.",
+            "I wonder if they\u2019ll join us or not?"
+        ],
+        "result": "Let\u2019s ask if they\u2019ll join us or not.",
+        "explanation": null
+    },
+    {
+        "question": "19. ____ whether or not I can rely on his words anymore.",
+        "options": [
+            "Do you know whether or not I can rely on his words anymore.",
+            "Let\u2019s ask whether or not I can rely on his words anymore?",
+            "Would you mind telling me whether or not I can rely on his words anymore.",
+            "I don\u2019t know whether or not I can rely on him anymore."
+        ],
+        "result": "I don\u2019t know whether or not I can rely on him anymore.",
+        "explanation": null
+    },
+    {
+        "question": "20. ____ where we should go next.",
+        "options": [
+            "Do you know where we should go next.",
+            "Could you please tell us where we should go next.",
+            " I wonder where we should go next.",
+            "Would you mind telling us where we should go next."
+        ],
+        "result": "Would you mind telling us where we should go next.",
+        "explanation": null
+    }
+]

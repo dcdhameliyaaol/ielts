@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. George needs a ________. ",
+        "options": [
+            "juice",
+            "water",
+            "burger",
+            "sauce"
+        ],
+        "result": "burger",
+        "explanation": "Explanation:  Only choice (c) is a countable noun which requires an article before it. Other choices consist uncountable nouns that do not accept an indefinite article before them. "
+    },
+    {
+        "question": "2. Munro was driving a _______ when I saw him yesterday. ",
+        "options": [
+            "tree",
+            "Mercedes",
+            "infatuation",
+            "carriage"
+        ],
+        "result": "Mercedes",
+        "explanation": "Explanation:  Choices (a) and (c) do not make any sense because you cannot drive a tree or an abstract idea (infatuation). Choice (d) would be correct if the verb was \u2018riding\u2019. Mercedes is a name of a car. So, you can drive a car. "
+    },
+    {
+        "question": "3. On the weather forecast, they said there would be _________ this afternoon.",
+        "options": [
+            "Sun",
+            "sunlight",
+            "hotness",
+            "thunderstorm"
+        ],
+        "result": "thunderstorm",
+        "explanation": "Explanation:  Choice (d) is the only sensible noun to use in this context. "
+    },
+    {
+        "question": "4. The waiting room was so full of people and their _______ and there was nowhere to sit.",
+        "options": [
+            "painting",
+            "jewelry ",
+            "tool",
+            "bags"
+        ],
+        "result": "bags",
+        "explanation": "Explanation:  Only \u2018bags\u2019 (d) can make a room full. Other choices do not fit the context. "
+    },
+    {
+        "question": "5. Repairing car engines is easy if you\u2019ve got the right ______. ",
+        "options": [
+            "ideas",
+            "tools",
+            "jobs",
+            "accommodation"
+        ],
+        "result": "tools",
+        "explanation": "Explanation:  Choices (c) and (d) do not fit with the context. Choice (a) can be correct but choice (b) is appropriate. "
+    },
+    {
+        "question": "6. In Stockholm, at the moment there\u2019s a fascinating exhibition of__________ from 19th century Sweden.",
+        "options": [
+            "houses",
+            "accommodation",
+            "imagination",
+            "paintings"
+        ],
+        "result": "paintings",
+        "explanation": "Explanation:  Choices (b) and (c) do not make any sense. Choice (a) does not fit the context. Choice (d) is appropriate in this context. "
+    },
+    {
+        "question": "7. Both my brothers are looking for a _________.",
+        "options": [
+            "idea",
+            "improvement",
+            "accommodation",
+            "job"
+        ],
+        "result": "job",
+        "explanation": "Explanation:  job"
+    },
+    {
+        "question": "8. The price of \u2026\u2026\u2026\u2026\u2026 has increased by 12% this year alone.",
+        "options": [
+            "Imagination",
+            "Passion",
+            "Money",
+            "Gold"
+        ],
+        "result": "Gold",
+        "explanation": "Explanation:  Only choice (c) makes sense in this sentence."
+    },
+    {
+        "question": "9. Mary used to feed some \u2026\u2026\u2026\u2026.. in her garden until they started to get out.",
+        "options": [
+            "Education",
+            "Improvement",
+            "Birds",
+            "Life"
+        ],
+        "result": "Birds",
+        "explanation": "Explanation:  We cannot see or touch \u2018success\u2019 but we can feel it. So, it must be an abstract noun."
+    },
+    {
+        "question": "10. A score of 40% may not be very good but it\u2019s certainly an \u2026\u2026\u2026\u2026\u2026.. on her last mark.",
+        "options": [
+            "Orange",
+            "Occasion",
+            "Improvement",
+            "Encouragement"
+        ],
+        "result": "Improvement",
+        "explanation": "Explanation:  We cannot see or touch \u2018life\u2019 but we can feel it. So, it must be an abstract noun."
+    },
+    {
+        "question": "11. Success",
+        "options": [
+            "Proper Noun",
+            "Common Noun",
+            "Abstract Noun",
+            "Abstract Noun"
+        ],
+        "result": "Abstract Noun",
+        "explanation": "Explanation:  It\u2019s a name for a definite person and it starts with a capital letter. So, it must be a proper noun."
+    },
+    {
+        "question": "12. Life",
+        "options": [
+            "Common Noun",
+            "Proper Noun",
+            "Concrete Noun",
+            "Concrete Noun"
+        ],
+        "result": "Concrete Noun",
+        "explanation": "Explanation:  It\u2019s a common name for many people who have that profession. It\u2019s a name of a profession."
+    },
+    {
+        "question": "13. George",
+        "options": [
+            "Common Noun",
+            "Proper Noun",
+            "Concrete Noun",
+            "Abstract Noun"
+        ],
+        "result": "Proper Noun",
+        "explanation": "Explanation:  Choice (d) fits with the context and the other choices don\u2019t."
+    },
+    {
+        "question": "14. Police",
+        "options": [
+            "Common Noun",
+            "Proper Noun",
+            "Concrete Noun",
+            "Abstract Noun"
+        ],
+        "result": "Common Noun",
+        "explanation": "Explanation:  Choice (d) fits with the context more than the other choices."
+    },
+    {
+        "question": "15. I\u2019ve had a \u2026\u2026\u2026\u2026\u2026 of green vegetables ever since I was a child.",
+        "options": [
+            "Hate",
+            "Passion",
+            "Wrath",
+            "Dislike"
+        ],
+        "result": "Dislike",
+        "explanation": "Explanation:  Choice (d) fits with the context and the other choices do not."
+    },
+    {
+        "question": "16. Our students study both \u2026\u2026\u2026\u2026\u2026. and literature in their English degree.",
+        "options": [
+            "French",
+            "German",
+            "English",
+            "Language"
+        ],
+        "result": "Language",
+        "explanation": "Explanation:  Only thing that \u2018builds up\u2019 on a road is \u2018traffic\u2019. So, it must be choice (d)."
+    },
+    {
+        "question": "17. After so many previous \u2026\u2026\u2026\u2026\u2026\u2026.., it was inevitable that one of his films would be unpopular.",
+        "options": [
+            "Encouragements",
+            "Discouragements",
+            "Improvements",
+            "Successes"
+        ],
+        "result": "Successes",
+        "explanation": "Explanation:  \u2018Government\u2019s spending cuts\u2019 are employed on different sectors like \u2018education\u2019, agriculture,"
+    },
+    {
+        "question": "18. I had to go through a very strict and traditional \u2026\u2026\u2026\u2026\u2026\u2026.",
+        "options": [
+            "Family",
+            "Religion",
+            "Education",
+            "Methods"
+        ],
+        "result": "Education",
+        "explanation": null
+    },
+    {
+        "question": "19. \u2026\u2026\u2026\u2026\u2026..was building up on the motorway as the fog got thicker.",
+        "options": [
+            "a car",
+            "buses",
+            "people",
+            "traffic"
+        ],
+        "result": "traffic",
+        "explanation": null
+    },
+    {
+        "question": "20. \u2026\u2026\u2026\u2026 has been hit once again in the government\u2019s spending cuts.",
+        "options": [
+            "Traffic",
+            "Civilians",
+            "Education",
+            "Information"
+        ],
+        "result": "Education",
+        "explanation": null
+    }
+]

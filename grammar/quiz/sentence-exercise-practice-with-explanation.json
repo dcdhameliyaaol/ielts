@@ -1,0 +1,112 @@
+[
+    {
+        "question": "1. Most Americans would not be happy without a color television, two cars, and an extra job.",
+        "options": [
+            "Complex Sentence",
+            "Compound Sentence",
+            "Simple Sentence",
+            "Compound-Complex Sentence"
+        ],
+        "result": "Simple Sentence",
+        "explanation": "Explanation:  It is a complex sentence by the rules but it has a unique structure. Both of the clauses of this"
+    },
+    {
+        "question": "2. The lion has long been a symbol of strength and power but it is a cruel animal.",
+        "options": [
+            "Complex Sentence",
+            "Compound Sentence",
+            "Simple Sentence",
+            "Compound-Complex Sentence"
+        ],
+        "result": "Compound Sentence",
+        "explanation": null
+    },
+    {
+        "question": "3. John has not been able to recall where she lives.",
+        "options": [
+            "Complex Sentence",
+            "Compound Sentence",
+            "Simple Sentence",
+            "Compound-Complex Sentence"
+        ],
+        "result": "Complex Sentence",
+        "explanation": null
+    },
+    {
+        "question": "4. The chief of the police reported the case to a friend of his, who realized at once that the thief must be an extremely clever fellow.",
+        "options": [
+            "Complex Sentence",
+            "Compound Sentence",
+            "Simple Sentence",
+            "Compound-Complex Sentence"
+        ],
+        "result": "Complex Sentence",
+        "explanation": null
+    },
+    {
+        "question": "5. While the police were using all their skills and knowledge and carrying out a thorough search according to the methods, they had not used their brains.",
+        "options": [
+            "Complex Sentence",
+            "Compound Sentence",
+            "Simple Sentence",
+            "Compound-Complex Sentence"
+        ],
+        "result": "Complex Sentence",
+        "explanation": null
+    },
+    {
+        "question": "6. The police expected the letter to be hidden out of sight in some secret place difficult to discover.",
+        "options": [
+            "Complex Sentence",
+            "Compound Sentence",
+            "Simple Sentence",
+            "Compound-Complex Sentence"
+        ],
+        "result": "Simple Sentence",
+        "explanation": null
+    },
+    {
+        "question": "7. He had put the letter with two or three others in the letter-holder hanging on the wall.",
+        "options": [
+            "Complex Sentence",
+            "Compound Sentence",
+            "Simple Sentence",
+            "Compound-Complex Sentence"
+        ],
+        "result": "Simple Sentence",
+        "explanation": null
+    },
+    {
+        "question": "8. The brothers were told to come home before 6.00 PM but they failed.",
+        "options": [
+            "Complex Sentence",
+            "Compound Sentence",
+            "Simple Sentence",
+            "Compound-Complex Sentence"
+        ],
+        "result": "Compound Sentence",
+        "explanation": null
+    },
+    {
+        "question": "9. He was sick but he came to the office when it was required.",
+        "options": [
+            "Complex Sentence",
+            "Compound Sentence",
+            "Simple Sentence",
+            "Compound-Complex Sentence"
+        ],
+        "result": "Compound-Complex Sentence",
+        "explanation": null
+    },
+    {
+        "question": "10. The more she practiced, the more she improved.",
+        "options": [
+            "Complex Sentence",
+            "Compound Sentence",
+            "Simple Sentence",
+            "Compound-Complex Sentence"
+        ],
+        "result": "Compound Sentence",
+        "explanation": null
+    }
+]

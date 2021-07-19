@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. Choose the correct sentence. ",
+        "options": [
+            "The doctor suggested that the patient that he not work too hard for three months.",
+            "The doctor suggested that the patient take things easy for at least three months.",
+            "The doctor suggested that the patient taking it easy inside of three months.",
+            "The doctor suggested that the patient to take some vacations for three months."
+        ],
+        "result": "The doctor suggested that the patient take things easy for at least three months.",
+        "explanation": "Explanation:  This sentence employs the subjunctive mood. \u201cSuggested that\u201d demands a simple form of the verb in the next clause. Only (B) has a simple verb in the second clause. "
+    },
+    {
+        "question": "2. The more she worked____________ ",
+        "options": [
+            "the less she achieved.",
+            "she achieved not enough.",
+            "she did not achieve enough.",
+            "she was achieving less. "
+        ],
+        "result": "the less she achieved.",
+        "explanation": "Explanation:  This is a double comparative. The correct form is \u2018the + comparative \u2026\u2026\u2026the + comparative\u2019."
+    },
+    {
+        "question": "3. John did not do well in the class because ____________",
+        "options": [
+            "he studied bad.",
+            "he was not good study wise.",
+            "he was a badly student.",
+            "he failed to study properly."
+        ],
+        "result": "he failed to study properly.",
+        "explanation": "Explanation:  Choice (A) is incorrect because the Verb \u2018studied\u2019 should be modified by an adverb, \u2018badly\u2019. Choice (B) is in error because it is never correct to say \u2018wise\u2019 with a noun or verb to mean \u2018in relation to\u2019. Choice (C) uses \u2018badly\u2019, which is an adverb and cannot modify the noun \u2018student\u2019; it should have been \u2018bad\u2019. Choice (D) is correct in all sense. "
+    },
+    {
+        "question": "4. Choose the correct sentence: ",
+        "options": [
+            "They asked him not to give that new information to anyone else but the sergeant.",
+            "They asked him to don\u2019t give that new information to anyone else but the sergeant.",
+            "They asked him no give that new information to anyone else but the sergeant.",
+            "They asked him to no give that new information to anyone else but the sergeant."
+        ],
+        "result": "They asked him not to give that new information to anyone else but the sergeant.",
+        "explanation": "Explanation:  To make an infinitive negative, you must bring a \u2018not\u2019 before the \u2018to\u2019. Other options are incorrect as they don\u2019t follow this rule. "
+    },
+    {
+        "question": "5. Choose the correct sentence:",
+        "options": [
+            "Upon entering the store did Arthur realize that there was a danger.",
+            "When he entered the store did Arthur realize that there was a danger.",
+            "After he had entered the store did Arthur realize that there was a danger.",
+            "Only after entering the store did Arthur realize that there was a danger."
+        ],
+        "result": "Only after entering the store did Arthur realize that there was a danger.",
+        "explanation": "Explanation:  This sentence involves the use of an adverbial at the beginning of a sentence. Correct form is adverbial+ auxiliary + subject + verb. The other sentences must have a question mark at the end of them to be regarded as correct. "
+    },
+    {
+        "question": "6. Choose the correct sentence: ",
+        "options": [
+            "A good student must know to study hard.",
+            "A good student must know to be a good student.",
+            "A good student must know how to study effectively.",
+            "A good student must know the way of efficiency in study. "
+        ],
+        "result": "A good student must know how to study effectively.",
+        "explanation": "Explanation:  Choices (A) and (B) are incorrect because the correct form is know + how + [verb in infinitive]. Choice (D) is verbose, using a poor choice of vocabulary in \u201cway of efficiency in study.\u201d"
+    },
+    {
+        "question": "7. This university\u2019s programs__________those of Harvard.",
+        "options": [
+            "come second after",
+            "are second only to",
+            "are first except for",
+            "are in second place from"
+        ],
+        "result": "are second only to",
+        "explanation": "Explanation:  The expression \u2018second only to\u2019 here means that Harvard\u2019s programs are the best, and this university\u2019s programs are second best."
+    },
+    {
+        "question": "8. ____________ the best car to buy is a Mercedes Benz. ",
+        "options": [
+            "Because of its durability and economy,",
+            "Because it lasts a long time, and it is very economical,",
+            "Because of its durability and it is economical,",
+            "Because of its durability and economy wise it is better than all the others"
+        ],
+        "result": "Because of its durability and economy,",
+        "explanation": "Explanation:  Choice (A) contains correct parallel structure: durability (noun)\u2026 economy (noun). Choice (B) is verbose: \u2018lasts a long time\u2019 means it is durable. It is not necessary to us so many words. When there is a shorter answer that means the same and is grammatically correct, choose the shorter answer. Choice (C) would be correct if it said: \u201cits durability and economy\u201d (noun &amp; noun). Choice (D) uses \u2018economy-wise\u2019. It is always incorrect to use \u2018wise\u2019 with a noun in this way."
+    },
+    {
+        "question": "9. Choose the correct sentence. ",
+        "options": [
+            "George belongs to the class of the upper middle.",
+            "George belongs to the upper middle class.",
+            "George belongs to the class from the center up.",
+            "George belongs to the high medium class. "
+        ],
+        "result": "George belongs to the upper middle class.",
+        "explanation": "Explanation:  To speak of societal classes we have only the following choices: lower class, lower-middle class, middle class, upper-middle class, and upper class."
+    },
+    {
+        "question": "10. When Harry arrived home after a hard day at work, ___________",
+        "options": [
+            "his wife was sleeping.",
+            "his wife slept.",
+            "his wife has slept.",
+            "his wife has been sleeping. "
+        ],
+        "result": "his wife was sleeping.",
+        "explanation": "Explanation:  Choice (A) and (B) both are correct according to the structure but choice (B) does not make sense. Choice (D) would be correct if it said \u2018had been sleeping\u2019."
+    },
+    {
+        "question": "11. Choose the correct sentence: ",
+        "options": [
+            "He gave to the class a tough assignment.",
+            "He gave the class a tough assignment.",
+            "He gave a tough assignment for the class.",
+            "He gave an assignment very tough to the class. "
+        ],
+        "result": "He gave the class a tough assignment.",
+        "explanation": "Explanation:  The structure should be \u2018subject + verb + indirect object + direct object\u2019. There should be no preposition."
+    },
+    {
+        "question": "12. People all over the world are starving___________.",
+        "options": [
+            "greater in numbers",
+            "in more numbers",
+            "more numerously",
+            "in greater numbers"
+        ],
+        "result": "in greater numbers",
+        "explanation": "Explanation:  The correct expression is \u2018in greater numbers\u2019. This is an expression that you should memorize."
+    },
+    {
+        "question": "13. It was not until she arrived in class _________ realized she had forgotten her book.",
+        "options": [
+            "and she",
+            "when she",
+            "she",
+            "that she"
+        ],
+        "result": "that she",
+        "explanation": "Explanation:  Always after the expression \u2018, it was not until\u2019, the conjunction \u2018that\u2019 is a must. To use \u2018when\u2019 here would be redundant."
+    },
+    {
+        "question": "14. John has not been able to recall where ___________. ",
+        "options": [
+            "does she live",
+            "she lives",
+            "did she live",
+            "lived the girl"
+        ],
+        "result": "she lives",
+        "explanation": "Explanation:  For an embedded question, use question word + subject + verb."
+    },
+    {
+        "question": "15. Ben would have studied medicine if he ________ to a medical school.",
+        "options": [
+            "could be able to enter",
+            "had been admitted",
+            "was admitted",
+            "were admitted"
+        ],
+        "result": "had been admitted",
+        "explanation": "Explanation:  Past condition. When the conditional perfect is used in the \u2018result clause\u2019, the past perfect must be used in the \u2018if clause\u2019. See Conditionals for more. "
+    },
+    {
+        "question": "16. He entered a university __________. ",
+        "options": [
+            "when he had sixteen years",
+            "when sixteen years were his age",
+            "at the age of sixteen",
+            "at age sixteen years\u2019 old"
+        ],
+        "result": "at the age of sixteen",
+        "explanation": "Explanation:  There are only a few possibilities for expressing age in English. (1) When he is sixteen (years old). (2) at (age) sixteen, and (3) at the age of sixteen. Choice (C) follows the rule (3) and is the only correct answer."
+    },
+    {
+        "question": "17. The Starks were told to ________. ",
+        "options": [
+            "talk all they wanted",
+            "make lots of expressions",
+            "speak freely",
+            "talk with their minds open"
+        ],
+        "result": "speak freely",
+        "explanation": "Explanation:  Choice (A) is verbose and too informal for written English. Choice (B) uses \u2018make\u2019 and it does not make any sense. In choice (D) with their minds open (having open minds) is an idiom meaning to be willing to have no biases. When used in this context with \u2018talk\u2019, it is not logical."
+    },
+    {
+        "question": "18. Those students do not like to read novels__________their textbooks.",
+        "options": [
+            "in any case",
+            "forgetting about",
+            "leaving out of the question",
+            "much less"
+        ],
+        "result": "much less",
+        "explanation": "Explanation:  \u2018Much less\u2019 is used in this context in a negative sentence to indicate that the second item mentioned is disliked even more than the first. The students dislike reading novels and dislike reading textbooks even more."
+    },
+    {
+        "question": "19. He _________ looked forward to the new venture.",
+        "options": [
+            "eagerly",
+            "with great eagerness",
+            "eagernessly",
+            "in a state of increasing eagerness"
+        ],
+        "result": "eagerly",
+        "explanation": "Explanation:  Choices (B) and (D) are verbose. \u2018Eagerly\u2019 (A) is much more concise than either of these choices. Choice (C) uses \u2018eagernessly\u2019, which is not a word. It is not possible to add an adverb affix (-ly) to a noun affix (-ness)."
+    },
+    {
+        "question": "20. The people were told to vacate their houses immediately ___________. ",
+        "options": [
+            "in the time when the water raised",
+            "when the water began to rise",
+            "at the time when the water began to go up",
+            "when up was going the water "
+        ],
+        "result": "when the water began to rise",
+        "explanation": "Explanation:  Choices (A), (C), and (D) are all verbose. In addition, choice (A) includes the wrong verb (raised); (A) and (D) incorrectly use \u2018the time\u2019 as well as \u2018when\u2019. So, choice (B) is the logical answer.  "
+    }
+]

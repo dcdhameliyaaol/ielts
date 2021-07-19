@@ -1,0 +1,112 @@
+[
+    {
+        "question": "1. The cyclist ________ he crossed the main street.",
+        "options": [
+            "looked with caution after",
+            "was looked cautions when",
+            "had looked cautiously before",
+            "looks with caution after"
+        ],
+        "result": "had looked cautiously before",
+        "explanation": "Explanation:  Past Perfect Tense + before + Past Indefinite Tense"
+    },
+    {
+        "question": "2. The man waiting to take the test was very nervous. He ________ it before.",
+        "options": [
+            "hasn\u2019t taken",
+            "didn\u2019t take",
+            "hadn\u2019t taken",
+            "wasn\u2019t taken"
+        ],
+        "result": "hadn\u2019t taken",
+        "explanation": "Explanation:  Past Indefinite Tense + as if\/ as though + Past Perfect Tense"
+    },
+    {
+        "question": "3. An intensive search was conducted by the detective to locate those criminals, who",
+        "options": [
+            "have had escaped",
+            "had escaped",
+            "are escaping",
+            "have been escaping"
+        ],
+        "result": "had escaped",
+        "explanation": "Explanation:  For two contemporary past events, will be in effect for both events."
+    },
+    {
+        "question": "4. Choose the correct one:",
+        "options": [
+            "He spoke so well as if he knew everything.",
+            "He spoke so well as if he would knew everything.",
+            "He spoke so well as if he had known everything.",
+            "He spoke so well as if he was knowing everything."
+        ],
+        "result": "He spoke so well as if he had known everything.",
+        "explanation": "Explanation:  2 nd conditional formation: If + Past Indefinite Tense\u2026..+ would\/might"
+    },
+    {
+        "question": "5. I waited until the plane ________.",
+        "options": [
+            "had taken off",
+            "did not take off",
+            "took off",
+            "had taken off"
+        ],
+        "result": "took off",
+        "explanation": "Explanation:  Past Indefinite Tense + after + Past Perfect Tense"
+    },
+    {
+        "question": "6. If everybody liked the same kind of tea, ________ only one kind of tea.",
+        "options": [
+            "there would have been",
+            "there would have",
+            "there would be",
+            "would be"
+        ],
+        "result": "there would be",
+        "explanation": "Explanation:  Sometimes principle clause and subordinate clause follow the same"
+    },
+    {
+        "question": "7. He went to bed after.",
+        "options": [
+            "he will learn the lesson.",
+            "he would learn the lesson.",
+            "he learns the lesson.",
+            "he had learnt the lesson."
+        ],
+        "result": "he had learnt the lesson.",
+        "explanation": null
+    },
+    {
+        "question": "8. How much did you________ for the book?",
+        "options": [
+            "paid",
+            "pay",
+            "paying",
+            "have paid"
+        ],
+        "result": "pay",
+        "explanation": null
+    },
+    {
+        "question": "9. It ________ a hot day, we remained in the tent.",
+        "options": [
+            "was",
+            "having",
+            "being",
+            "had"
+        ],
+        "result": "being",
+        "explanation": null
+    },
+    {
+        "question": "10. Even as harvesting was going on________.",
+        "options": [
+            "the rainy season began.",
+            "the rainy season was begun.",
+            "the rainy season had begun.",
+            "the rainy season begins"
+        ],
+        "result": "the rainy season began.",
+        "explanation": null
+    }
+]

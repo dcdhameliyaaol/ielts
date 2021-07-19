@@ -1,0 +1,112 @@
+[
+    {
+        "question": "1. Shaun loves to watch movies with his friends.",
+        "options": [
+            "Assertive\/Declarative Sentence",
+            "Interrogative Sentence",
+            "Imperative Sentence",
+            "Optative Sentence"
+        ],
+        "result": "Assertive\/Declarative Sentence",
+        "explanation": "Explanation:  The sentence declares\/describes the information."
+    },
+    {
+        "question": "2. Don\u2019t shoot the lion unless it comes to hurt you.",
+        "options": [
+            "Assertive\/Declarative Sentence",
+            "Interrogative Sentence",
+            "Imperative Sentence",
+            "Optative Sentence"
+        ],
+        "result": "Imperative Sentence",
+        "explanation": "Explanation:  This sentence declares a specific historical fact. So, it\u2019s an assertive sentence."
+    },
+    {
+        "question": "3. John could not recall where he lived.",
+        "options": [
+            "Assertive\/Declarative Sentence",
+            "Interrogative Sentence",
+            "Imperative Sentence",
+            "Exclamatory Sentence"
+        ],
+        "result": "Assertive\/Declarative Sentence",
+        "explanation": "Explanation:  The question mark clearly indicates that it\u2019s an interrogative sentence."
+    },
+    {
+        "question": "4. May I go outside to play with my friends, mom?",
+        "options": [
+            "Assertive\/Declarative Sentence",
+            "Interrogative Sentence",
+            "Imperative Sentence",
+            "Exclamatory Sentence"
+        ],
+        "result": "Interrogative Sentence",
+        "explanation": "Explanation:  This sentence shows a condition through an order. So, it\u2019s an imperative sentence"
+    },
+    {
+        "question": "5. Don\u2019t you dare talking to me in that tone!",
+        "options": [
+            "Assertive Sentence",
+            "Interrogative Sentence",
+            "Imperative Sentence",
+            "Exclamatory Sentence"
+        ],
+        "result": "Imperative Sentence",
+        "explanation": null
+    },
+    {
+        "question": "6. The English ruled and oppressed the half of the world for about two hundred years.",
+        "options": [
+            "Assertive Sentence",
+            "Interrogative Sentence",
+            "Imperative Sentence",
+            "Exclamatory Sentence"
+        ],
+        "result": "Assertive Sentence",
+        "explanation": null
+    },
+    {
+        "question": "7. I pray to your kind self for granting me three day\u2019s sick leave.",
+        "options": [
+            "Assertive Sentence",
+            "Interrogative Sentence",
+            "Imperative Sentence",
+            "Optative Sentence"
+        ],
+        "result": "Assertive Sentence",
+        "explanation": null
+    },
+    {
+        "question": "8. Who dares to defy me?",
+        "options": [
+            "Assertive Sentence",
+            "Interrogative Sentence",
+            "Imperative Sentence",
+            "Exclamatory Sentence"
+        ],
+        "result": "Interrogative Sentence",
+        "explanation": null
+    },
+    {
+        "question": "9. What an exciting match it was! Blessed my eyes are!",
+        "options": [
+            "Assertive Sentence",
+            "Interrogative Sentence",
+            "Imperative Sentence",
+            "Exclamatory Sentence"
+        ],
+        "result": "Exclamatory Sentence",
+        "explanation": null
+    },
+    {
+        "question": "10. Come back as soon as possible if you want to do well in your exams.",
+        "options": [
+            "Assertive Sentence",
+            "Interrogative Sentence",
+            "Imperative Sentence",
+            "Optative Sentence"
+        ],
+        "result": "Imperative Sentence",
+        "explanation": null
+    }
+]

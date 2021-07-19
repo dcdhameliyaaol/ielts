@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. We need two hundred dollars _________ this to pay for everything.",
+        "options": [
+            "as well",
+            "also",
+            "beside",
+            "besides"
+        ],
+        "result": "besides",
+        "explanation": "Explanation:  Besides refers to in addition to"
+    },
+    {
+        "question": "2. _______ glass is, for all practical purposes, a solid, its molecular structure is that of a liquid.",
+        "options": [
+            "Because",
+            "Since",
+            "Although",
+            "If"
+        ],
+        "result": "Although",
+        "explanation": "Explanation:  For possibility of occurring an event, in case is used as conjunction."
+    },
+    {
+        "question": "3. Give her a telephone number to ring _________ she gets lost.",
+        "options": [
+            "whether",
+            "in case",
+            "Unless",
+            "perhaps"
+        ],
+        "result": "in case",
+        "explanation": "Explanation:  Till\/Until formation: Till\/until + subject + verb"
+    },
+    {
+        "question": "4. How long did they wait?",
+        "options": [
+            "Till lunch time.",
+            "Until six o\u2019clock.",
+            "Till he came.",
+            "Since this morning."
+        ],
+        "result": "Till he came.",
+        "explanation": "Explanation:  Whether + subject + verb + \u2026.. + or not"
+    },
+    {
+        "question": "5. Which of the following is correct?",
+        "options": [
+            "He neither speaks English nor French.",
+            "He speaks nor English French.",
+            "He speaks neither English nor French.",
+            "Neither he speaks English nor French."
+        ],
+        "result": "He speaks neither English nor French.",
+        "explanation": "Explanation:  To compare between DVD and records, comparative form will be used."
+    },
+    {
+        "question": "6. _________ his parents allow him or not, Alex intends to go to the party.",
+        "options": [
+            "Whether",
+            "If",
+            "Despite",
+            "While"
+        ],
+        "result": "Whether",
+        "explanation": "Explanation:  But conjunction adds two contrastive ideas"
+    },
+    {
+        "question": "7. Supposedly, digital versatile disks, or DVDs as they are called, are _________ resistant to scratching _________ records.",
+        "options": [
+            "much, than",
+            "so, as",
+            "such, that",
+            "far more, than"
+        ],
+        "result": "far more, than",
+        "explanation": "Explanation:  While + subject + continuous form of verb"
+    },
+    {
+        "question": "8. His appearance is unsmiling but_________.",
+        "options": [
+            "he looks very serious.",
+            "his heart is full of compassion for others.",
+            "people are afraid of him.",
+            "he is full of jealousy towards his colleagues."
+        ],
+        "result": "his heart is full of compassion for others.",
+        "explanation": "Explanation:  The conditional is in passive form, so auxiliary + be will be used."
+    },
+    {
+        "question": "9. Why don\u2019t you go and see a film ________ you\u2019re waiting for the car to be repaired?",
+        "options": [
+            "when",
+            "then",
+            "while",
+            "for a while"
+        ],
+        "result": "while",
+        "explanation": "Explanation:  After such noting but as will be used"
+    },
+    {
+        "question": "10. The boy ________ unless he apologized sincerely.",
+        "options": [
+            "not be forgiven",
+            "have not been forgiven",
+            "has not forgiven",
+            "would not be forgiven"
+        ],
+        "result": "would not be forgiven",
+        "explanation": "Explanation:  "
+    },
+    {
+        "question": "11. Which one of the following would be the best suitable cohesive word between the given sentences? \u2018David underwent through strenuous hard work. He made his dream come true.\u2019",
+        "options": [
+            "Hence",
+            "Afterwards",
+            "As well as",
+            "However"
+        ],
+        "result": "Hence",
+        "explanation": "Explanation:  Using besides and also at the same time is wrong; beside means near"
+    },
+    {
+        "question": "12. He did not study hard; ________ he passed the examination.",
+        "options": [
+            "and",
+            "although",
+            "but",
+            "nevertheless"
+        ],
+        "result": "nevertheless",
+        "explanation": null
+    },
+    {
+        "question": "13. He is honest ________ overlooks dishonesty of others.",
+        "options": [
+            "and",
+            "but",
+            "so",
+            "thus"
+        ],
+        "result": "but",
+        "explanation": null
+    },
+    {
+        "question": "14. I want such boys ________ will be able to do this.",
+        "options": [
+            "who",
+            "whom",
+            "as",
+            "that"
+        ],
+        "result": "as",
+        "explanation": null
+    },
+    {
+        "question": "15. Hardly had the train stopped, ________.",
+        "options": [
+            "before we got down.",
+            "as we got down.",
+            "then we got down.",
+            "when we got down."
+        ],
+        "result": "before we got down.",
+        "explanation": null
+    },
+    {
+        "question": "16. The train was late. ________ I managed to arrive on time.",
+        "options": [
+            "hence",
+            "despite that",
+            "Incidentally",
+            "on the contrary"
+        ],
+        "result": "despite that",
+        "explanation": null
+    },
+    {
+        "question": "17. \u201cCome on, walk faster\u201d, urged my friend, \u201cYou are ________ tortoise.\u201d",
+        "options": [
+            "so slow",
+            "as slow as",
+            "very slow",
+            "more slow"
+        ],
+        "result": "as slow as",
+        "explanation": null
+    },
+    {
+        "question": "18. We cannot afford a fan, ________ an air-conditioner.",
+        "options": [
+            "how",
+            "alone",
+            "let alone",
+            "then"
+        ],
+        "result": "let alone",
+        "explanation": null
+    },
+    {
+        "question": "19. Which one of the following is correct?",
+        "options": [
+            "Neither Jack is intelligent nor hardworking.",
+            "Though he is fat so he runs slowly.",
+            "As he is fat so he runs slowly.",
+            "She speaks not only English but also Chinese."
+        ],
+        "result": "She speaks not only English but also Chinese.",
+        "explanation": null
+    },
+    {
+        "question": "20. Identify the correct sentence.",
+        "options": [
+            "Beside being clever, she is very perceptive.",
+            "Aside being clever, she is also perceptive",
+            "Besides being clever, she is very perceptive",
+            "Besides being clever, she is also perceptive"
+        ],
+        "result": "Besides being clever, she is very perceptive",
+        "explanation": null
+    }
+]

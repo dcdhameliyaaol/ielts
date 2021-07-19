@@ -1,0 +1,222 @@
+[
+    {
+        "question": "1. The family doesn\u2019t feel ________ going outing this season.",
+        "options": [
+            "in",
+            "on",
+            "like",
+            "of"
+        ],
+        "result": "like",
+        "explanation": "Explanation:  For expressing desire to do something, we often use feel like."
+    },
+    {
+        "question": "2. John Smith is good________ Mathematics.",
+        "options": [
+            "at",
+            "of",
+            "in",
+            "after"
+        ],
+        "result": "at",
+        "explanation": "Explanation:  Good at means efficient."
+    },
+    {
+        "question": "3. He insisted ________ there.",
+        "options": [
+            "on my going",
+            "is to go",
+            "over going",
+            "to go"
+        ],
+        "result": "on my going",
+        "explanation": "Explanation:  Insist on sth\/sb refers to give emphasis on something."
+    },
+    {
+        "question": "4. Credit tk 4000 ________ my account.",
+        "options": [
+            "in",
+            "with",
+            "with",
+            "to"
+        ],
+        "result": "to",
+        "explanation": "Explanation:  To deposit an amount to someone\u2019s account, we use credit to."
+    },
+    {
+        "question": "5. Sam will discuss the issue with Jenifer________ phone.",
+        "options": [
+            "in",
+            "over",
+            "by",
+            "on"
+        ],
+        "result": "over",
+        "explanation": "Explanation:  To have conversation over phone, we use preposition over."
+    },
+    {
+        "question": "6. Many prefer donating money ________ distributing clothes.",
+        "options": [
+            "than",
+            "but",
+            "to",
+            "without"
+        ],
+        "result": "to",
+        "explanation": "Explanation:  Prefer to is an appropriate preposition."
+    },
+    {
+        "question": "7. He divided the money ________ the two children.",
+        "options": [
+            "among",
+            "between",
+            "in between",
+            "over"
+        ],
+        "result": "between",
+        "explanation": "Explanation:  "
+    },
+    {
+        "question": "8. Please ________ the necessity of arriving early.",
+        "options": [
+            "emphasize about",
+            "emphasize to",
+            "emphasize on",
+            "emphasize"
+        ],
+        "result": "emphasize",
+        "explanation": "Explanation:  No preposition is used with emphasize."
+    },
+    {
+        "question": "9. Government has been entrusted ________ elected politicians.",
+        "options": [
+            "with",
+            "for",
+            "to",
+            "at"
+        ],
+        "result": "to",
+        "explanation": "Explanation:  Entrusted with- faith in something, entrusted to- faith in someone"
+    },
+    {
+        "question": "10. The walls of our house have been painted ________ green.",
+        "options": [
+            "by",
+            "no preposition",
+            "with",
+            "on"
+        ],
+        "result": "no preposition",
+        "explanation": "Explanation:  Here paint is a transitive verb, so no preposition will be used."
+    },
+    {
+        "question": "11. He has recently parted ________ his with.",
+        "options": [
+            "on",
+            "from",
+            "with",
+            "to"
+        ],
+        "result": "from",
+        "explanation": "Explanation:  part from refers to separate"
+    },
+    {
+        "question": "12. Death does not distinguish ________ the rich and the poor.",
+        "options": [
+            "from",
+            "by",
+            "between",
+            "to"
+        ],
+        "result": "between",
+        "explanation": "Explanation:  Account at refers to the institution with which the account belongs to."
+    },
+    {
+        "question": "13. I have a savings account ________ Standard Chartered Bank.",
+        "options": [
+            "with",
+            "in",
+            "at",
+            "into"
+        ],
+        "result": "at",
+        "explanation": "Explanation:  conducive at - beneficial"
+    },
+    {
+        "question": "14. Swimming is conducive ________ health.",
+        "options": [
+            "to",
+            "at",
+            "for",
+            "on"
+        ],
+        "result": "at",
+        "explanation": "Explanation:  Offend with- to irritate with someone; offend at- to irritate at something"
+    },
+    {
+        "question": "15. I am offended ________ you ________ your conduct.",
+        "options": [
+            "with, at",
+            "with, on",
+            "at, on",
+            "with, for"
+        ],
+        "result": "with, at",
+        "explanation": "Explanation:  Recline on means to lean on something"
+    },
+    {
+        "question": "16. The girl was reclining ________ the couch and the boy sat ________ her.",
+        "options": [
+            "to, on",
+            "at, with",
+            "on, besides",
+            "of, over"
+        ],
+        "result": "on, besides",
+        "explanation": "Explanation:  Blind to- to be careless about one\u2019s fault"
+    },
+    {
+        "question": "17. She is blind ________ her husband\u2019s fault.",
+        "options": [
+            "at",
+            "for",
+            "to",
+            "with"
+        ],
+        "result": "to",
+        "explanation": "Explanation:  After one\u2019s taste- to be one\u2019s favorite"
+    },
+    {
+        "question": "18. The shirt is ________ my taste.",
+        "options": [
+            "like",
+            "with",
+            "after",
+            "before"
+        ],
+        "result": "after",
+        "explanation": "Explanation:  Congenial to- in favor of"
+    },
+    {
+        "question": "19. The climate is congenial ________ health.",
+        "options": [
+            "to",
+            "for",
+            "with",
+            "on"
+        ],
+        "result": "to",
+        "explanation": "Explanation:  Pretext for- giving excuse for something "
+    },
+    {
+        "question": "20. His illness is a mere pretext ________ his absence.",
+        "options": [
+            "for",
+            "of",
+            "with",
+            "to"
+        ],
+        "result": "for",
+        "explanation": null
+    }
+]

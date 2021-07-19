@@ -1,0 +1,167 @@
+[
+    {
+        "question": "1. Who the hell is that girl? Why in the world are you looking at\u2026\u2026\u2026\u2026\u2026\u2026..?",
+        "options": [
+            "His",
+            "She",
+            "Herself",
+            "Her"
+        ],
+        "result": "Her",
+        "explanation": "Explanation:  \u2018books\u2019 is a plural word and its object pronoun is \u2018them\u2019."
+    },
+    {
+        "question": "2. Do you know that man? \u2018Yes, I walk with \u2026\u2026\u2026\u2026\u2026\u2026\u2026every morning?",
+        "options": [
+            "Her",
+            "His",
+            "He",
+            "Him"
+        ],
+        "result": "Him",
+        "explanation": "Explanation:  The object pronoun of the subject pronoun \u2018we\u2019 is \u2018us\u2019."
+    },
+    {
+        "question": "3. Have you seen the books? I have not seen \u2026\u2026\u2026\u2026\u2026.",
+        "options": [
+            "It",
+            "Them",
+            "They",
+            "Him"
+        ],
+        "result": "Them",
+        "explanation": "Explanation:  The object pronoun for \u2018a computer\u2019 is \u2018it\u2019."
+    },
+    {
+        "question": "4. I always lose my keys. Where are \u2026\u2026\u2026\u2026\u2026..?",
+        "options": [
+            "They",
+            "Them",
+            "It",
+            "He"
+        ],
+        "result": "They",
+        "explanation": "Explanation:  The object pronoun of the noun \u2018dogs\u2019 is \u2018them\u2019."
+    },
+    {
+        "question": "5. We\u2019re going to Alaska. You can come with \u2026\u2026\u2026\u2026\u2026\u2026 if you want.",
+        "options": [
+            "Us",
+            "Me",
+            "Them",
+            "We"
+        ],
+        "result": "Us",
+        "explanation": "Explanation:  The sentence demands a first person object pronoun in the blank."
+    },
+    {
+        "question": "6. I\u2019ve bought a new computer. Do you want to use \u2026\u2026\u2026\u2026\u2026..?",
+        "options": [
+            "Him",
+            "It",
+            "That",
+            "Those"
+        ],
+        "result": "It",
+        "explanation": "Explanation:  The object pronoun of a female gender noun is always \u2018her\u2019."
+    },
+    {
+        "question": "7. Maria loves music and \u2026\u2026\u2026\u2026\u2026\u2026\u2026plays the guitar.",
+        "options": [
+            "He",
+            "She",
+            "Her",
+            "Herself"
+        ],
+        "result": "She",
+        "explanation": "Explanation:  \u2018CDs\u2019 is a plural word. So, the object pronoun of this word must be \u2018them\u2019."
+    },
+    {
+        "question": "8. I hate dogs. I\u2019m really afraid of \u2026\u2026\u2026\u2026\u2026\u2026..",
+        "options": [
+            "They",
+            "Them",
+            "It",
+            "Him"
+        ],
+        "result": "Them",
+        "explanation": "Explanation:  The blank demands a reflexive pronoun. So, the reflexive pronoun for \u2018I\u2019 is \u2018myself\u2019."
+    },
+    {
+        "question": "9. Please listen to \u2026\u2026\u2026\u2026\u2026\u2026\u2026when I\u2019m talking to you.",
+        "options": [
+            "Him",
+            "Us",
+            "Me",
+            "Them"
+        ],
+        "result": "Me",
+        "explanation": "Explanation:  The blank demands a possessive pronoun. \u2018Mine\u2019 is the pronoun for \u2018my bag\u2019. So, it\u2019s unnecessary"
+    },
+    {
+        "question": "10. Where is Elsa? Ralph wants to talk to \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+        "options": [
+            "Her",
+            "Him",
+            "She",
+            "Them"
+        ],
+        "result": "Her",
+        "explanation": null
+    },
+    {
+        "question": "11. You can have these CDs if you want. I don\u2019t want \u2026\u2026\u2026\u2026\u2026\u2026",
+        "options": [
+            "That",
+            "Those",
+            "Them",
+            "It"
+        ],
+        "result": "Them",
+        "explanation": null
+    },
+    {
+        "question": "12. My father has a new job, but \u2026\u2026\u2026\u2026\u2026.. doesn\u2019t like \u2026\u2026\u2026\u2026..at all.",
+        "options": [
+            "He, that",
+            "She, it",
+            "It, him",
+            "He, it"
+        ],
+        "result": "He, it",
+        "explanation": null
+    },
+    {
+        "question": "13. There\u2019s no need for you to come. I can carry the bags\u2026\u2026\u2026\u2026\u2026..",
+        "options": [
+            "Itself",
+            "Herself",
+            "Me",
+            "Myself"
+        ],
+        "result": "Myself",
+        "explanation": null
+    },
+    {
+        "question": "14. I have a friend \u2026\u2026\u2026. is a medical student.",
+        "options": [
+            "That",
+            "He",
+            "Who",
+            "Him"
+        ],
+        "result": "Who",
+        "explanation": null
+    },
+    {
+        "question": "15. I have found Robert\u2019s bag but I haven\u2019t found \u2026\u2026\u2026\u2026.",
+        "options": [
+            "My",
+            "Mine",
+            "My bag",
+            "Bag"
+        ],
+        "result": "Mine",
+        "explanation": null
+    }
+]

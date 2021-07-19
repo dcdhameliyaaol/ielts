@@ -1,0 +1,112 @@
+[
+    {
+        "question": "1. Do you remember what we used to do when we played together as childhood friends",
+        "options": [
+            "Do you remember what we used to do, when we played together as childhood friends?",
+            "Do you remember what we used to do when we played together as childhood friends!",
+            "Do you remember what we used to do when we played together as childhood friends?",
+            " Do you remember what we used to do when we played together as childhood friends."
+        ],
+        "result": "Do you remember what we used to do when we played together as childhood friends?",
+        "explanation": "Explanation:  In the selected sentence, there\u2019s an appropriate use of a question mark at the end of the sentence as it is an interrogative sentence."
+    },
+    {
+        "question": "2. We had pizza beef steak onion rings and diet coke at the dinner",
+        "options": [
+            "We had pizza beef steak onion rings and diet coke at the dinner.",
+            "We had pizza, beef steak, onion rings and diet coke at the dinner.",
+            "We had pizza; beef steak; onion rings; and diet coke at the dinner?",
+            "We had pizza, beef steak, onion rings, and diet coke at the dinner!"
+        ],
+        "result": "We had pizza, beef steak, onion rings and diet coke at the dinner.",
+        "explanation": "Explanation:  In the selected sentence, there\u2019s an appropriate use of a comma to separate multiple items of the same category and period mark at the end of the sentence."
+    },
+    {
+        "question": "3. You are the right person for the job arent you",
+        "options": [
+            "You are the right person for the job, aren\u2019t you?",
+            "You are the right person for the job aren\u2019t you?",
+            "You are the right person for the job, arent you?",
+            "You are the right person for the job, aren\u2019t you!"
+        ],
+        "result": "You are the right person for the job, aren\u2019t you?",
+        "explanation": "Explanation:  In the selected sentence, there\u2019s an appropriate use of a comma before the tag question, apostrophe and question mark at the end of the sentence."
+    },
+    {
+        "question": "4. You do trust him with all your heart don\u2019t you",
+        "options": [
+            " You do trust him with all your heart- don\u2019t you?",
+            "You do trust him with all your heart, don\u2019t you.",
+            "You do trust him with all your heart, don\u2019t you?",
+            " You do trust him with all your heart don\u2019t you?"
+        ],
+        "result": "You do trust him with all your heart, don\u2019t you?",
+        "explanation": "Explanation:  In the selected sentence, there\u2019s an appropriate use of a comma before the tag question and a question mark at the end of the sentence."
+    },
+    {
+        "question": "5. Vinicius Jr is a great player with great technical abilities dribbling skills pace and shot accuracy ",
+        "options": [
+            "Vinicius Jr. is a great player with great technical abilities dribbling skills pace and shot accurac",
+            " Vinicius Jr, is a great player with great technical abilities, dribbling skills, pace, and shot acc",
+            "Vinicius Jr is a great player with great technical abilities, dribbling skills, pace, and shot accur",
+            "Vinicius Jr. is a great player with great technical abilities, dribbling skills, pace, and shot accu"
+        ],
+        "result": "Vinicius Jr. is a great player with great technical abilities, dribbling skills, pace, and shot accu",
+        "explanation": "Explanation:  In the selected sentence, there\u2019s an appropriate use of comma and period mark with the abbreviation and at the end of the sentence as well."
+    },
+    {
+        "question": "6. He asked me to do three things before the interview get a haircut buy a formal dress and gather information about the company",
+        "options": [
+            "He asked me to do three things before the interview: get a haircut, buy a formal dress, and gather i",
+            "He asked me to do three things before the interview: get a haircut buy a formal dress and gather inf",
+            "He asked me to do three things before the interview- get a haircut buy a formal dress and gather inf",
+            "He asked me to do three things before the interview; get a haircut, buy a formal dress, and gather i"
+        ],
+        "result": "He asked me to do three things before the interview: get a haircut, buy a formal dress, and gather i",
+        "explanation": "Explanation:  In the selected sentence, there\u2019s an appropriate use of colon, comma and period mark at the end of the sentence."
+    },
+    {
+        "question": "7. I used to walk around in empty roads at midnight however it wasnt safe",
+        "options": [
+            "I used to walk around in empty roads at midnight, however it wasn\u2019t safe!",
+            " I used to walk around in empty roads at midnight however it wasnt safe,",
+            "I used to walk around in empty roads at midnight; however, it wasn\u2019t safe.",
+            "I used to walk around in empty roads at midnight however it wasnt safe."
+        ],
+        "result": "I used to walk around in empty roads at midnight; however, it wasn\u2019t safe.",
+        "explanation": "Explanation:  In the selected sentence, there\u2019s an appropriate use of the semicolon to indicate the close relationship between the two clauses. Also, comma and period mark have also been appropriately used."
+    },
+    {
+        "question": "8. Onethird of the whole population were affected by the hurricane",
+        "options": [
+            "One-third of the whole population were affected by the hurricane.",
+            "Onethird of the whole population were affected by the hurricane,",
+            "One-third of the whole population were affected by the hurricane!",
+            "Onethird of the whole population were affected by the hurricane?"
+        ],
+        "result": "One-third of the whole population were affected by the hurricane.",
+        "explanation": "Explanation:  In the selected sentence, there\u2019s an appropriate use of the hyphen in the fraction and period mark at the end of the sentence."
+    },
+    {
+        "question": "9. Leave me alone for a while is what she said to me last time",
+        "options": [
+            "Leave me alone for a while- is what she said to me last time.",
+            "Leave me alone for a while, is what she said to me last time?",
+            "Leave me alone for a while is what she said to me last time!",
+            "\u201cLeave me alone for a while\u201d is what she said to me last time."
+        ],
+        "result": "\u201cLeave me alone for a while\u201d is what she said to me last time.",
+        "explanation": "Explanation:  In the selected sentence, there\u2019s an appropriate use of quotation mark and period mark at the end of the sentence."
+    },
+    {
+        "question": "10. She told me I need more time to work on it the dress",
+        "options": [
+            "She told me, I need more time to work on it the dress.",
+            "She told me, \u201cI need more time to work on it [the dress].\u201d",
+            "She told me I need more time to work on it [the dress].",
+            "She told me, \u201cI need more time to work on it [the dress]\u201d"
+        ],
+        "result": "She told me, \u201cI need more time to work on it [the dress].\u201d",
+        "explanation": "Explanation:  In the selected sentence, there\u2019s an appropriate use of the comma, quotation mark, and period mark. Brackets have also been used appropriately to indicate the use of additional information in the sentence. "
+    }
+]
